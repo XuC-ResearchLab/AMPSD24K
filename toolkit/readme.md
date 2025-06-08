@@ -1,4 +1,4 @@
-**1. Module Architecture of AutoMATH-Dataset:**
+**Module Architecture of AutoMATH-Dataset:**
 
 Core Processing Modules:<br>
 (1) DataPreprocess.py: Ingests raw datasets with heterogeneous formats and aligns them to a unified schema. It applies filtering strategies based on length, numeric-only inputs, and malformed fields. This ensures input standardization, improves data quality, and prepares clean inputs for downstream processing.<br>
@@ -12,7 +12,3 @@ Configuration and Control Modules<br>
 (2) config_utils.py: Loads and parses the centralized configuration from pipeline_config.ini, supporting section-wise access and automatic type conversion. Promotes separation of configuration and logic, improves reusability, and supports flexible reparameterization.<br>
 (3) log_utils.py: Provides a unified logging interface supporting both console and file outputs, with configurable verbosity. Enhances debuggability, ensures transparent error tracking, and enables consistent monitoring throughout the pipeline.<br>
 <br>
-
-**2. Dataset:**
-
-This toolkit AutoMATH-Dataset generated over 170,000 annotated problems, and for this study, a representative and balanced 24,000 benchmark was sampled using a 2:4:4 ratio across reasoning types for first-phase evaluation.
