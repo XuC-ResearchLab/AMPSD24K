@@ -1,0 +1,1 @@
+This toolkit AutoMATH-Dataset generated over 170,000 annotated problems, and for this study, a representative and balanced 24,000 benchmark was sampled using a 2:4:4 ratio across reasoning types for first-phase evaluation.
