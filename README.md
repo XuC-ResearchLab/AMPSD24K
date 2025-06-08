@@ -1,2 +1,2 @@
-# MPSD-RED
+# AMPSD24K
 dataset and toolkit
