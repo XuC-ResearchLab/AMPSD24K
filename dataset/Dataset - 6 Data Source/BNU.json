@@ -1,0 +1,3498 @@
+{
+    "head": {
+        "name": "BNU",
+        "size": 436,
+        "source": "Textbook published by Beijing Normal University Press in 2018",
+        "original_language": "Chinese"
+    },
+    "body": [
+        {
+            "id": 1,
+            "uid": "da1e05d2ef6311ea88d33413e8a4c977",
+            "zh_text": "乐乐和球球每天上学所走的路程的比是6:7，乐乐家距学校960米，球球家距学校多少米?",
+            "en_text": "The ratio of the distance traveled by Lele and Qiuqiu to school every day is 6: 7, Lelejia is 960 meters away from the school, and how many meters is the distance between Qiqiujia and school?",
+            "equation": "960*7/6",
+            "ans": "1120.0"
+        },
+        {
+            "id": 2,
+            "uid": "da1e2b9aef6311ea88f13413e8a4c977",
+            "zh_text": "在比例尺是1:50000000的地图上，量得广州到上海的距离是2.4cm，广州到上海的实际距离大约是多少千米?",
+            "en_text": "On a map with a scale of 1:50 million, the distance between Guangzhou and Shanghai is 2.4 cm. How many kilometers is the actual distance between Guangzhou and Shanghai?",
+            "equation": "2.4/(1/50000000)/100000",
+            "ans": "1200.0"
+        },
+        {
+            "id": 3,
+            "uid": "da1e2b9bef6311ea88f13413e8a4c977",
+            "zh_text": "一辆客车和一辆货车同时从甲，乙两地相对开出，客车速度是55千米/时，客车速度与货车速度的比是11:10，4小时后两车相遇，甲、乙两地相距多少千米?",
+            "en_text": "A passenger car and a truck drove from A and B at the same time. The speed of the passenger car was 55 km/h, and the ratio of the speed of the passenger car to the speed of the truck was 11: 10. After 4 hours, the two cars met, A and B. How many kilometers are the grounds apart?",
+            "equation": "(55+55*10/11)*4",
+            "ans": "420.0"
+        },
+        {
+            "id": 4,
+            "uid": "da1e2b9cef6311ea88f13413e8a4c977",
+            "zh_text": "有一袋糖果，如果平均分给4只小猴，还剩3块;如果平均分给5只小猴，还缺1块;如果平均分给6只小猴，还缺1块，这袋糖至少有多少块?",
+            "en_text": "If there is a bag of candy, if it is evenly divided among 4 little monkeys, there are 3 pieces left; if it is divided evenly between 5 little monkeys, 1 piece is still missing; if it is divided equally between 6 little monkeys, 1 piece is still missing, this bag of candy is at least How many blocks are there?",
+            "equation": "5*6-1",
+            "ans": "29.0"
+        },
+        {
+            "id": 5,
+            "uid": "da1e2b9def6311ea88f13413e8a4c977",
+            "zh_text": "猴妈妈要把35枝铅笔和42本日记本平均分给孩子们，结果铅笔缺1枝，日记本多2本，最多有几只小猴?",
+            "en_text": "The monkey mother wants to divide 35 pencils and 42 diaries among the children evenly. As a result, one pencil is missing, and there are 2 more diaries. How many monkeys are there at most?",
+            "equation": "7",
+            "ans": "7.0"
+        },
+        {
+            "id": 6,
+            "uid": "da1e2b9eef6311ea88f13413e8a4c977",
+            "zh_text": "书香学校买了80把椅子，花了3040元;又买来14张桌子，花了1470元，照这样计算，买一套桌椅需用多少元?",
+            "en_text": "The scholarship school bought 80 chairs at a cost of 3,040 yuan; bought 14 tables at a cost of 1,470 yuan. Based on this calculation, how much does it cost to buy a set of tables and chairs?",
+            "equation": "3040/80+1470/14",
+            "ans": "143.0"
+        },
+        {
+            "id": 7,
+            "uid": "da1e2b9fef6311ea88f13413e8a4c977",
+            "zh_text": "星星笔行购进了一款新式钢笔，上午卖出1/4，下午卖出2/3，上午和下午一共卖出多少枝?",
+            "en_text": "Xingxing Pen Shop bought a new style pen, sold 0.25 times in the morning and 0.6666666666666666 times in the afternoon. How many pens were sold in the morning and afternoon?",
+            "equation": "1/4+2/3",
+            "ans": "0.9166666666666666"
+        },
+        {
+            "id": 8,
+            "uid": "da1e2ba0ef6311ea88f13413e8a4c977",
+            "zh_text": "星星笔行购进了一款新式钢笔，上午卖出1/4，下午卖出2/3，下午比上午多卖出多少枝?",
+            "en_text": "Star Pen Shop bought a new type of pen, sold 0.25 times in the morning, 0.6666666666666666 times in the afternoon, and how many more pens were sold in the afternoon than in the morning?",
+            "equation": "2/3-1/4",
+            "ans": "0.4166666666666666"
+        },
+        {
+            "id": 9,
+            "uid": "da1e2ba1ef6311ea88f13413e8a4c977",
+            "zh_text": "10岁儿童平均每分心跳大约90次，新生儿平均每分心跳的次数比10岁儿童多50%，新生儿平均每分心跳大约多少次?",
+            "en_text": "The average heartbeat per minute of 10-year-old children is about 90 times, and the average number of heartbeats per minute of newborns is 0.5 times more than that of 10-year-old children.",
+            "equation": "90*(1+50/100)",
+            "ans": "135.0"
+        },
+        {
+            "id": 10,
+            "uid": "da1e2ba2ef6311ea88f13413e8a4c977",
+            "zh_text": "10岁儿童平均每分心跳大约90次，青少年平均每分心跳次数比10岁儿童少20%，青少年平均每分心跳大约多少次?",
+            "en_text": "The average heartbeat per minute of 10-year-old children is about 90 times, and the average heartbeat per minute of adolescents is 0.2 times less than that of 10-year-old children.",
+            "equation": "90*(1-20/100)",
+            "ans": "72.0"
+        },
+        {
+            "id": 11,
+            "uid": "da1e2ba3ef6311ea88f13413e8a4c977",
+            "zh_text": "五洲剧场楼上有215个座位，楼下有758个座位，书香小学共有1000人，能同时观看吗?",
+            "en_text": "Wuzhou Theater has 215 seats upstairs and 758 seats downstairs. There are 1,000 people in Shuxiang Primary School. Can they watch at the same time?",
+            "equation": "1000",
+            "ans": "1000.0"
+        },
+        {
+            "id": 12,
+            "uid": "da1e2ba4ef6311ea88f13413e8a4c977",
+            "zh_text": "实验学校的会议室共18排，每排20个座位，一共有多少个座位?",
+            "en_text": "There are 18 rows of meeting rooms in the experimental school with 20 seats in each row. How many seats are there in total?",
+            "equation": "20*18",
+            "ans": "360.0"
+        },
+        {
+            "id": 13,
+            "uid": "da1e2ba5ef6311ea88f13413e8a4c977",
+            "zh_text": "有一个足球赛场能容纳2万人，在一次青少年足球比赛中，上座率达78%，你知道大约有多少人观看比赛吗?",
+            "en_text": "There is a football stadium that can accommodate 20,000 people. In a youth football match, the attendance rate is 0.78 times. Do you know about how many people watch the game?",
+            "equation": "2*10000*78/100",
+            "ans": "15600.0"
+        },
+        {
+            "id": 14,
+            "uid": "da1e2ba6ef6311ea88f13413e8a4c977",
+            "zh_text": "学校组织988名学生去公园游玩，如果公园的门票每张8元，带8000元钱够不够?",
+            "en_text": "The school organizes 988 students to play in the park. If the park tickets are 8 yuan each, is it enough to bring 8,000 yuan?",
+            "equation": "8000",
+            "ans": "8000.0"
+        },
+        {
+            "id": 15,
+            "uid": "da1e2ba7ef6311ea88f13413e8a4c977",
+            "zh_text": "笑笑的妈妈带100元去超市购物，她买了两袋玉米粉，每袋30.4元，又买了一块牛肉用了19.4元，她还想买一条鱼，请帮助笑笑的妈妈估一估，她带的钱够不够买小鱼?能不能买大鱼?",
+            "en_text": "Xiaoxiao's mother took 100 yuan to the supermarket for shopping. She bought two bags of corn flour at 30.4 yuan each, and bought another piece of beef for 19.4 yuan. She also wanted to buy a fish. Please help Xiaoxiao's mother to estimate , Does she bring enough money to buy small fish? Can she buy big fish?",
+            "equation": "100-(30.4*2+19.4)",
+            "ans": "19.80000000000001"
+        },
+        {
+            "id": 16,
+            "uid": "da1e2ba8ef6311ea88f13413e8a4c977",
+            "zh_text": "李老师写了一篇文章，共7页，每页24行，每行25个字，这篇文章共有多少个字?如果改成每行28个字，每页30行，这篇文章要排多少页?",
+            "en_text": "Teacher Li wrote an article with 7 pages, 24 lines per page and 25 words per line. How many words does this article have? If it is changed to 28 words per line and 30 lines per page, this article will be arranged How many pages?",
+            "equation": "7*24*25/(28*30)",
+            "ans": "5.0"
+        },
+        {
+            "id": 17,
+            "uid": "da1e2ba9ef6311ea88f13413e8a4c977",
+            "zh_text": "拓展训练时，男生和女生各站了6行，其中男生每行12人，女生每行14人，(1)男生和女生一共多少人?(2)女生比男生多多少人?",
+            "en_text": "During the outreach training, boys and girls each stood in 6 rows, of which there were 12 boys in each row and 14 girls in each row. (1) How many boys and girls are there in total? (2) How many more girls are there than boys?",
+            "equation": "6/2-1",
+            "ans": "2.0"
+        },
+        {
+            "id": 18,
+            "uid": "da1e2baaef6311ea88f13413e8a4c977",
+            "zh_text": "六(5)班有男生18人，是女生人数的2/3，六(5)班有女生多少人?",
+            "en_text": "There are 18 boys in class 6 (5), which is 0.6666666666666666 times the number of girls. How many girls are in class 6 (5)?",
+            "equation": "18/(2/3)",
+            "ans": "27.0"
+        },
+        {
+            "id": 19,
+            "uid": "da1e2babef6311ea88f13413e8a4c977",
+            "zh_text": "猎豹是世界上跑得最快的动物，时速能达到110km，比猫的最快时速的2倍还多20km，猫的最快速度是多少?",
+            "en_text": "The cheetah is the fastest animal in the world. It can reach a speed of 110km per hour, which is 20km more than twice the fastest speed of a cat. What is the fastest speed of a cat?",
+            "equation": "(110-20)/2",
+            "ans": "45.0"
+        },
+        {
+            "id": 20,
+            "uid": "da1e2bacef6311ea88f13413e8a4c977",
+            "zh_text": "一种水杯，降价10%后售价是28.8元，原价是多少元?",
+            "en_text": "A kind of water cup, the price is 28.8 yuan after the price is reduced by 0.1 times, how much is the original price?",
+            "equation": "28.8/(1-10/100)",
+            "ans": "32.0"
+        },
+        {
+            "id": 21,
+            "uid": "da1e2badef6311ea88f13413e8a4c977",
+            "zh_text": "小明家原来的住房面积是60平方米，现在的住房面积比原来大3/5，现在的住房面积是多少平方米?",
+            "en_text": "The original housing area of ​​Xiaoming's house was 60 square meters. The current housing area is 0.6 times larger than the original. What is the current housing area?",
+            "equation": "60*(1+3/5)",
+            "ans": "96.0"
+        },
+        {
+            "id": 22,
+            "uid": "da1e2baeef6311ea88f13413e8a4c977",
+            "zh_text": "学校要进行团体操表演，如果排30列，每行24人，如果排12列，每行要排多少人?",
+            "en_text": "The school has to perform group gymnastics performances. If there are 30 columns, there are 24 people in each row, and if there are 12 columns, how many people do you have in each row?",
+            "equation": "30*24/12",
+            "ans": "60.0"
+        },
+        {
+            "id": 23,
+            "uid": "da1e2bafef6311ea88f13413e8a4c977",
+            "zh_text": "印刷厂装订图书，4小时装订了320本图书，照这样的速度，7小时能装订多少本图书?",
+            "en_text": "The printing factory binds books and binds 320 books in 4 hours. At this speed, how many books can be bound in 7 hours?",
+            "equation": "320/4*7",
+            "ans": "560.0"
+        },
+        {
+            "id": 24,
+            "uid": "da1e2bb0ef6311ea88f13413e8a4c977",
+            "zh_text": "一个人平均每天的睡眠时间大约8小时，如果一个人的寿命按照60年(一年365天)计算，那么这个人一生中有几年的时间为睡眠时间?",
+            "en_text": "An average person sleeps about 8 hours a day. If a person's life span is calculated as 60 years (365 days a year), then how many years of this person's life is sleep time?",
+            "equation": "24*365-60",
+            "ans": "8700.0"
+        },
+        {
+            "id": 25,
+            "uid": "da1e528cef6311ea88fb3413e8a4c977",
+            "zh_text": "奥运会每4年举办一次，2008年北京奥运会是第二十九届，那么第三十五届奥运会在哪一年举办?",
+            "en_text": "The Olympic Games are held every 4 years. The 2008 Beijing Olympic Games is the 29th. So in what year will the 35th Olympic Games be held?",
+            "equation": "2008+(25-29)*4",
+            "ans": "1992.0"
+        },
+        {
+            "id": 26,
+            "uid": "da1e528def6311ea88fb3413e8a4c977",
+            "zh_text": "停车场1小时内收费9.5元，超过1小时按0.5元每小时收，李叔叔交了14.5元，他在这个停车场停车几小时?",
+            "en_text": "The parking lot charges 9.5 yuan within 1 hour. For more than 1 hour, I pay 14.5 yuan for every 0.5 hour Uncle Li. How many hours does he park in this parking lot?",
+            "equation": "(14.5-9.5)/0.5+1",
+            "ans": "11.0"
+        },
+        {
+            "id": 27,
+            "uid": "da1e528eef6311ea88fb3413e8a4c977",
+            "zh_text": "一个圆锥形钢质零件，它的底面直径是10cm，高是直径的4/5，如果每立方厘米的钢材的质量为7.8g，这个零件的质量是多少克?",
+            "en_text": "A conical steel part, its bottom diameter is 10cm, and its height is 0.8 times the diameter. If the mass of steel per cubic centimeter is 7.8g, how many grams is the mass of this part?",
+            "equation": "1/3*3.14*(10/2)**2*10*4/(10/2)*7.8",
+            "ans": "1632.7999999999995"
+        },
+        {
+            "id": 28,
+            "uid": "da1e528fef6311ea88fb3413e8a4c977",
+            "zh_text": "果园里有30棵桃树，比梨树的棵树少3/5，梨树有多少棵?",
+            "en_text": "There are 30 peach trees in the orchard, 0.6 times fewer than pear trees. How many pear trees are there?",
+            "equation": "30/(1-3/5)",
+            "ans": "75.0"
+        },
+        {
+            "id": 29,
+            "uid": "da1e5290ef6311ea88fb3413e8a4c977",
+            "zh_text": "球球有2元和5元两种人民币若干张，他要拿37元，有多少种不同的拿法?",
+            "en_text": "There are 2 yuan and 5 yuan for the ball. He wants to get 37 yuan. How many different ways are there?",
+            "equation": "4",
+            "ans": "4.0"
+        },
+        {
+            "id": 30,
+            "uid": "da1e5291ef6311ea88fb3413e8a4c977",
+            "zh_text": "吃饭时，同学们把正方形的桌子拼放在一起，一张正方形桌子能围坐8人，两张正方形桌子能围坐12人，如果6张桌子拼在一起，能围坐多少人?",
+            "en_text": "When eating, the students put together square tables. One square table can seat 8 people, and two square tables can seat 12 people. If 6 tables are put together, how many people can sit around?",
+            "equation": "4*6+4",
+            "ans": "28.0"
+        },
+        {
+            "id": 31,
+            "uid": "da1e5292ef6311ea88fb3413e8a4c977",
+            "zh_text": "乐乐在一座宝塔的底层，发现有一张字条告诉她再登多少级台阶有藏宝图:“比125大，小于180;5个5个地数，没有剩余;又是4和8的倍数，”乐乐再登多少级台阶才能找到藏宝图?",
+            "en_text": "Lele was on the bottom of a pagoda and found a note telling her how many steps to climb there is a treasure map: greater than 125 and less than 180; 5 of 5 plots, no remaining; it is a multiple of 4 and 8, Le How many steps can you climb to find the treasure map?",
+            "equation": "120",
+            "ans": "120.0"
+        },
+        {
+            "id": 32,
+            "uid": "da1e5293ef6311ea88fb3413e8a4c977",
+            "zh_text": "停车场有四轮汽车和两轮摩托车，一共有42个轮子，可能有几辆车?",
+            "en_text": "There are four-wheeled cars and two-wheeled motorcycles in the parking lot. There are a total of 42 wheels. How many cars might there be?",
+            "equation": "42/(4+2)*4",
+            "ans": "28.0"
+        },
+        {
+            "id": 33,
+            "uid": "da1e5294ef6311ea88fb3413e8a4c977",
+            "zh_text": "有32支足球队参加比赛，比赛以单场淘汰制(每场比赛淘汰1支球队)进行，一共要进行多少场比赛后才能产生冠军?",
+            "en_text": "There are 32 football teams participating in the game. The game is played in a single elimination system (one team is eliminated in each game). How many games will it take to produce a championship?",
+            "equation": "32-1",
+            "ans": "31.0"
+        },
+        {
+            "id": 34,
+            "uid": "da1e5295ef6311ea88fb3413e8a4c977",
+            "zh_text": "学校购买20个足球和18个排球共用990元，足球每个售价27元，排球每个售价多少元?",
+            "en_text": "The school buys 20 footballs and 18 volleyballs for a total of 990 yuan, and the price of each football is 27 yuan. How much is the price of volleyball each?",
+            "equation": "(990-27*20)/18",
+            "ans": "25.0"
+        },
+        {
+            "id": 35,
+            "uid": "da1e5296ef6311ea88fb3413e8a4c977",
+            "zh_text": "我国《国旗法》规定，国旗的长和宽的比是3:2，一面国旗长是1.92m，它的宽应是多少米?",
+            "en_text": "my country's National Flag Law stipulates that the ratio of the length and width of the national flag is 3:2, and the length of a national flag is 1.92m. How many meters should it be?",
+            "equation": "1.92/3*2",
+            "ans": "1.28"
+        },
+        {
+            "id": 36,
+            "uid": "da1e5297ef6311ea88fb3413e8a4c977",
+            "zh_text": "一辆汽车从甲地开往乙地，第一小时行了全程的3/8，第二小时行了45km，还剩全程的2/5，两地相距多少千米?",
+            "en_text": "A car drove from place A to place B. It traveled 0.375 times the entire distance in the first hour, and 45 km in the second hour, leaving 0.4 times the entire distance. How many kilometers are the distance between the two places?",
+            "equation": "45/(1-3/8-2/5)",
+            "ans": "200.00000000000003"
+        },
+        {
+            "id": 37,
+            "uid": "da1e5298ef6311ea88fb3413e8a4c977",
+            "zh_text": "一个圆锥形沙堆底面积是3.6平方米，高是2m，将这些沙子铺在一个长3m，宽2m的沙坑里，能铺多厚?",
+            "en_text": "The bottom area of ​​a conical sand pile is 3.6 square meters and the height is 2 meters. How thick can the sand be spread in a sand pit with a length of 3 meters and a width of 2 meters?",
+            "equation": "1/3*3.6*2/(3*2)",
+            "ans": "0.4"
+        },
+        {
+            "id": 38,
+            "uid": "da1e5299ef6311ea88fb3413e8a4c977",
+            "zh_text": "球球用108cm长的铁丝制作了一个长方体框架，长、宽、高的比是4:3:2，这个长方体框架的长、宽、高分别是多少厘米?",
+            "en_text": "The ball is made of a cuboid frame with 108 cm long iron wire. The ratio of length, width and height is 4:3: 2. What are the length, width and height of the cuboid frame?",
+            "equation": "108/4*4/(4+3+2)",
+            "ans": "12.0"
+        },
+        {
+            "id": 39,
+            "uid": "da1e529aef6311ea88fb3413e8a4c977",
+            "zh_text": "修路队修一条路，第一天修了全长2/5，第二天修了150m，正好是余下的1/3，这条路全长多少米?",
+            "en_text": "The road repair team built a road. The length of the road was 0.4 times on the first day and 150 m on the second day, which was exactly 0.3333333333333333 times the remaining length.",
+            "equation": "(150/(1/3)+150)/(1-2/5)",
+            "ans": "1000.0"
+        },
+        {
+            "id": 40,
+            "uid": "da1e529bef6311ea88fb3413e8a4c977",
+            "zh_text": "向阳小学六年级有男生150人，女生比男生少8%，六年级共有学生多少人?",
+            "en_text": "There are 150 boys in the sixth grade of Xiangyang Primary School, and there are 0.08 times fewer girls than boys. How many students are there in the sixth grade?",
+            "equation": "150*(1-8/100)+150",
+            "ans": "288.0"
+        },
+        {
+            "id": 41,
+            "uid": "da1e529cef6311ea88fb3413e8a4c977",
+            "zh_text": "赵叔叔写一篇文章稿费是3500元，超出800元的部分要按14%缴纳个人所得税，赵叔叔实际领取稿费多少元?",
+            "en_text": "The manuscript fee for an article written by Uncle Zhao is 3,500 yuan, and the part exceeding 800 yuan must be paid 0.14 times the personal income tax. How much does Uncle Zhao actually receive the manuscript fee?",
+            "equation": "3500-(3500-800)*14/100",
+            "ans": "3122.0"
+        },
+        {
+            "id": 42,
+            "uid": "da1e529def6311ea88fb3413e8a4c977",
+            "zh_text": "六(1)班2名带队老师和55名同学到动物园参观，成人:8元/人，学生:5元/人，60人以上可购团体票，享受八五折优惠，按照个人和团体两种方式购买，哪种更合算?可以节省多少元?",
+            "en_text": "Six (1) class 2 teachers and 55 students to visit the zoo, adults: 8 yuan/person, students: 5 yuan/person, group tickets for more than 60 people can be purchased, enjoy a 15% discount, according to individuals and groups Which of the two ways to buy is more cost-effective? How much can you save?",
+            "equation": "8*2+5*55-(8*2+5*55)*85/100",
+            "ans": "43.65000000000001"
+        },
+        {
+            "id": 43,
+            "uid": "da1e529eef6311ea88fb3413e8a4c977",
+            "zh_text": "六年级有学生180人，六(1)班的学生人数是六年级学生总人数的1/5，六(2)班的学生人数是六(1)班学生人数的5/6，六(2)班有学生多少人?",
+            "en_text": "There are 180 students in the sixth grade, the number of students in the sixth (1) class is 0.2 times the total number of students in the sixth grade, the number of students in the sixth (2) class is 0.8333333333333334 times the number of students in the sixth (1), and the sixth (2) class How many students are there?",
+            "equation": "180*1/5*5/6",
+            "ans": "30.0"
+        },
+        {
+            "id": 44,
+            "uid": "da1e529fef6311ea88fb3413e8a4c977",
+            "zh_text": "球球有48支彩笔，淘气的彩笔数量是球球的5/6，奇思的彩笔数量是淘气的3/4，奇思有多少支彩笔?",
+            "en_text": "Qiuqiu has 48 crayons. The number of naughty crayons is 0.8333333333333334 times that of Qiuqiu. The number of Qisi's crayons is 0.75 times that of Qiuqi. How many crayons does Qisi have?",
+            "equation": "48*5/6*3/4",
+            "ans": "30.0"
+        },
+        {
+            "id": 45,
+            "uid": "da1e52a0ef6311ea88fb3413e8a4c977",
+            "zh_text": "修路队要在海景公园内修一条游客通道，已经修了1000米，恰好是整条通道长度的5/6，整条通道长多少米?",
+            "en_text": "The road repair team wants to repair a tourist passage in the Seaview Park. It has already repaired 1,000 meters, which is exactly 0.8333333333333334 times the length of the entire passage. How long is the entire passage in meters?",
+            "equation": "1000/(5/6)",
+            "ans": "1200.0"
+        },
+        {
+            "id": 46,
+            "uid": "da1e52a1ef6311ea88fb3413e8a4c977",
+            "zh_text": "白兔兄弟收了240棵白菜，第一天运走了2/3，其中2/5是弟弟运的，第一天弟弟运了多少棵白菜?",
+            "en_text": "Brother White Rabbit received 240 cabbage, and shipped 0.6666666666666666 times on the first day, 0.4 times of which was shipped by the younger brother. How many cabbage was shipped by the younger brother on the first day?",
+            "equation": "240*2/3*2/5",
+            "ans": "64.0"
+        },
+        {
+            "id": 47,
+            "uid": "da1e52a2ef6311ea88fb3413e8a4c977",
+            "zh_text": "化工厂要生产360箱香皂，已经生产了3/4，还要再生产多少箱才能完成任务?",
+            "en_text": "The chemical plant has to produce 360 ​​boxes of soap, which has been produced 0.75 times, how many more boxes must be produced to complete the task?",
+            "equation": "360*(1-3/4)",
+            "ans": "90.0"
+        },
+        {
+            "id": 48,
+            "uid": "da1e52a3ef6311ea88fb3413e8a4c977",
+            "zh_text": "新华书店新进700本《童话故事》，上午卖出总数的1/5，下午卖出总数的3/7号，上午比下午少卖出多少本?",
+            "en_text": "Xinhua Bookstore newly entered 700 copies of \"Fairy Tales\", 0.2 times the total number sold in the morning, and 0.42857142857142855 times the total number sold in the afternoon. How many copies were sold less in the morning than in the afternoon?",
+            "equation": "700*(3/7-1/5)",
+            "ans": "159.99999999999997"
+        },
+        {
+            "id": 49,
+            "uid": "da1e52a4ef6311ea88fb3413e8a4c977",
+            "zh_text": "书香小屋计划十一月份用煤16吨，实际比计划节约了1/8吨，实际用煤多少吨?",
+            "en_text": "Shuxiang Hut plans to use 16 tons of coal in November, which actually saves 0.125 tons of coal than planned. How many tons of coal is actually used?",
+            "equation": "16-1/8",
+            "ans": "15.875"
+        },
+        {
+            "id": 50,
+            "uid": "da1e52a5ef6311ea88fb3413e8a4c977",
+            "zh_text": "书香小屋计划十一月份用煤16吨，实际比计划节约了1/8，实际用煤多少吨?",
+            "en_text": "Shuxiang Hut plans to use 16 tons of coal in November, which is actually 0.125 times less than planned. How many tons of coal is actually used?",
+            "equation": "16*(1-1/8)",
+            "ans": "14.0"
+        },
+        {
+            "id": 51,
+            "uid": "da1e52a6ef6311ea88fb3413e8a4c977",
+            "zh_text": "乐乐读一本书，第一天读了20页，第二天读的页数是第一天的9/10，两天共读了这本书的19/40，这本书一共有多少页?",
+            "en_text": "Lele read a book, read 20 pages on the first day, and the number of pages read on the second day was 0.9 times that of the first day. After reading this book in two days, he read 0.475 times. How many pages does this book have?",
+            "equation": "(20+20*9/10)/(19/40)",
+            "ans": "80.0"
+        },
+        {
+            "id": 52,
+            "uid": "da1e52a7ef6311ea88fb3413e8a4c977",
+            "zh_text": "新乡果园今年种了360棵梨树，比桃树少1/4，桃树有多少棵?",
+            "en_text": "Xinxiang Orchard has planted 360 pear trees this year, 0.25 times fewer than peach trees. How many peach trees are there?",
+            "equation": "360/(1-1/4)",
+            "ans": "480.0"
+        },
+        {
+            "id": 53,
+            "uid": "da1e52a8ef6311ea88fb3413e8a4c977",
+            "zh_text": "一辆汽车从A城开往B城，已经行驶了全程的5/8，还剩下144千米，A、B两城相距多少千米?",
+            "en_text": "A car drove from City A to City B. It has traveled 0.625 times the entire distance, and 144 kilometers are left. How many kilometers are the distance between cities A and B?",
+            "equation": "144/(1-5/8)",
+            "ans": "384.0"
+        },
+        {
+            "id": 54,
+            "uid": "da1e52a9ef6311ea88fb3413e8a4c977",
+            "zh_text": "有一批煤，上午运走240吨，下午运走300吨，还剩下总数的5/9，这批煤共有多少吨?",
+            "en_text": "There is a batch of coal, 240 tons were transported in the morning and 300 tons in the afternoon, leaving 0.5555555555555556 times the total. How many tons of coal are in this batch?",
+            "equation": "(240+300)/(1-5/9)",
+            "ans": "1215.0"
+        },
+        {
+            "id": 55,
+            "uid": "da1e7982ef6311ea89043413e8a4c977",
+            "zh_text": "希望小学一年级有学生68人，一年级学生人数比二年级的学生人数少1/5，二年级有学生多少人?",
+            "en_text": "It is hoped that there will be 68 students in the first grade, and the number of students in the first grade is 0.2 times less than the number of students in the second grade. How many students are there in the second grade?",
+            "equation": "68/(1-1/5)",
+            "ans": "85.0"
+        },
+        {
+            "id": 56,
+            "uid": "da1e7983ef6311ea89043413e8a4c977",
+            "zh_text": "一个车间的地面是长方形，长是25米，宽是长的4/5，这个车间的占地面积是多少?",
+            "en_text": "The floor of a workshop is rectangular, with a length of 25 meters and a width of 0.8 times the length. What is the floor area of ​​this workshop?",
+            "equation": "25*25*4/5",
+            "ans": "500.0"
+        },
+        {
+            "id": 57,
+            "uid": "da1e7984ef6311ea89043413e8a4c977",
+            "zh_text": "某公园有杨树80棵，柳数50棵，柳树的棵数相当于杨树的百分之几?",
+            "en_text": "There are 80 poplar trees in a park, and 50 willows. What percentage of the number of willow trees is equivalent to that of poplars?",
+            "equation": "50/80",
+            "ans": "0.625"
+        },
+        {
+            "id": 58,
+            "uid": "da1e7985ef6311ea89043413e8a4c977",
+            "zh_text": "某公园有杨树80棵，柳数50棵，杨树比柳树多百分之几?",
+            "en_text": "There are 80 poplar trees and 50 willows in a certain park. What percentage of the poplars are more than the willows?",
+            "equation": "(80-50)/50",
+            "ans": "0.6"
+        },
+        {
+            "id": 59,
+            "uid": "da1e7986ef6311ea89043413e8a4c977",
+            "zh_text": "某公园有杨树80棵，柳数50棵，柳树的棵数占杨树和柳树总棵树的百分之几?(百分号前保留一位小数)",
+            "en_text": "A certain park has 80 poplar trees and 50 willows. What percentage of the total number of poplars and willows is the number of willows? (Leave one decimal place before the percent sign)",
+            "equation": "50/(80+50)",
+            "ans": "0.38461538461538464"
+        },
+        {
+            "id": 60,
+            "uid": "da1e7987ef6311ea89043413e8a4c977",
+            "zh_text": "某公园有杨树80棵，柳数50棵，柳树比杨树少百分之几?",
+            "en_text": "There are 80 poplar trees and 50 willows in a certain park. What percentage of the willow trees are less than poplars?",
+            "equation": "(80-50)/80",
+            "ans": "0.375"
+        },
+        {
+            "id": 61,
+            "uid": "da1e7988ef6311ea89043413e8a4c977",
+            "zh_text": "六年级有180人，未达到国家体育锻炼标准的有15人，求达标率，(百分号前保留一位小数)",
+            "en_text": "There are 180 people in the sixth grade, and 15 people who do not meet the national physical exercise standards. Seek the rate of compliance (with one decimal place before the percent sign)",
+            "equation": "(180-15)/180*100/100",
+            "ans": "0.9166666666666664"
+        },
+        {
+            "id": 62,
+            "uid": "da1e7989ef6311ea89043413e8a4c977",
+            "zh_text": "果园里有果树500棵，其中48%是苹果树，25%是梨树，苹果树和梨树各有多少棵?",
+            "en_text": "There are 500 fruit trees in the orchard, of which 0.48 times are apple trees and 0.25 times are pear trees. How many apple trees and pear trees are there?",
+            "equation": "500*(48/100+25/100)",
+            "ans": "365.0"
+        },
+        {
+            "id": 63,
+            "uid": "da1e798aef6311ea89043413e8a4c977",
+            "zh_text": "某学校六年级有学生160人，75%达到国家体育锻炼标准，达到标准的有多少人?",
+            "en_text": "There are 160 students in the sixth grade of a school, 0.75 times the national physical exercise standard, how many people meet the standard?",
+            "equation": "160*75/100",
+            "ans": "120.0"
+        },
+        {
+            "id": 64,
+            "uid": "da1e798bef6311ea89043413e8a4c977",
+            "zh_text": "地球表面积为5.1亿平方千米，其中海洋面积约占地球表面积的70.8%，陆地面积约占地球表面积的29.2%，海洋面积约是多少?陆地面积约是多少?",
+            "en_text": "The earth's surface area is 510 million square kilometers, of which the ocean area accounts for about 0.708 times the earth's surface area, and the land area accounts for about 0.292 times the earth's surface area. What is the ocean area? What is the land area?",
+            "equation": "5.1*29.2/100",
+            "ans": "1.4892"
+        },
+        {
+            "id": 65,
+            "uid": "da1e798cef6311ea89043413e8a4c977",
+            "zh_text": "一根绳子长24米，剪去全长的65%，剪去多少米?",
+            "en_text": "A rope is 24 meters long, cut 0.65 times the length, how many meters is cut?",
+            "equation": "24*65/100",
+            "ans": "15.6"
+        },
+        {
+            "id": 66,
+            "uid": "da1e798def6311ea89043413e8a4c977",
+            "zh_text": "足球上的黑色皮都是五边形，白色皮都是六边形，白色皮有20块，黑色皮比白色皮少2/5，黑色皮有多少块?",
+            "en_text": "The black leathers on the football are all pentagons, the white leathers are all hexagons, the white leather has 20 pieces, and the black leather is 0.4 times less than the white leather. How many pieces does the black leather have?",
+            "equation": "20*(1-2/5)",
+            "ans": "12.0"
+        },
+        {
+            "id": 67,
+            "uid": "da1e798eef6311ea89043413e8a4c977",
+            "zh_text": "展览大厅有4根圆柱，底面直径是1m，高5m，在这些圆柱表面刷油漆，平均每平方米需要0.8千克，一共需要多少千克油漆?",
+            "en_text": "There are 4 columns in the exhibition hall, the bottom diameter is 1 m, and the height is 5 m. Painting on the surface of these columns requires 0.8 kilograms per square meter on average. How many kilograms of paint are needed in total?",
+            "equation": "0.8*3.14*1*5*4",
+            "ans": "50.24000000000001"
+        },
+        {
+            "id": 68,
+            "uid": "da1e798fef6311ea89043413e8a4c977",
+            "zh_text": "一堆圆锥形黄沙，底面周长是25.12m，高2m，如果每立方米黄沙重1.5吨，这堆黄沙共重多少吨?",
+            "en_text": "A pile of cone-shaped yellow sand, the circumference of the bottom surface is 25.12 m, and the height is 2m. If each cubic meter of yellow sand weighs 1.5 tons, how many tons of yellow sand does the pile weigh?",
+            "equation": "1/3*3.14*(25.12/3.14/2)**2*2*1.5",
+            "ans": "50.24"
+        },
+        {
+            "id": 69,
+            "uid": "da1e7990ef6311ea89043413e8a4c977",
+            "zh_text": "一个圆柱形鱼池，底面直径是10m，深2m，如果每分钟向池中注水4m，0.5小时能将鱼池注满吗?",
+            "en_text": "A cylindrical fish pond with a bottom diameter of 10m and a depth of 2m. If water is poured into the pond 4m per minute, can the fish pond be filled in 0.5 hours?",
+            "equation": "0.5",
+            "ans": "0.5"
+        },
+        {
+            "id": 70,
+            "uid": "da1e7991ef6311ea89043413e8a4c977",
+            "zh_text": "建造一个长50m、宽30m、深2m的游泳池，这个游泳池的占地面积是多少平方米?",
+            "en_text": "Build a swimming pool with a length of 50m, a width of 30m, and a depth of 2m. What is the area of ​​the swimming pool?",
+            "equation": "50*30",
+            "ans": "1500.0"
+        },
+        {
+            "id": 71,
+            "uid": "da1e7992ef6311ea89043413e8a4c977",
+            "zh_text": "建造一个长50m、宽30m、深2m的游泳池，在游泳池四周和底面贴上边长为4dm的正方形瓷砖，瓷砖需要多少块?",
+            "en_text": "To build a swimming pool with a length of 50m, a width of 30m, and a depth of 2m, square tiles with a side length of 4 dm are attached to the surrounding and bottom of the swimming pool. How many tiles are needed?",
+            "equation": "((50*30+50*2+30*2)*2-50*30)/(4/10*4/10)",
+            "ans": "11375.0"
+        },
+        {
+            "id": 72,
+            "uid": "da1e7993ef6311ea89043413e8a4c977",
+            "zh_text": "建造一个长50m、宽30m、深2m的游泳池，沿游泳池的内壁1.5m处用漆画一条水位线，水位线全长多少米?",
+            "en_text": "Build a swimming pool with a length of 50m, a width of 30m, and a depth of 2m. A water level line is drawn with paint along the inner wall of the swimming pool at a distance of 1.5 m. How many meters is the length of the water level line?",
+            "equation": "(50+30)*2",
+            "ans": "160.0"
+        },
+        {
+            "id": 73,
+            "uid": "da1e7994ef6311ea89043413e8a4c977",
+            "zh_text": "建造一个长50m、宽30m、深2m的游泳池，沿游泳池的内壁1.5m处用漆画一条水位线，按水位线进水，游泳池内能存多少水?",
+            "en_text": "Build a swimming pool with a length of 50m, a width of 30m, and a depth of 2m. A water level line is drawn with paint along the inner wall of the swimming pool at a distance of 1.5 m, and water is fed according to the water level line. How much water can be stored in the swimming pool?",
+            "equation": "(50*30+50*2+30*2)/2*1.5",
+            "ans": "1245.0"
+        },
+        {
+            "id": 74,
+            "uid": "da1e7995ef6311ea89043413e8a4c977",
+            "zh_text": "球球用108cm长的铁丝制作了一个长方体框架，长、宽、高的比是4:3:2，如果将这个框架的四周贴一圈彩色纸，至少需要多少彩纸?",
+            "en_text": "The ball is made of a rectangular parallelepiped frame with 108 cm long iron wire. The ratio of length, width, and height is 4:3: 2.If a circle of colored paper is pasted around the frame, how much colored paper is required at least?",
+            "equation": "108/4*4/(4+3+2)*108/4*3/(4+3+2)*108/4*2/(4+3+2)",
+            "ans": "648.0"
+        },
+        {
+            "id": 75,
+            "uid": "da1e7996ef6311ea89043413e8a4c977",
+            "zh_text": "一辆电瓶车车轮的直径是0.5米，如果这辆电瓶车车轮每分钟转300圈，那么这辆电瓶车每分钟可以行驶多少米?",
+            "en_text": "The diameter of a battery car wheel is 0.5 meters. If the battery car wheel rotates 300 times per minute, how many meters can the battery car travel per minute?",
+            "equation": "3.14*0.5*300",
+            "ans": "471.0"
+        },
+        {
+            "id": 76,
+            "uid": "da1e7997ef6311ea89043413e8a4c977",
+            "zh_text": "呼啦圈的半径是0.35米，球球把它沿直线在地上滚动了8周，呼啦圈滚动了多少米?",
+            "en_text": "The radius of the hula hoop is 0.35 meters. The ball rolled it on the ground in a straight line for 8 weeks. How many meters did the hula hoop roll?",
+            "equation": "2*3.14*0.35*8",
+            "ans": "17.584"
+        },
+        {
+            "id": 77,
+            "uid": "da1e7998ef6311ea89043413e8a4c977",
+            "zh_text": "李爷爷家有一块圆形菜地，周长是15.7米，他想在菜地周围加宽2米，加宽后菜地的周长是多少米?",
+            "en_text": "Grandpa Li has a circular vegetable field with a circumference of 15.7 meters. He wants to widen the vegetable field by 2 meters. After widening, how many meters will the vegetable field be?",
+            "equation": "15.7+2*2",
+            "ans": "19.7"
+        },
+        {
+            "id": 78,
+            "uid": "da1e7999ef6311ea89043413e8a4c977",
+            "zh_text": "用一根7米长的绳子绕大厅柱子2圈后还剩0.72米，这根柱子的占地面积是多少平方米?",
+            "en_text": "After using a 7-meter-long rope to loop around the hall column 2 times, there is still 0.72 meters. What is the area of ​​this column?",
+            "equation": "3.14*(7-0.72)/2/3.14/2**2",
+            "ans": "0.785"
+        },
+        {
+            "id": 79,
+            "uid": "da1e799aef6311ea89043413e8a4c977",
+            "zh_text": "用一根铁丝正好可以围成直径是16厘米的圆，如果用它围成一个正方形，正方形的边长是多少厘米?",
+            "en_text": "An iron wire can be used to form a circle with a diameter of 16 cm. If it is used to form a square, how many centimeters are the sides of the square?",
+            "equation": "3.14*16/4",
+            "ans": "12.56"
+        },
+        {
+            "id": 80,
+            "uid": "da1e799bef6311ea89043413e8a4c977",
+            "zh_text": "乐乐和球球从圆形场地的同一地点同时出发，沿着场地的边线相背而行，2分钟后两人相遇，乐乐每分钟走72米，球球每分钟走85米，这个圆形场地的直径是多少米?",
+            "en_text": "Lele and the ball set off from the same place on the round court at the same time, and walked away from each other along the sideline of the court. Two minutes later, the two met. Lele walked 72 meters per minute and the ball walked 85 meters per minute. What is the diameter of the shaped site?",
+            "equation": "(72+85)*2/3.14",
+            "ans": "100.0"
+        },
+        {
+            "id": 81,
+            "uid": "da1e799cef6311ea89043413e8a4c977",
+            "zh_text": "乐乐和球球从圆形场地的同一地点同时出发，沿着场地的边线相背而行，2分钟后两人相遇，乐乐每分钟走72米，球球每分钟走85米，这个圆形场地的占地面积是多少平方米?",
+            "en_text": "Lele and the ball set off from the same place on the round court at the same time, and walked back to each other along the sideline of the court. Two minutes later, the two met. Lele walked 72 meters per minute and the ball walked 85 meters per minute. How many square meters does the shaped site cover?",
+            "equation": "(72+85)*2/3.14*(72*2/3.14/2)**2",
+            "ans": "52578.19789849487"
+        },
+        {
+            "id": 82,
+            "uid": "da1e799def6311ea89043413e8a4c977",
+            "zh_text": "一个长方体的长是120厘米，宽是长的1/4，高是宽的3/5，这个长方体的体积是多少?",
+            "en_text": "The length of a cuboid is 120 cm, the width is 0.25 times the length, and the height is 0.6 times the width. What is the volume of this cuboid?",
+            "equation": "120*120*1/4*120*3/5",
+            "ans": "259200.0"
+        },
+        {
+            "id": 83,
+            "uid": "da1e799eef6311ea89043413e8a4c977",
+            "zh_text": "一块长方形广告牌的长是5/2米，宽是长的3/5，这块广告牌的面积是多少?",
+            "en_text": "The length of a rectangular billboard is 2.5 times the meter and the width is 0.6 times the length. What is the area of ​​this billboard?",
+            "equation": "5/2*3/5*5/2",
+            "ans": "3.75"
+        },
+        {
+            "id": 84,
+            "uid": "da1e799fef6311ea89043413e8a4c977",
+            "zh_text": "一间长方体教室宽5.4米，长比宽多1/3，这间教室的面积是多少平方米?",
+            "en_text": "A cuboid classroom is 5.4 meters wide and its length is 0.3333333333333333 times longer than its width. What is the area of ​​this classroom?",
+            "equation": "5.4*(1+1/3)*5.4",
+            "ans": "38.88"
+        },
+        {
+            "id": 85,
+            "uid": "da1ea076ef6311ea890e3413e8a4c977",
+            "zh_text": "一根绳子长24米，剪去全长的65%，剪去多少米?",
+            "en_text": "A rope is 24 meters long, cut 0.65 times the length, how many meters is cut?",
+            "equation": "24*65/100",
+            "ans": "15.6"
+        },
+        {
+            "id": 86,
+            "uid": "da1ea077ef6311ea890e3413e8a4c977",
+            "zh_text": "足球上的黑色皮都是五边形，白色皮都是六边形，白色皮有20块，黑色皮比白色皮少2/5，黑色皮有多少块?",
+            "en_text": "The black leathers on the football are all pentagons, the white leathers are all hexagons, the white leather has 20 pieces, and the black leather is 0.4 times less than the white leather. How many pieces does the black leather have?",
+            "equation": "20*(1-2/5)",
+            "ans": "12.0"
+        },
+        {
+            "id": 87,
+            "uid": "da1ea078ef6311ea890e3413e8a4c977",
+            "zh_text": "一捆电线，用了25%，正好用了63米，这捆电线原来长多少米?",
+            "en_text": "A bundle of wires was used 0.25 times, and it took exactly 63 meters. How long was this bundle of wires originally?",
+            "equation": "63/(25/100)",
+            "ans": "252.0"
+        },
+        {
+            "id": 88,
+            "uid": "da1ea079ef6311ea890e3413e8a4c977",
+            "zh_text": "蜻蜓约有4500种，占昆虫种类的0.45%，昆虫约有多少种?",
+            "en_text": "There are about 4500 species of dragonflies, which account for 0.0045000000000000005 times the number of insect species.How many species are there?",
+            "equation": "4500/(0.45/100)",
+            "ans": "1000000.0"
+        },
+        {
+            "id": 89,
+            "uid": "da1ea07aef6311ea890e3413e8a4c977",
+            "zh_text": "星星饭店购进蔬菜50千克，其中西红柿占总量的24%，白菜占总量的30%，豆角占总量的16%，辣椒占总量的12%，黄瓜占总量的18%各种蔬菜分别购进多少千克?",
+            "en_text": "The Star Hotel purchased 50 kilograms of vegetables, of which tomatoes accounted for 0.24 times of the total, cabbage accounted for 0.3 times of the total, beans accounted for 0.16 times of the total, peppers accounted for 0.12 times of the total, and cucumbers accounted for 0.18 times of the total. How many kilograms of vegetables were purchased?",
+            "equation": "50*(24/100+30/100+16/100+12/100+18/100)",
+            "ans": "50.0"
+        },
+        {
+            "id": 90,
+            "uid": "da1ea07bef6311ea890e3413e8a4c977",
+            "zh_text": "球球看一本240页的小说，第一周看了全书的1/4，第二周看的页数是第一周的4/5，(1)第二周看了多少页?(2)还剩多少页没有看?",
+            "en_text": "Qiuqiu looked at a 240-page novel. In the first week, he read 0.25 times of the whole book. In the second week, he read 0.8 times the number of pages in the first week. (1) How many pages did he read in the second week? (2) Also How many pages are left unread?",
+            "equation": "240-240*1/4-240*1/4*4/5",
+            "ans": "132.0"
+        },
+        {
+            "id": 91,
+            "uid": "da1ea07cef6311ea890e3413e8a4c977",
+            "zh_text": "在一次书画比赛中，六年级有36人获奖，占全校参赛人数的24%，全校共有多少人参赛?",
+            "en_text": "In a calligraphy and painting competition, 36 people in the sixth grade won, accounting for 0.24 times the number of participants in the school. How many people participated in the school?",
+            "equation": "36/(24/100)",
+            "ans": "150.0"
+        },
+        {
+            "id": 92,
+            "uid": "da1ea07def6311ea890e3413e8a4c977",
+            "zh_text": "新山乡去年植树造林125公顷，今年植树造林的面积比去年增加了1/25，今年植树造林多少公顷?",
+            "en_text": "In Xinshan Township, 125 hectares of afforestation were planted last year. This year, the area of ​​afforestation has increased by 0.04 times compared with last year. How many hectares of afforestation this year?",
+            "equation": "125*(1+1/25)",
+            "ans": "130.0"
+        },
+        {
+            "id": 93,
+            "uid": "da1ea07eef6311ea890e3413e8a4c977",
+            "zh_text": "王叔叔带了4800元去买家电，买电冰箱用去总钱数的1/3，买洗衣机用去总钱数的1/5，电冰箱比洗衣机贵多少元?",
+            "en_text": "Uncle Wang brought 4,800 yuan to buy electricity. Buying a refrigerator costs 0.3333333333333333 times the total money, and buying a washing machine costs 0.2 times the total money. How much more expensive is a refrigerator than a washing machine?",
+            "equation": "4800*(1/3-1/5)",
+            "ans": "639.9999999999999"
+        },
+        {
+            "id": 94,
+            "uid": "da1ea07fef6311ea890e3413e8a4c977",
+            "zh_text": "顶呱呱冷饮店今天卖出468份冰激淋，比昨天增加了1/12，昨天卖出多少份冰激淋?",
+            "en_text": "Dingguagua Cold Drinks Store sold 468 ice creams today, an increase of 0.08333333333333333 times yesterday. How many ice creams were sold yesterday?",
+            "equation": "468/(1+1/12)",
+            "ans": "432.00000000000006"
+        },
+        {
+            "id": 95,
+            "uid": "da1ea080ef6311ea890e3413e8a4c977",
+            "zh_text": "每平方米草地每天能制造15克氧气，相当于每平方米阔叶林每天制造氧气的1/15，每天每平方米草地比每平方米阔叶林少制造多少克氧气?",
+            "en_text": "Each square meter of grassland can produce 15 grams of oxygen per day, which is equivalent to 0.06666666666666667 times the oxygen produced per square meter of broad-leaved forest per day. How many grams of oxygen are produced per square meter of grass per day less than per square meter of broad-leaved forest?",
+            "equation": "15/(1/15)-15",
+            "ans": "210.0"
+        },
+        {
+            "id": 96,
+            "uid": "da1ea081ef6311ea890e3413e8a4c977",
+            "zh_text": "百灵鸟合唱队有56人，其中男生人数和女生人数的比是1:3，男、女生各有多少人?",
+            "en_text": "There are 56 people in the Lark Choir. The ratio of the number of boys to the number of girls is 1:3. How many boys and girls are there?",
+            "equation": "56*1/(1+3)",
+            "ans": "14.0"
+        },
+        {
+            "id": 97,
+            "uid": "da1ea082ef6311ea890e3413e8a4c977",
+            "zh_text": "医用酒精的主要成分是乙醇，现有840毫升乙醇，要配制乙醇与水的体积比是2:5的医用酒精，要准备多少水?",
+            "en_text": "The main component of medical alcohol is ethanol. There is 840 ml of ethanol. To prepare medical alcohol with a volume ratio of ethanol to water of 2:5, how much water should be prepared?",
+            "equation": "840/(2/5)",
+            "ans": "2100.0"
+        },
+        {
+            "id": 98,
+            "uid": "da1ea083ef6311ea890e3413e8a4c977",
+            "zh_text": "医用酒精的主要成分是乙醇，现有840毫升乙醇，要配制乙醇与水的体积比是1:3的医用酒精，能配制多少毫升医用酒精?",
+            "en_text": "The main component of medical alcohol is ethanol. There are 840 ml of ethanol. To prepare medical alcohol with a volume ratio of ethanol to water of 1:3, how many ml of medical alcohol can be prepared?",
+            "equation": "840*1/(1+3)+840*3/(1+3)",
+            "ans": "840.0"
+        },
+        {
+            "id": 99,
+            "uid": "da1ea084ef6311ea890e3413e8a4c977",
+            "zh_text": "甲、乙两桶油漆一共重72千克，两桶油漆的质量比是4:5，两桶油漆各重多少千克?",
+            "en_text": "The two buckets of paint A and B weigh 72 kilograms in total. The mass ratio of the two buckets of paint is 4:5. How many kilograms each weighs in the two buckets of paint?",
+            "equation": "72*5/(4+5)",
+            "ans": "40.0"
+        },
+        {
+            "id": 100,
+            "uid": "da1ea085ef6311ea890e3413e8a4c977",
+            "zh_text": "甲、乙两桶油漆的质量比是4:5，乙桶油漆重40千克，甲桶油漆重多少千克?",
+            "en_text": "The mass ratio of the two barrels of paint A and B is 4:5, the weight of barrel B is 40 kilograms, and how much is the weight of barrel A?",
+            "equation": "40/5*4",
+            "ans": "32.0"
+        },
+        {
+            "id": 101,
+            "uid": "da1ea086ef6311ea890e3413e8a4c977",
+            "zh_text": "把药粉和水按照3:100的质量比配制成一种药水，现有30克药粉，需要水多少克?",
+            "en_text": "The powder and water are formulated into a kind of potion according to the mass ratio of 3:100. There are 30 grams of powder, how many grams of water is needed?",
+            "equation": "30/3*100",
+            "ans": "1000.0"
+        },
+        {
+            "id": 102,
+            "uid": "da1ea087ef6311ea890e3413e8a4c977",
+            "zh_text": "把药粉和水按照3:100的质量比配制成一种药水，如果有3000克水，需要药粉多少克?",
+            "en_text": "The powder and water are formulated into a potion according to the mass ratio of 3:100. If there are 3000 grams of water, how many grams of powder is needed?",
+            "equation": "3000*3/100",
+            "ans": "90.0"
+        },
+        {
+            "id": 103,
+            "uid": "da1ea088ef6311ea890e3413e8a4c977",
+            "zh_text": "把药粉和水按照3:100的质量比配制成一种药水，要配制这种药水2060克，需要药粉和水各多少克?",
+            "en_text": "The powder and water are formulated into a syrup according to the mass ratio of 3:100. To prepare 2060 grams of this syrup, how many grams of powder and water are required?",
+            "equation": "2060*3/(3+100)",
+            "ans": "60.0"
+        },
+        {
+            "id": 104,
+            "uid": "da1ea089ef6311ea890e3413e8a4c977",
+            "zh_text": "甲、乙两堆桃的质量比是2:7，甲堆比乙堆轻25千克，两堆各有桃多少千克?",
+            "en_text": "The mass ratio of piles A and B is 2:7, pile A is 25 kilograms lighter than pile B, how many kilograms of peaches are in each pile?",
+            "equation": "25/(7-2)*7",
+            "ans": "35.0"
+        },
+        {
+            "id": 105,
+            "uid": "da1ea08aef6311ea890e3413e8a4c977",
+            "zh_text": "南山村去年有电脑200台，今年有240台，今年的电脑台数比去年增加了百分之几?",
+            "en_text": "Nanshan Village had 200 computers last year and 240 this year. How many percent of the number of computers this year has increased over last year?",
+            "equation": "(240-200)/200",
+            "ans": "0.2"
+        },
+        {
+            "id": 106,
+            "uid": "da1ea08bef6311ea890e3413e8a4c977",
+            "zh_text": "南山村去年有电脑200台，今年有240台，去年的电脑台数比今年少百分之几?",
+            "en_text": "Nanshan Village had 200 computers last year and 240 this year. How many percent of the number of computers last year was lower than this year?",
+            "equation": "(240-200)/240",
+            "ans": "0.16666666666666666"
+        },
+        {
+            "id": 107,
+            "uid": "da1ea08cef6311ea890e3413e8a4c977",
+            "zh_text": "李叔叔很胖，原来体重是110千克，锻炼之后的体重比原来减少了百分之几?",
+            "en_text": "Uncle Li is very fat. The original weight was 110 kilograms. After exercise, how much weight has been reduced compared to the original?",
+            "equation": "(110-110)/110",
+            "ans": "0.0"
+        },
+        {
+            "id": 108,
+            "uid": "da1ea08def6311ea890e3413e8a4c977",
+            "zh_text": "2010年某城镇房价是每平方米2000元，2013年该城镇房价是每平方米2500元，房价涨了百分之几?",
+            "en_text": "In 2010, the house price of a certain town was 2,000 yuan per square meter. In 2013, the house price of this town was 2,500 yuan per square meter. What percentage did the house price increase?",
+            "equation": "(2500-2000)/2000",
+            "ans": "0.25"
+        },
+        {
+            "id": 109,
+            "uid": "da1ea08eef6311ea890e3413e8a4c977",
+            "zh_text": "风镇小学今年毕业120人，比去年减少了30人，今年毕业的人数比去年少百分之几?",
+            "en_text": "Fengzhen Elementary School graduated 120 people this year, a decrease of 30 people from last year.",
+            "equation": "30/(120+30)",
+            "ans": "0.2"
+        },
+        {
+            "id": 110,
+            "uid": "da1ea08fef6311ea890e3413e8a4c977",
+            "zh_text": "风镇小学图书室今年有图书2400本，比去年增加了1400本，今年图书的本数比去年增加了百分之几?",
+            "en_text": "The library of Fengzhen Elementary School has 2,400 books this year, an increase of 1,400 books over last year. What percentage of the number of books has increased this year over last year?",
+            "equation": "1400/(2400-1400)",
+            "ans": "1.4"
+        },
+        {
+            "id": 111,
+            "uid": "da1ea090ef6311ea890e3413e8a4c977",
+            "zh_text": "玩具汽车原价140元，妈妈给球球买了一辆玩具汽车，比原价少21元，这辆玩具汽车打几折销售?",
+            "en_text": "The original price of the toy car was 140 yuan. Mom bought a toy car for Qiuqiu, which was 21 yuan less than the original price. How much discount is this toy car on sale?",
+            "equation": "8",
+            "ans": "8.0"
+        },
+        {
+            "id": 112,
+            "uid": "da1ea091ef6311ea890e3413e8a4c977",
+            "zh_text": "星星合唱队有男生60人、女生75人，女生人数是男生的百分之几?",
+            "en_text": "The Star Chorus has 60 boys and 75 girls. What percentage of the girls are the boys?",
+            "equation": "75/60",
+            "ans": "1.25"
+        },
+        {
+            "id": 113,
+            "uid": "da1ea092ef6311ea890e3413e8a4c977",
+            "zh_text": "星星合唱队有男生60人、女生75人，女生人数比男生多百分之几?",
+            "en_text": "There are 60 boys and 75 girls in the Star Chorus. What percentage of the girls are more than boys?",
+            "equation": "(75-60)/60",
+            "ans": "0.25"
+        },
+        {
+            "id": 114,
+            "uid": "da1ea093ef6311ea890e3413e8a4c977",
+            "zh_text": "星星合唱队有女生75人，比男生多15人，男生人数是女生的百分之几?",
+            "en_text": "The Star Chorus has 75 girls, 15 more than boys. What percentage of boys are girls?",
+            "equation": "(75-15)/75",
+            "ans": "0.8"
+        },
+        {
+            "id": 115,
+            "uid": "da1ea094ef6311ea890e3413e8a4c977",
+            "zh_text": "甲、乙两车从相距300千米的两地相向而行相遇时，甲、乙两车行驶的路程比是2:3，求甲、乙两车各自行驶的路程，",
+            "en_text": "When two cars A and B meet each other from two places that are 300 kilometers apart, the distance ratio of the two cars A and B is 2:3. Find the distance traveled by the two cars, A and B.",
+            "equation": "300*3/(2+3)",
+            "ans": "180.0"
+        },
+        {
+            "id": 116,
+            "uid": "da1ec88aef6311ea89193413e8a4c977",
+            "zh_text": "甲、乙两车从相距300千米的两地相向而行相遇时，甲、乙两车行驶的路程比是2:3，甲、乙两车相遇的地点离两地中点有多远?",
+            "en_text": "When the two vehicles A and B meet each other from two places 300 kilometers apart, the distance ratio of the two vehicles A and B is 2:3. How far is the place where the two vehicles meet from the midpoint of the two places?",
+            "equation": "300*(1/2-2/(2+3))",
+            "ans": "29.999999999999996"
+        },
+        {
+            "id": 117,
+            "uid": "da1ec88bef6311ea89193413e8a4c977",
+            "zh_text": "书香学校五年级学生上学期有150人体育达标，经过一个学期的锻炼，下学期体育达标的人数比上学期增长12%，下学期体育达标的有多少人?",
+            "en_text": "In the first semester, 150 students in the fifth grade of the scholarly school reached the physical education standard. After one semester of exercise, the number of people meeting the physical education standard in the next semester increased by 0.12 times compared with the previous semester. How many people met the physical education standard in the next semester?",
+            "equation": "150*(1+12/100)",
+            "ans": "168.00000000000003"
+        },
+        {
+            "id": 118,
+            "uid": "da1ec88cef6311ea89193413e8a4c977",
+            "zh_text": "球球家原来平均每月用水11吨，更换水龙头后，现在平均每月用水8吨，现在平均每月用水比原来节约了百分之几?",
+            "en_text": "Qiuqiujia used to use an average of 11 tons of water per month. After replacing the faucet, it now uses an average of 8 tons of water per month. Now, what percentage of the average monthly water consumption is saved than before?",
+            "equation": "(11-8)/11",
+            "ans": "0.2727272727272727"
+        },
+        {
+            "id": 119,
+            "uid": "da1ec88def6311ea89193413e8a4c977",
+            "zh_text": "某图书城8月份计划销售额是560万元，实际销售额比计划多30%，8月份实际销售额是多少万元?",
+            "en_text": "The planned sales of a book city in August were 5.6 million yuan, and the actual sales were 0.3 times more than planned. How many yuan was the actual sales in August?",
+            "equation": "560*(1+30/100)",
+            "ans": "728.0"
+        },
+        {
+            "id": 120,
+            "uid": "da1ec88eef6311ea89193413e8a4c977",
+            "zh_text": "今年李叔叔的稻谷丰收了，他把稻谷碾成了米，已知碾出532千克糠和1008千克米，你知道稻谷的出米率是多少吗?",
+            "en_text": "This year Uncle Li's rice harvest has been bumper. He milled the rice into rice. It is known that 532 kilograms of chaff and 1,008 kilograms of rice were produced. Do you know the rice yield rate?",
+            "equation": "(532+1008)/(532+1008)*100/100",
+            "ans": "1.0"
+        },
+        {
+            "id": 121,
+            "uid": "da1ec88fef6311ea89193413e8a4c977",
+            "zh_text": "工厂原有700吨煤，第一天运出280吨，第二天运进350吨，这时工厂里的煤比原来增加了百分之几?",
+            "en_text": "The factory originally had 700 tons of coal, and 280 tons were shipped on the first day, and 350 tons were shipped in the next day. At this time, how many percent of the coal in the factory increased from the original?",
+            "equation": "(700-280+350-700)/700*100/100",
+            "ans": "0.1"
+        },
+        {
+            "id": 122,
+            "uid": "da1ec890ef6311ea89193413e8a4c977",
+            "zh_text": "小狐狸和小山羊是好朋友，它们俩在两家之间修了一条路，小狐狸修了整条路的65%，小山羊修了整条路的35%，小山羊正好修了210米，这条路有多长?",
+            "en_text": "The little fox and the little goat are good friends. The two of them built a road between the two. The little fox repaired 0.65 times the entire road, the little goat repaired 0.35 times the entire road, and the little goat just completed 210 meters. how long?",
+            "equation": "210/(35/100)",
+            "ans": "600.0"
+        },
+        {
+            "id": 123,
+            "uid": "da1ec891ef6311ea89193413e8a4c977",
+            "zh_text": "青青果园有山楂树500棵，比枣树多25%，枣树有多少棵?",
+            "en_text": "There are 500 hawthorn trees in Qingqing Orchard, 0.25 times more than jujube trees. How many jujube trees are there?",
+            "equation": "500/(1+25/100)",
+            "ans": "400.0"
+        },
+        {
+            "id": 124,
+            "uid": "da1ec892ef6311ea89193413e8a4c977",
+            "zh_text": "青青果园把收获的山楂卖了60%，还剩1250千克，果园共收获了多少千克山楂?",
+            "en_text": "Qingqing Orchard sold the harvested hawthorn by 0.6 times, leaving 1250 kilograms. How many kilograms of hawthorn were harvested in the orchard?",
+            "equation": "1250/(1-60/100)",
+            "ans": "3125.0"
+        },
+        {
+            "id": 125,
+            "uid": "da1ec893ef6311ea89193413e8a4c977",
+            "zh_text": "某水果批发市场按八五折把青青果园的大枣都买走了，正好便宜了1800元，这些大枣原来能卖多少钱?",
+            "en_text": "A certain fruit wholesale market bought all the jujubes from Qingqing Orchard at a 15% discount, which happened to be 1,800 yuan cheaper. How much can these jujubes sell?",
+            "equation": "1800/(1-85/100)",
+            "ans": "11999.999999999998"
+        },
+        {
+            "id": 126,
+            "uid": "da1ec894ef6311ea89193413e8a4c977",
+            "zh_text": "学校开展植树活动，六(1)班植树20棵，六(2)班植树25棵，六(1)班和六(2)班植树的棵数总和占六年级植树总棵数的60%，六年级一共植树多少棵?",
+            "en_text": "The school carried out tree planting activities, planting 20 trees in Class 6 (1), 25 trees in Class 6 (2), and the total number of trees planted in Class 6 (1) and Class 6 (2) accounted for 0.6 times the total number of trees planted in Grade 6. How many trees are planted in the sixth grade?",
+            "equation": "(20+25)/(60/100)",
+            "ans": "75.0"
+        },
+        {
+            "id": 127,
+            "uid": "da1ec895ef6311ea89193413e8a4c977",
+            "zh_text": "亮亮班级有50人，会打乒乓球的男生人数占全班人数的32%，会打乒乓球的女生人数占全班人数的40%，这个班级有多少人会打乒乓球?",
+            "en_text": "There are 50 students in Liangliang's class. The number of boys who can play table tennis accounts for 0.32 times of the class, and the number of girls who can play table tennis accounts for 0.4 times of the class. How many people in this class can play table tennis?",
+            "equation": "50*(32/100+40/100)",
+            "ans": "36.0"
+        },
+        {
+            "id": 128,
+            "uid": "da1ec896ef6311ea89193413e8a4c977",
+            "zh_text": "学校举办课间才艺展演，跳舞的人数是唱歌的60%，跳舞的人数比唱歌的人数少40人，跳舞的和唱歌的各有多少人?",
+            "en_text": "The school holds a talent show between classes. The number of dancing is 0.6 times that of singing. The number of dancing is 40 less than the number of singing. How many people are dancing and singing?",
+            "equation": "40/(1-60/100)-40",
+            "ans": "60.0"
+        },
+        {
+            "id": 129,
+            "uid": "da1ec897ef6311ea89193413e8a4c977",
+            "zh_text": "我国淡水鱼类约有700种，比海洋鱼类少65%，我国海洋鱼类约有多少种?",
+            "en_text": "There are about 700 species of freshwater fish in my country, which is 0.65 times less than that of marine fish. How many species of marine fish are there in my country?",
+            "equation": "700/(1-65/100)",
+            "ans": "2000.0"
+        },
+        {
+            "id": 130,
+            "uid": "da1ec898ef6311ea89193413e8a4c977",
+            "zh_text": "乐乐家购买了新房，向银行办理了个人贷款业务，共贷款80000元，一年后归还，年利率是5.20%，到期后乐乐家应支付银行本金和利息一共多少元?",
+            "en_text": "Lelejia bought a new house and applied for a personal loan business with the bank. The total loan was 80,000 yuan, which was returned after one year. The annual interest rate was 0.052000000000000005 times. After the maturity, how much should Lelejia pay the bank principal and interest?",
+            "equation": "80000+424.8",
+            "ans": "80424.8"
+        },
+        {
+            "id": 131,
+            "uid": "da1ec899ef6311ea89193413e8a4c977",
+            "zh_text": "王阿姨5年前买了25000元的国家建设债券，年利率是9.7%，今年到期，她想用利息买一台电视机，够吗?",
+            "en_text": "Aunt Wang bought 25,000 yuan of national construction bonds five years ago, and the annual interest rate is 0.09699999999999999 times. It expires this year. She wants to buy a TV with interest, is it enough?",
+            "equation": "25000",
+            "ans": "25000.0"
+        },
+        {
+            "id": 132,
+            "uid": "da1ec89aef6311ea89193413e8a4c977",
+            "zh_text": "一种树苗，它的成活率是95%，照这样计算，栽500棵树苗能成活多少棵?",
+            "en_text": "A kind of sapling has a survival rate of 0.95 times. According to this calculation, how many saplings can survive by planting 500?",
+            "equation": "500*95/100",
+            "ans": "475.0"
+        },
+        {
+            "id": 133,
+            "uid": "da1ec89bef6311ea89193413e8a4c977",
+            "zh_text": "一种树苗，它的成活率是95%，为了保证能成活400棵，至少应栽树苗多少棵?",
+            "en_text": "A kind of sapling has a survival rate of 0.95 times. In order to ensure that 400 saplings can survive, how many saplings should be planted at least?",
+            "equation": "400/(95/100)",
+            "ans": "421.0526315789474"
+        },
+        {
+            "id": 134,
+            "uid": "da1ee0daef6311ea891f3413e8a4c977",
+            "zh_text": "张爷爷在银行存一年期储蓄5000元，年利率是，2.25%，一年后将利息取出捐给“慈善总会”，他捐了多少钱?",
+            "en_text": "Grandpa Zhang deposited a one-year savings of 5,000 yuan in the bank. The annual interest rate is 0.0225 times. After one year, he will take out the interest and donate it to the Charity Federation. How much did he donate?",
+            "equation": "5000*2.25/100*1",
+            "ans": "112.5"
+        },
+        {
+            "id": 135,
+            "uid": "da1ee0dbef6311ea891f3413e8a4c977",
+            "zh_text": "花园小区九月份的电费是960元，十月份的电费是816元，十月份比九月份节约了百分之几?",
+            "en_text": "The electricity bill in the Garden District in September is 960 yuan, and the electricity bill in October is 816 yuan. How much is the savings in October compared to September?",
+            "equation": "(960-816)/960",
+            "ans": "0.15"
+        },
+        {
+            "id": 136,
+            "uid": "da1ee0dcef6311ea891f3413e8a4c977",
+            "zh_text": "花园小区九月份的电费是960元，十月份的电费比九月份节约了15%，十月份的电费是多少元?",
+            "en_text": "The electricity bill in the Garden District in September is 960 yuan, and the electricity bill in October is 0.15 times less than in September. How much is the electricity bill in October?",
+            "equation": "960*(1-15/100)",
+            "ans": "816.0"
+        },
+        {
+            "id": 137,
+            "uid": "da1ee0ddef6311ea891f3413e8a4c977",
+            "zh_text": "花园小区十月份的电费是816元，比九月份节约了15%，九月份的电费是多少元?",
+            "en_text": "The electricity bill in the Garden District in October is 816 yuan, which is 0.15 times less than in September. How much is the electricity bill in September?",
+            "equation": "816/(1-15/100)",
+            "ans": "960.0"
+        },
+        {
+            "id": 138,
+            "uid": "da1ee0deef6311ea891f3413e8a4c977",
+            "zh_text": "有两筐苹果，第一筐重28千克，相当于第二筐的7/9，第二筐重多少千克?",
+            "en_text": "There are two baskets of apples. The first basket weighs 28 kilograms, which is equivalent to 0.7777777777777778 times the second basket. How much kilograms does the second basket weigh?",
+            "equation": "28/(7/9)",
+            "ans": "36.0"
+        },
+        {
+            "id": 139,
+            "uid": "da1ee0dfef6311ea891f3413e8a4c977",
+            "zh_text": "文具店出售一种铅笔，每支0.45元，一次购买超过100支可以打九折，李老师买了200支，应付多少元?",
+            "en_text": "The stationery store sells a pencil of 0.45 yuan each. You can get a 10% discount if you buy more than 100 pencils at a time. Teacher Li bought 200 pencils.",
+            "equation": "0.45*90/100*200",
+            "ans": "81.0"
+        },
+        {
+            "id": 140,
+            "uid": "da1ee0e0ef6311ea891f3413e8a4c977",
+            "zh_text": "一辆自行车车轮的外直径是0.6米，如果车轮每分钟转120周，这辆自行车每分钟能前进多少米?",
+            "en_text": "The outer diameter of a bicycle wheel is 0.6 meters. If the wheel rotates 120 times per minute, how many meters can the bicycle travel per minute?",
+            "equation": "3.14*0.6*120",
+            "ans": "226.08"
+        },
+        {
+            "id": 141,
+            "uid": "da1ee0e1ef6311ea891f3413e8a4c977",
+            "zh_text": "东风小学共有学生540人，其中女生人数占总人数的45%，男生有多少人?",
+            "en_text": "Dongfeng Primary School has a total of 540 students, of which the number of girls accounts for 0.45 times the total number. How many boys are there?",
+            "equation": "540*(1-45/100)",
+            "ans": "297.0"
+        },
+        {
+            "id": 142,
+            "uid": "da1ee0e2ef6311ea891f3413e8a4c977",
+            "zh_text": "一个圆形花坛的直径是20米，在里面种植红、黄两种颜色的花，红花与黄花的种植面积之比是3:2，这个花坛的面积有多大?",
+            "en_text": "The diameter of a round flowerbed is 20 meters, and red and yellow flowers are planted in it. The ratio of the planting area of ​​safflower to yellow flower is 3:2, how big is the area of ​​this flowerbed?",
+            "equation": "3.14*(20/2*3/(3+2)/(3+2))**2",
+            "ans": "4.5216"
+        },
+        {
+            "id": 143,
+            "uid": "da1ee0e3ef6311ea891f3413e8a4c977",
+            "zh_text": "一个圆形花坛的直径是20米，在里面种植红、黄两种颜色的花，红花与黄花的种植面积之比是3:2，种植红花和黄花的面积分别是多少?",
+            "en_text": "The diameter of a round flowerbed is 20 meters. Red and yellow flowers are planted in it. The ratio of the planting area of ​​safflower to yellow flower is 3:2. What is the area of ​​planting red and yellow flowers?",
+            "equation": "3.14*(20/2*3/(3+2)/(3+2))**2",
+            "ans": "4.5216"
+        },
+        {
+            "id": 144,
+            "uid": "da1ee0e4ef6311ea891f3413e8a4c977",
+            "zh_text": "乐乐将1000元存入银行，定期五年，年利率是4.75%，到期后乐乐能得到利息多少元?",
+            "en_text": "Lele deposits 1,000 yuan in the bank for a period of five years, and the annual interest rate is 0.0475 times. How much interest can Lele get after maturity?",
+            "equation": "1000*4.75/100*5",
+            "ans": "237.5"
+        },
+        {
+            "id": 145,
+            "uid": "da1ee0e5ef6311ea891f3413e8a4c977",
+            "zh_text": "一块长方形草坪的长是35米，长与宽的比是5:4，这块草坪的面积是多少平方米?",
+            "en_text": "The length of a rectangular lawn is 35 meters, and the ratio of length to width is 5:4. What is the area of ​​this lawn in square meters?",
+            "equation": "35*35/5*4",
+            "ans": "980.0"
+        },
+        {
+            "id": 146,
+            "uid": "da1ee0e6ef6311ea891f3413e8a4c977",
+            "zh_text": "美心饼屋共制作了3200盒中秋节月饼，第一天卖出总数的1/4，第二天卖出总数的3/8，第二天比第一天多卖出多少盒?",
+            "en_text": "Maxim's Cake Shop produced a total of 3,200 boxes of Mid-Autumn Festival moon cakes. The first day sold 0.25 times the total number, and the second day sold 0.375 times the total number. How many more boxes were sold the second day than the first day?",
+            "equation": "3200*(3/8-1/4)",
+            "ans": "400.0"
+        },
+        {
+            "id": 147,
+            "uid": "da1ee0e7ef6311ea891f3413e8a4c977",
+            "zh_text": "一辆客车从甲城开往乙城，每小时行60千米，4小时后离乙城还有的路程2/5，甲城到乙城有多少千米?",
+            "en_text": "A bus travels 60 kilometers per hour from City A to City B. After 4 hours, it is 0.4 times the distance from City B. How many kilometers is there from City A to City B?",
+            "equation": "60*4/(1-2/5)",
+            "ans": "400.0"
+        },
+        {
+            "id": 148,
+            "uid": "da1ee0e8ef6311ea891f3413e8a4c977",
+            "zh_text": "一个玩具厂，一月完成第一季度计划的2/7，二月完成第一季度计划的8/21，(1)两个月一共完成计划的几分之几?(2)哪个月完成的任务多?多几分之几?",
+            "en_text": "A toy factory completed 0.2857142857142857 times the first quarter plan in January, and 0.38095238095238093 times the first quarter plan was completed in February. (1) What fraction of the plan was completed in two months? (2) Which month completed more tasks How much more?",
+            "equation": "2/7+8/21-1",
+            "ans": "-0.33333333333333337"
+        },
+        {
+            "id": 149,
+            "uid": "da1ee0e9ef6311ea891f3413e8a4c977",
+            "zh_text": "书香小学的学生每天参加体育锻炼的时间占在校时间的1/6，参加课外阅读的时间占在校时间的1/8，锻炼时间比阅读时间多几分之几?",
+            "en_text": "The students of Shuxiang Elementary School take up 0.16666666666666666 times of school time to participate in physical exercise every day, and participate in extracurricular reading 0.125 times of school time. (1) What percentage of the school time are the two activities together? (2) ) How much longer is the exercise time than the reading time?",
+            "equation": "1/6-1/8",
+            "ans": "0.041666666666666664"
+        },
+        {
+            "id": 150,
+            "uid": "da1ee0eaef6311ea891f3413e8a4c977",
+            "zh_text": "一个普通鸡蛋，蛋黄的质量约占总质量的2/5，蛋清的质量约占总质量的1/2，其余是蛋壳，蛋壳的质量约占总质量的几分之几?",
+            "en_text": "For an ordinary egg, the mass of the yolk is about 0.4 times the total mass, the mass of the egg white is about 0.5 times the total mass, and the rest is eggshell. (1) What percentage of the total mass is the mass of egg yolk and egg white? 2) What fraction of the total mass is the eggshell mass?",
+            "equation": "1-2/5-1/2",
+            "ans": "0.09999999999999998"
+        },
+        {
+            "id": 151,
+            "uid": "da1ee0ebef6311ea891f3413e8a4c977",
+            "zh_text": "张叔叔在一块菜地里种了西红柿、黄瓜和冬瓜，其中1/3的地种西红柿，3/8的地种冬瓜，其余的地种黄瓜，种冬瓜的面积比种西红柿的面积多几分之几?",
+            "en_text": "Uncle Zhang planted tomatoes, cucumbers, and winter melons in a vegetable field. Among them, 0.3333333333333333 times the field is planted with tomatoes, 0.375 times the field is planted with winter melon, and the rest is planted with cucumbers. (1) The area of ​​cucumber planting accounts for a few cents of this land. How many? (2) How much is the area for growing wax gourd than that for growing tomatoes?",
+            "equation": "1-1/3-3/8-1/3",
+            "ans": "-0.041666666666666574"
+        },
+        {
+            "id": 152,
+            "uid": "da1ee0ecef6311ea891f3413e8a4c977",
+            "zh_text": "在200米跑步比赛中，小丁的成绩是0.85分钟，小兵的成绩是4/5分钟，他俩谁跑得快?",
+            "en_text": "In the 200-meter running race, Xiaoding's score was 0.85 minutes, and Xiaobing's score was 0.8 minutes.Which one of them ran fast?",
+            "equation": "4/5-0.85",
+            "ans": "-0.04999999999999993"
+        },
+        {
+            "id": 153,
+            "uid": "da1ee0edef6311ea891f3413e8a4c977",
+            "zh_text": "一根铁丝，正好可以做一个长8cm、宽6cm、高4cm的长方体框架，如果这根铁丝做一个正方体框架，这个正方体的棱长是多少厘米?",
+            "en_text": "A piece of iron wire can make a rectangular parallelepiped frame with a length of 8 cm, a width of 6 cm and a height of 4 cm. If the iron wire is used as a cube frame, how many centimeters are the edges of the cube?",
+            "equation": "(8+6+4)*4/12",
+            "ans": "6.0"
+        },
+        {
+            "id": 154,
+            "uid": "da1ee0eeef6311ea891f3413e8a4c977",
+            "zh_text": "做一个不带盖的正方体玻璃缸，棱长是9dm至少要用多少平方分米的玻璃?",
+            "en_text": "How many square decimeters of glass should be used to make a cube glass cylinder without a cover, and the edge length is 9dm?",
+            "equation": "9*9*5",
+            "ans": "405.0"
+        },
+        {
+            "id": 155,
+            "uid": "da1ee0efef6311ea891f3413e8a4c977",
+            "zh_text": "一个长方体罐头盒长12cm、宽8cm、高6cm，在它的四周贴上商标纸，这张商标纸的面积至少是多少?",
+            "en_text": "A rectangular canned box is 12cm long, 8cm wide, and 6cm high. Label paper is pasted around it. What is the area of ​​this label paper at least?",
+            "equation": "(12*8+8*6)*2",
+            "ans": "288.0"
+        },
+        {
+            "id": 156,
+            "uid": "da1ee0f0ef6311ea891f3413e8a4c977",
+            "zh_text": "一个房间的长是8m、宽是5m、高是3m，面墙壁要粉刷涂料，门窗面积是12.6m2，(1)需要粉刷的面积是多少?(2)如果每平方米需要200g涂料，一共需要涂料多少千克?",
+            "en_text": "The length of a room is 8m, the width is 5m, and the height is 3m. The walls need to be painted, and the door and window area is 12.6m2. (1) What is the area that needs to be painted? (2) If 200g of paint is needed per square meter, a total of How many kilograms of paint?",
+            "equation": "(8*5+(8*3+5*3)*2-12.6)*200/1000",
+            "ans": "21.08"
+        },
+        {
+            "id": 157,
+            "uid": "da1ee0f1ef6311ea891f3413e8a4c977",
+            "zh_text": "一只树袋熊一天大约吃67千克桉树叶，7只树袋熊一天大约吃多少千克桉树叶?",
+            "en_text": "A koala eats about 67 kilograms of eucalyptus leaves a day, and how many kilograms of eucalyptus leaves do 7 koalas eat?",
+            "equation": "67*7",
+            "ans": "469.0"
+        },
+        {
+            "id": 158,
+            "uid": "da1f02d0ef6311ea89283413e8a4c977",
+            "zh_text": "一只树袋熊一天大约吃67千克桉树叶，公园有21只树袋熊，它们一天大约吃多少千克桉树叶?",
+            "en_text": "A koala eats about 67 kilograms of eucalyptus leaves a day, and there are 21 koalas in the park. How many kilograms of eucalyptus leaves do they eat?",
+            "equation": "67*21",
+            "ans": "1407.0"
+        },
+        {
+            "id": 159,
+            "uid": "da1f02d1ef6311ea89283413e8a4c977",
+            "zh_text": "乐乐每天看这本书的，3天看完全书的几分之几?5天呢?10天呢?",
+            "en_text": "Lele reads this book every day, what percentage of the book is read in 3 days? What about 5 days? How about 10 days?",
+            "equation": "1/(1/3)*10",
+            "ans": "30.0"
+        },
+        {
+            "id": 160,
+            "uid": "da1f02d2ef6311ea89283413e8a4c977",
+            "zh_text": "某种大豆每千克约含油千克，100千克大豆约含油多少千克?1吨呢?",
+            "en_text": "A certain type of soybean contains approximately kilograms of oil per kilogram, and how many kilograms of oil does 100 kilograms of soybeans contain? 1 ton?",
+            "equation": "1*1000/(1*1000)*100",
+            "ans": "100.0"
+        },
+        {
+            "id": 161,
+            "uid": "da1f02d3ef6311ea89283413e8a4c977",
+            "zh_text": "养鸡场第一天卖出360只鸡，第二天卖出鸡的只数是第一天的1/4，第二天卖出多少只?",
+            "en_text": "The chicken farm sold 360 chickens on the first day, and the number of chickens sold on the second day was 0.25 times that of the first day. How many chickens were sold the next day?",
+            "equation": "360*1/4",
+            "ans": "90.0"
+        },
+        {
+            "id": 162,
+            "uid": "da1f02d4ef6311ea89283413e8a4c977",
+            "zh_text": "汽车每时行驶90千米，人步行的速度是汽车的1/18，人每时步行多少千米?",
+            "en_text": "A car travels 90 kilometers per hour, and the walking speed of a person is 0.05555555555555555 times that of a car. How many kilometers does a person walk per hour?",
+            "equation": "90*1/18",
+            "ans": "5.0"
+        },
+        {
+            "id": 163,
+            "uid": "da1f02d5ef6311ea89283413e8a4c977",
+            "zh_text": "白兔拔了20个萝卜，灰兔拔的萝卜比白兔多1/4，灰兔比白兔多拔多少个萝卜?",
+            "en_text": "The white rabbit pulled out 20 radishes. The gray rabbit pulled 0.25 times more radishes than the white rabbit. How many more radishes did the gray rabbit pull than the white rabbit?",
+            "equation": "20*1/4",
+            "ans": "5.0"
+        },
+        {
+            "id": 164,
+            "uid": "da1f02d6ef6311ea89283413e8a4c977",
+            "zh_text": "一件上衣原价56元，现价比原价降低了3/8，降低了多少元?",
+            "en_text": "The original price of a coat was 56 yuan, and the current price is 0.375 times lower than the original price. How much is the reduction?",
+            "equation": "56*3/8",
+            "ans": "21.0"
+        },
+        {
+            "id": 165,
+            "uid": "da1f02d7ef6311ea89283413e8a4c977",
+            "zh_text": "红花有24朵，黄花比红花多1/4，黄花比红花多几朵?",
+            "en_text": "There are 24 safflowers, yellow flowers are 0.25 times more than safflowers, and how many more yellow flowers are than safflowers?",
+            "equation": "24*1/4",
+            "ans": "6.0"
+        },
+        {
+            "id": 166,
+            "uid": "da1f02d8ef6311ea89283413e8a4c977",
+            "zh_text": "红花有24朵，黄花的朵数是红花的5/4，黄花有几朵?",
+            "en_text": "There are 24 safflowers, and the number of yellow flowers is 1.25 times that of safflowers. How many yellow flowers are there?",
+            "equation": "24*5/4",
+            "ans": "30.0"
+        },
+        {
+            "id": 167,
+            "uid": "da1f02d9ef6311ea89283413e8a4c977",
+            "zh_text": "我国供水不足的城市个数占全国城市总数的2/3，其中又有1/4的城市严重缺水，全国严重缺水的城市个数占城市总数的几分之几?",
+            "en_text": "The number of cities in my country with insufficient water supply accounts for 0.6666666666666666 times the total number of cities in the country. Among them, 0.25 times are severely short of water. What percentage of the total number of cities in the country is severely short of water?",
+            "equation": "2/3*1/4",
+            "ans": "0.16666666666666666"
+        },
+        {
+            "id": 168,
+            "uid": "da1f02daef6311ea89283413e8a4c977",
+            "zh_text": "人的血液大约占体重的1/13，血液里大约有2/3是水，球球体重39kg，他的身体中大约有血液多少千克?他的血液里大约含水多少千克?",
+            "en_text": "Human blood accounts for about 0.07692307692307693 times the body weight. The blood is about 0.6666666666666666 times as water. The ball weighs 39kg. How many kilograms of blood is in his body? How many kilograms of water is in his blood?",
+            "equation": "39*1/13*2/3",
+            "ans": "2.0"
+        },
+        {
+            "id": 169,
+            "uid": "da1f02dbef6311ea89283413e8a4c977",
+            "zh_text": "一台碾米机每小时碾米5/6吨，2/3小时可以碾米多少吨?",
+            "en_text": "A rice mill can mill 0.8333333333333334 tons of rice per hour, and how many tons of rice can be milled per hour at 0.6666666666666666 times?",
+            "equation": "5/6*2/3",
+            "ans": "0.5555555555555556"
+        },
+        {
+            "id": 170,
+            "uid": "da1f02dcef6311ea89283413e8a4c977",
+            "zh_text": "林场去年植树10万棵，今年计划比去年多植树，今年比去年多植树多少棵?",
+            "en_text": "The forest farm planted 100,000 trees last year. This year plans to plant more trees than last year. How many more trees will be planted this year than last year?",
+            "equation": "10*10000",
+            "ans": "100000.0"
+        },
+        {
+            "id": 171,
+            "uid": "da1f02ddef6311ea89283413e8a4c977",
+            "zh_text": "做一个棱长为20cm的正方体铁盒，至少要用多大面积的铁皮?",
+            "en_text": "To make a cube iron box with a side length of 20cm, at least what area of ​​iron sheet should be used?",
+            "equation": "20*20*6",
+            "ans": "2400.0"
+        },
+        {
+            "id": 172,
+            "uid": "da1f02deef6311ea89283413e8a4c977",
+            "zh_text": "一个牛奶盒的长、宽、高分别是6.5cm、4cm和10.6cm，如果将4盒牛奶包装在一大盒里，至少需要多大面积的包装纸(接缝除外)?",
+            "en_text": "The length, width, and height of a milk carton are 6.5cm, 4cm and 10.6cm respectively. If 4 boxes of milk are packed in a large box, at least how much wrapping paper (except the seams) is needed?",
+            "equation": "(6.5*4*2+6.5*10.6*2+4*10.6*2)*2",
+            "ans": "549.1999999999998"
+        },
+        {
+            "id": 173,
+            "uid": "da1f02dfef6311ea89283413e8a4c977",
+            "zh_text": "砌一道长10m、高3m、厚0.2m的墙，这道墙的体积是多少?若每立方米用500块砖，一共需要多少块砖?",
+            "en_text": "To build a wall 10m long, 3m high, and 0.2m thick, what is the volume of this wall? If 500 bricks are used per cubic meter, how many bricks are needed in total?",
+            "equation": "10*3*0.2*500",
+            "ans": "3000.0"
+        },
+        {
+            "id": 174,
+            "uid": "da1f02e0ef6311ea89283413e8a4c977",
+            "zh_text": "一块正方体石料的棱长为6dm，它的体积是多少?如果1dm3的石料重2.8kg，这块石料重多少千克?",
+            "en_text": "The edge length of a cube of stone is 6dm, what is its volume? If 1dm3 stone weighs 2.8kg, how much kilogram does this stone weigh?",
+            "equation": "6*6*6*2.8",
+            "ans": "604.8"
+        },
+        {
+            "id": 175,
+            "uid": "da1f02e1ef6311ea89283413e8a4c977",
+            "zh_text": "一个长方体水池，底面积是7200cm2，如果注水到20cm高，应该注入多少升水?",
+            "en_text": "A cuboid pool has a bottom area of ​​7200cm2. If water is injected to a height of 20cm, how many liters of water should be injected?",
+            "equation": "7200*20/1000",
+            "ans": "144.0"
+        },
+        {
+            "id": 176,
+            "uid": "da1f02e2ef6311ea89283413e8a4c977",
+            "zh_text": "一个鱼缸长60cm、宽40cm、水深10cm.放进一尾鱼后，水深为12cm，这尾鱼的体积是多少?",
+            "en_text": "A fish tank is 60cm long, 40cm wide, and 10cm deep. After putting a fish in, the water depth is 12cm. What is the volume of this fish?",
+            "equation": "60*40*(12-10)",
+            "ans": "4800.0"
+        },
+        {
+            "id": 177,
+            "uid": "da1f02e3ef6311ea89283413e8a4c977",
+            "zh_text": "把一个长、宽、高分别为8dm、6dm和3dm的长方体锯成一个最大的正方体，这个正方体的体积是多少?剩下部分的体积是多少?",
+            "en_text": "Saw a cuboid with length, width, and height of 8dm, 6dm, and 3dm into the largest cube. What is the volume of this cube? What is the volume of the remaining part?",
+            "equation": "8*6*3-3*3*3",
+            "ans": "117.0"
+        },
+        {
+            "id": 178,
+            "uid": "da1f02e4ef6311ea89283413e8a4c977",
+            "zh_text": "一个水箱，从里面量长0.5m、宽0.3m、高0.2m，这个水箱最多能装水多少立方米?合多少升?",
+            "en_text": "A water tank measures 0.5m long, 0.3m wide, and 0.2m high from the inside. How many cubic meters of water can this water tank contain? How many liters?",
+            "equation": "0.5*0.3*0.2*1000",
+            "ans": "30.0"
+        },
+        {
+            "id": 179,
+            "uid": "da1f02e5ef6311ea89283413e8a4c977",
+            "zh_text": "有一个蓄水池长20m、宽12m、深3m，蓄水池占地面积有多大?",
+            "en_text": "There is a reservoir that is 20m long, 12m wide, and 3m deep. How big is the area of ​​the reservoir?",
+            "equation": "20*12",
+            "ans": "240.0"
+        },
+        {
+            "id": 180,
+            "uid": "da1f02e6ef6311ea89283413e8a4c977",
+            "zh_text": "有一个蓄水池长20m、宽12m、深3m，在蓄水池的底面和四周都抹上水泥，抹水泥的面积有多大?",
+            "en_text": "There is a cistern 20m long, 12m wide, and 3m deep. The bottom and surroundings of the cistern are smeared with cement. What is the area of ​​the cement?",
+            "equation": "20*12+20*3*2+12*3*2",
+            "ans": "432.0"
+        },
+        {
+            "id": 181,
+            "uid": "da1f02e7ef6311ea89283413e8a4c977",
+            "zh_text": "有一个蓄水池长20m、宽12m、深3m，蓄水池最多能蓄水多少立方米?",
+            "en_text": "A reservoir is 20m long, 12m wide, and 3m deep. How much cubic meters of water can the reservoir hold?",
+            "equation": "20*12*3",
+            "ans": "720.0"
+        },
+        {
+            "id": 182,
+            "uid": "da1f02e8ef6311ea89283413e8a4c977",
+            "zh_text": "有一根长12dm，宽和高都是2dm的长方体木材，把它截成6个棱长是2dm的小正方体，切开后的6个小正方体的体积、表面积总和与原来的长方体木材相比，发生了什么变化?",
+            "en_text": "There is a cuboid wood with a length of 12dm and a width and height of 2dm. Cut it into 6 small cubes with a side length of 2dm. The volume and surface area of ​​the 6 small cubes after cutting are compared with the original cuboid wood. What has changed?",
+            "equation": "2*2*(6-1)*2",
+            "ans": "40.0"
+        },
+        {
+            "id": 183,
+            "uid": "da1f02e9ef6311ea89283413e8a4c977",
+            "zh_text": "有一根长12dm，宽和高都是2dm的长方体木材，把它截成6个棱长是2dm的小正方体，切开后，表面积比原来增加了多少?",
+            "en_text": "There is a cuboid wood with a length of 12dm and a width and height of 2dm. Cut it into 6 small cubes with a side of 2dm. After cutting, how much has the surface area increased compared to the original?",
+            "equation": "2*2*(6-1)*2",
+            "ans": "40.0"
+        },
+        {
+            "id": 184,
+            "uid": "da1f02eaef6311ea89283413e8a4c977",
+            "zh_text": "一个长方体的长是15cm，宽是长的，高是长的，这个长方体的体积是多少?",
+            "en_text": "The length of a cuboid is 15cm, the width is long, and the height is long. What is the volume of this cuboid?",
+            "equation": "15*15*15",
+            "ans": "3375.0"
+        },
+        {
+            "id": 185,
+            "uid": "da1f02ebef6311ea89283413e8a4c977",
+            "zh_text": "在一个底面长12cm、宽10cm的长方体容器中，放入15条小金鱼，水面上升了1厘米，这些小金鱼平均每条的体积是多少?",
+            "en_text": "Put 15 small goldfish in a rectangular container with a bottom surface of 12 cm long and 10 cm wide. The water surface rises by 1 cm. What is the average volume of each of these small goldfish?",
+            "equation": "12*10*1/15",
+            "ans": "8.0"
+        },
+        {
+            "id": 186,
+            "uid": "da1f02ecef6311ea89283413e8a4c977",
+            "zh_text": "一节科学课上，老师讲解用了1/5的时间，学生讨论用了1/7的时间，余下的时间学生做实验，如果一节课35分钟，老师讲解用了几分钟?",
+            "en_text": "In a science class, the teacher used 0.2 times the time to explain, the students spent 0.14285714285714285 times the time for discussion, and the remaining time was for the students to do experiments. (1) What percentage of the time the students did the experiments accounted for in the entire class? 2) If a class is 35 minutes, how many minutes does the teacher explain?",
+            "equation": "35*(1-1/5-1/7)",
+            "ans": "23.000000000000004"
+        },
+        {
+            "id": 187,
+            "uid": "da1f02edef6311ea89283413e8a4c977",
+            "zh_text": "王奶奶想用菜园总面积的3/4种蔬菜，其中的2/5种了白菜，种白菜的面积占菜园总面积的几分之几?",
+            "en_text": "Grandma Wang wants to use 0.75 times the total area of ​​the vegetable garden to grow vegetables, 0.4 times of which is to grow cabbage. What percentage of the total area of ​​the vegetable garden is planted?",
+            "equation": "3/4*2/5",
+            "ans": "0.3"
+        },
+        {
+            "id": 188,
+            "uid": "da1f02eeef6311ea89283413e8a4c977",
+            "zh_text": "弟弟有96颗彩色玻璃球，哥哥的玻璃球比弟弟多1/6，哥哥的玻璃球比弟弟多多少颗?",
+            "en_text": "The younger brother has 96 colored glass balls. The older brother has 0.16666666666666666 times more than his younger brother. How many more glass balls does the older brother have?",
+            "equation": "96*1/6",
+            "ans": "16.0"
+        },
+        {
+            "id": 189,
+            "uid": "da1f2a7aef6311ea89323413e8a4c977",
+            "zh_text": "一盒识字卡片长、宽都是12cm，厚是1cm，一套卡片是5盒，要用一张包装纸包起来，至少需要多大面积的包装纸?",
+            "en_text": "A box of literacy cards is 12cm in length and width, and 1cm in thickness. A set of cards is 5 boxes. If you want to wrap it with a piece of wrapping paper, at least how much wrapping paper is needed?",
+            "equation": "(12*2+12*3)*2*5",
+            "ans": "600.0"
+        },
+        {
+            "id": 190,
+            "uid": "da1f2a7bef6311ea89323413e8a4c977",
+            "zh_text": "一个果园占地120公顷，其中的1/3种的梨树，其余种的都是苹果树，种苹果树的面积是多少公顷?",
+            "en_text": "An orchard covers an area of ​​120 hectares, of which pear trees are 0.3333333333333333 times more planted, and the rest are planted with apple trees. How many hectares of apple trees are planted?",
+            "equation": "120*(1-1/3)",
+            "ans": "80.00000000000001"
+        },
+        {
+            "id": 191,
+            "uid": "da1f2a7cef6311ea89323413e8a4c977",
+            "zh_text": "一个游泳池长25m、宽20m、深2m，在游泳池的四壁和底面贴上瓷砖，贴瓷砖的面积是多少平方米?",
+            "en_text": "A swimming pool is 25m long, 20m wide, and 2m deep. Tiles are placed on the four walls and bottom of the swimming pool. What is the area of ​​the tiles?",
+            "equation": "25*20+25*2*2+20*2*2",
+            "ans": "680.0"
+        },
+        {
+            "id": 192,
+            "uid": "da1f2a7def6311ea89323413e8a4c977",
+            "zh_text": "一个游泳池长25m、宽20m、深2m，向池中注水，60分钟后水深1.5m，平均每分钟注水多少立方米?",
+            "en_text": "A swimming pool is 25m long, 20m wide, and 2m deep. Water is injected into the pool. After 60 minutes, the water depth is 1.5m. How many cubic meters of water is injected per minute?",
+            "equation": "25*20*1.5/60",
+            "ans": "12.5"
+        },
+        {
+            "id": 193,
+            "uid": "da1f2a7eef6311ea89323413e8a4c977",
+            "zh_text": "一块花布共9/10米，如果给布娃娃做上衣，能做3件，上衣每件用布多少米?",
+            "en_text": "A piece of floral cloth is 0.9 times the meter. If you make a top for a doll, you can make 3 pieces. How many meters of cloth are used for each top?",
+            "equation": "9/10/3",
+            "ans": "0.3"
+        },
+        {
+            "id": 194,
+            "uid": "da1f2a7fef6311ea89323413e8a4c977",
+            "zh_text": "一块花布共9/10米，如果给布娃娃做一套衣服，能做2套，一套衣服用布多少米?",
+            "en_text": "A piece of floral cloth is 0.9 times the meter. If you make a set of clothes for a doll, you can make 2 sets. How many meters is used for a set of clothes?",
+            "equation": "9/10/2",
+            "ans": "0.45"
+        },
+        {
+            "id": 195,
+            "uid": "da1f2a80ef6311ea89323413e8a4c977",
+            "zh_text": "乐乐在看一本小说，4天看了这本书的3/5，乐乐平均每天看这本书的几分之几?",
+            "en_text": "Lele is reading a novel. It is 0.6 times as much as that of the book in 4 days. What percentage of the book does Lele read this book every day?",
+            "equation": "3/5/4",
+            "ans": "0.15"
+        },
+        {
+            "id": 196,
+            "uid": "da1f2a81ef6311ea89323413e8a4c977",
+            "zh_text": "球球先用斜线涂出一张纸的1/4，再用红色涂出斜线部分的1/2，涂红部分占这张纸的几分之几?",
+            "en_text": "The ball is first painted with a diagonal line 0.25 times the size of a piece of paper, and then painted with red 0.5 times the diagonal part. What percentage of the paper is painted in red?",
+            "equation": "1-1/4-1/4*1/2",
+            "ans": "0.625"
+        },
+        {
+            "id": 197,
+            "uid": "da1f2a82ef6311ea89323413e8a4c977",
+            "zh_text": "光明小学有女生320人，是全校学生总数的4/9，光明小学一共有多少名学生?(先写出等量关系式，再列方程解决问题)",
+            "en_text": "There are 320 girls in Guangming Primary School, which is 0.4444444444444444 times the total number of students in the school. How many students are there in Guangming Primary School? (First write out the equivalent relationship, and then formulate the equation to solve the problem)",
+            "equation": "320/(4/9)",
+            "ans": "720.0"
+        },
+        {
+            "id": 198,
+            "uid": "da1f2a83ef6311ea89323413e8a4c977",
+            "zh_text": "我国领土南北两端相距约5500km，西两端的距离约是南北两端的10/11，东西两端相距约多少千米?",
+            "en_text": "The distance between the north and the south of our territory is about 5500km, and the distance between the west and the north is about 0.909090909090909091 times that of the north and south. How many kilometers are the east and west ends?",
+            "equation": "5500*(1-10/11)",
+            "ans": "500.00000000000017"
+        },
+        {
+            "id": 199,
+            "uid": "da1f2a84ef6311ea89323413e8a4c977",
+            "zh_text": "火车每小时行驶100km，相当于燕子每小时飞行距离的2/3，燕子每小时飞行多少千米?",
+            "en_text": "The train travels 100km per hour, which is equivalent to 0.6666666666666666 times the flight distance of the swallows per hour.",
+            "equation": "100/(2/3)",
+            "ans": "150.0"
+        },
+        {
+            "id": 200,
+            "uid": "da1f2a85ef6311ea89323413e8a4c977",
+            "zh_text": "我国的国土面积大约是960万km2，其中草地面积约占5/12，草地面积约是森林面积的5/2，我国草地面积和森林面积大约各是多少平方千米?",
+            "en_text": "my country's land area is about 9.6 million km2, of which the grassland area is about 0.4166666666666667 times, and the grassland area is about 2.5 times the forest area. How many square kilometers are the grassland area and forest area in my country?",
+            "equation": "160*5/12",
+            "ans": "66.66666666666667"
+        },
+        {
+            "id": 201,
+            "uid": "da1f2a86ef6311ea89323413e8a4c977",
+            "zh_text": "学校新盖了一间阅览室，它的长和宽分别是20米和18米用边长为40厘米的正方形地砖铺地面，需要多少块这样的地砖?如果每块地砖的售价是8元，学校要付多少元用于购买地砖?",
+            "en_text": "The school has built a new reading room. Its length and width are 20 meters and 18 meters, respectively. Use square floor tiles with a side length of 40 cm to pave the floor. How many such floor tiles are needed? If each floor tile is sold at 8 yuan , How much should the school pay for the purchase of floor tiles?",
+            "equation": "20*18/(40/100*40/100)*8",
+            "ans": "18000.0"
+        },
+        {
+            "id": 202,
+            "uid": "da1f2a87ef6311ea89323413e8a4c977",
+            "zh_text": "甲、乙两筐梨共重65kg，甲筐比乙筐多5kg甲、乙两筐各有梨多少千克?先写出等量关系，再列方程解决问题，",
+            "en_text": "The total weight of the pears in the two baskets A and B is 65kg, and the basket A is 5kg more than the basket B. How many kilograms of pears are in the baskets A and B? First write the equivalent relationship, and then formulate the equation to solve the problem.",
+            "equation": "(65+5)/2",
+            "ans": "35.0"
+        },
+        {
+            "id": 203,
+            "uid": "da1f2a88ef6311ea89323413e8a4c977",
+            "zh_text": "太阳系的八大行星中，离太阳最近的是水星，地球绕太阳一周是365天，比水星绕太阳一周所用时间的4倍还多13天，水星绕太阳一周是多少天?",
+            "en_text": "Among the eight planets in the solar system, the closest to the sun is Mercury. The earth orbits the sun in 365 days, which is 13 days longer than the time it takes Mercury to orbit the sun four times. How many days does Mercury orbit the sun?",
+            "equation": "(365-13)/4",
+            "ans": "88.0"
+        },
+        {
+            "id": 204,
+            "uid": "da1f2a89ef6311ea89323413e8a4c977",
+            "zh_text": "甲桶85升油，乙桶29升油，甲桶倒入乙桶多少升，才能使甲桶油是乙桶油的2倍?",
+            "en_text": "Barrel A is 85 liters of oil, and barrel B is 29 liters. How many liters of barrel A can be poured into barrel B to make barrel A twice as much oil as barrel B?",
+            "equation": "(85+29)/(2+1)-29",
+            "ans": "9.0"
+        },
+        {
+            "id": 205,
+            "uid": "da1f2a8aef6311ea89323413e8a4c977",
+            "zh_text": "装配组要装200辆自行车，已经装好了92辆，剩下的如果每天装9辆，多少天可以装完?(列方程解决问题)",
+            "en_text": "The assembly team needs to install 200 bicycles, 92 of which have been installed. If 9 bicycles are installed every day, how many days can they be installed? (The equation solves the problem)",
+            "equation": "(200-92)/9",
+            "ans": "12.0"
+        },
+        {
+            "id": 206,
+            "uid": "da1f2a8bef6311ea89323413e8a4c977",
+            "zh_text": "甲、乙两船同时从一个码头向相反方向出发，甲船每小时行驶26.5km，乙船每小时行驶29.5km，几小时后两船相距196千米?",
+            "en_text": "Ships A and B set off from the same pier in opposite directions at the same time. Ship A travels 26.5km per hour, and ship B travels 29.5km per hour. After a few hours, the two ships are 196 kilometers apart?",
+            "equation": "196/(26.5+29.5)",
+            "ans": "3.5"
+        },
+        {
+            "id": 207,
+            "uid": "da1f2a8cef6311ea89323413e8a4c977",
+            "zh_text": "水果批发部计划运进240吨水果，已知甲车每小时运12吨，乙车每小时运8吨，两车一起运需要多少小时运完?",
+            "en_text": "The fruit wholesale department plans to transport 240 tons of fruit. It is known that car A transports 12 tons per hour and car B transports 8 tons per hour. How many hours will it take for the two vehicles to be transported together?",
+            "equation": "240/(12+8)",
+            "ans": "12.0"
+        },
+        {
+            "id": 208,
+            "uid": "da1f2a8def6311ea89323413e8a4c977",
+            "zh_text": "地球表面海洋面积大约是陆地面积的2.4倍，比陆地面积多2.1亿km2海洋面积和陆地面积大约各是多少亿平方千米?",
+            "en_text": "The ocean area on the earth's surface is about 2.4 times that of the land area, which is 210 million km2 more than the land area. How many billion square kilometers are the ocean area and land area?",
+            "equation": "2.1/(2.4-1)+2.1/(2.4-1)",
+            "ans": "3.0000000000000004"
+        },
+        {
+            "id": 209,
+            "uid": "da1f2a8eef6311ea89323413e8a4c977",
+            "zh_text": "甲、乙两列火车同时从相距1000km的两地开出，相对而行，6小时后相距130km，甲车每小时行85km，乙车每小时行多少千米?",
+            "en_text": "Two trains, A and B, depart from two places 1000km apart at the same time, and go opposite each other.After 6 hours, they are 130km apart. Car A travels 85km per hour, and how many kilometers per hour Car B travels?",
+            "equation": "(1000-130)/6-85",
+            "ans": "60.0"
+        },
+        {
+            "id": 210,
+            "uid": "da1f2a8fef6311ea89323413e8a4c977",
+            "zh_text": "一本精装的《寓言故事集》的书套是用硬纸板做成的长方体，它的长、宽、高分别是20cm、13cm、3.5cm，书套的左侧面不封口，做这个书套至少需要多大面积的硬纸板?",
+            "en_text": "The cover of a hard-covered \"Fable Tales\" is a rectangular parallelepiped made of cardboard. Its length, width, and height are 20cm, 13cm, and 3.5cm respectively. The left side of the book cover is not sealed. Make this book cover At least how much cardboard is needed?",
+            "equation": "(20*13+20*3.5*2+13*3.5*2)*2",
+            "ans": "982.0"
+        },
+        {
+            "id": 211,
+            "uid": "da1f2a90ef6311ea89323413e8a4c977",
+            "zh_text": "某房间需要粉刷的墙面为84m2，若不计损耗，每平方米需用涂料0.5升，实际粉刷时，由于操作原因，需要多用1/12的料，实际粉刷时需要涂料多少升?",
+            "en_text": "The wall that needs to be painted in a room is 84m2. If the loss is not counted, 0.5 liters of paint is needed per square meter. When actually painting, due to operational reasons, you need to use 0.08333333333333333 times more material. How many liters of paint are required for actual painting?",
+            "equation": "84*0.5*(1+1/12)",
+            "ans": "45.5"
+        },
+        {
+            "id": 212,
+            "uid": "da1f2a91ef6311ea89323413e8a4c977",
+            "zh_text": "有水果糖5千克，每千克2.4元;奶糖4千克，每千克3.2元;巧克力糖11千克，每千克4.2元，将这些糖混合成什锦糖，这种什锦糖每千克多少元?",
+            "en_text": "There are 5 kilograms of fruit candy, 2.4 yuan per kilogram; 4 kilograms of toffee, 3.2 yuan per kilogram; 11 kilograms of chocolate candies, 4.2 yuan per kilogram. Mix these sugars into assorted candies. How much per kilogram of this assorted candy?",
+            "equation": "(2.4*5+3.2*4+4.2*11)/(5+4+11)",
+            "ans": "3.55"
+        },
+        {
+            "id": 213,
+            "uid": "da1f2a92ef6311ea89323413e8a4c977",
+            "zh_text": "球球一天在校时间是8小时，其中体育活动时间占1/8，休息时间占1/6，用餐时间占1/12，余下的是读书学习时间，(1)球球参加体育活动、休息和用餐时间一共占在校时间的几分之几?(2)他读书学习时间占在校时间的几分之几?",
+            "en_text": "The school time for ball is 8 hours a day, of which sports activity time accounts for 0.125 times, rest time accounts for 0.16666666666666666 times, meal time accounts for 0.08333333333333333 times, and the rest is reading and learning time. (1) Balls participate in sports activities, rest and meal time What percentage of the school time does he spend in school? (2) What percentage of the school time does he study and study?",
+            "equation": "1-13/24",
+            "ans": "0.4583333333333334"
+        },
+        {
+            "id": 214,
+            "uid": "da1f2a93ef6311ea89323413e8a4c977",
+            "zh_text": "张伯伯有一块长方形菜地，长20米，宽是长的3/5，(1)这块地的宽是多少米?(2)如果每平方米收菜15千克，这块地一共能收菜多少千克?",
+            "en_text": "Uncle Zhang has a rectangular vegetable plot with a length of 20 meters and a width of 0.6 times the length. (1) What is the width of this plot? (2) If 15 kilograms of vegetables per square meter are harvested, this plot can harvest vegetables in total How many kilograms?",
+            "equation": "20*3/5*2*15",
+            "ans": "360.0"
+        },
+        {
+            "id": 215,
+            "uid": "da1f2a94ef6311ea89323413e8a4c977",
+            "zh_text": "一辆客车每小时行70千米，一辆小轿车的速度比客车快1/10，小轿车每小时比客车多行多少千米?",
+            "en_text": "A passenger car travels 70 kilometers per hour, a car is 0.1 times faster than a passenger car, and how many kilometers more than a passenger car travels per hour?",
+            "equation": "70*1/10",
+            "ans": "7.0"
+        },
+        {
+            "id": 216,
+            "uid": "da1f2a95ef6311ea89323413e8a4c977",
+            "zh_text": "一列火车每小时行84千米，相当于飞机速度的1/10，飞机每小时飞行多少千米?",
+            "en_text": "A train travels 84 kilometers per hour, which is equivalent to 0.1 times the speed of an airplane. How many kilometers does the airplane fly per hour?",
+            "equation": "84/(1/10)",
+            "ans": "840.0"
+        },
+        {
+            "id": 217,
+            "uid": "da1f505eef6311ea893b3413e8a4c977",
+            "zh_text": "五年级(1)班图书角有文学类和科普类的图书共104本，文学类图书的本数是科普类图书的3倍，两种书各有多少本?",
+            "en_text": "The fifth grade (1) class book corner has a total of 104 literary and popular science books. The number of literary books is three times that of popular science books. How many books are there in each?",
+            "equation": "104-104/(3+1)",
+            "ans": "78.0"
+        },
+        {
+            "id": 218,
+            "uid": "da1f505fef6311ea893b3413e8a4c977",
+            "zh_text": "乐乐和球球的家相距840米，乐乐每分钟走60米，球球每分钟走80米，两人同时从家出发相对而行，多长时间后相遇?",
+            "en_text": "Lele and Qiuqiu's homes are 840 meters apart, Lele walks 60 meters per minute, and the ball travels 80 meters per minute. The two start from home at the same time and walk opposite each other. How long will they meet?",
+            "equation": "840/(60+80)",
+            "ans": "6.0"
+        },
+        {
+            "id": 219,
+            "uid": "da1f5060ef6311ea893b3413e8a4c977",
+            "zh_text": "同学们表演团体操，每行15人，正好站8行，如果每行12人，能站多少行?",
+            "en_text": "The classmates perform group gymnastics. There are 15 people in each row, exactly 8 rows. If there are 12 people in each row, how many rows can they stand?",
+            "equation": "15*8/12",
+            "ans": "10.0"
+        },
+        {
+            "id": 220,
+            "uid": "da1f5061ef6311ea893b3413e8a4c977",
+            "zh_text": "小文的爷爷今年68岁，相当于小文年龄的7倍还少2岁，小文今年几岁?",
+            "en_text": "Xiao Wen's grandfather is 68 years old this year, which is equivalent to 7 times Xiao Wen's age and 2 years younger. How old is Xiao Wen?",
+            "equation": "(68+2)/7",
+            "ans": "10.0"
+        },
+        {
+            "id": 221,
+            "uid": "da1f5062ef6311ea893b3413e8a4c977",
+            "zh_text": "一种长方体影集长20cm，宽15cm，厚4cm，现在要用硬纸板给它做一个封套(右侧不封口)，至少要多大面积的硬纸板?",
+            "en_text": "A cuboid album is 20cm long, 15cm wide, and 4cm thick. Now we need to use cardboard to make a cover for it (the right side is not sealed). At least what area of ​​cardboard is required?",
+            "equation": "20*15+20*4*2+15*4*2",
+            "ans": "580.0"
+        },
+        {
+            "id": 222,
+            "uid": "da1f5063ef6311ea893b3413e8a4c977",
+            "zh_text": "把35升水倒入长4dm，宽2.5dm，6dm的长方体玻璃容器中，水面距离容器口有多少分米?",
+            "en_text": "Pour 35 liters of water into a rectangular glass container with a length of 4dm, a width of 2.5dm, and a 6dm. How many decimeters is the water surface from the mouth of the container?",
+            "equation": "6-35/(4*2.5)",
+            "ans": "2.5"
+        },
+        {
+            "id": 223,
+            "uid": "da1f5064ef6311ea893b3413e8a4c977",
+            "zh_text": "小红家上月的用水量是14.5吨，每吨水的价格是2.30元，平均每人的消费是多少元?",
+            "en_text": "Xiaohong's water consumption last month was 14.5 tons, and the price per ton of water was 2.30 yuan. What is the average consumption per person?",
+            "equation": "14.5*2.3/14.5",
+            "ans": "2.3"
+        },
+        {
+            "id": 224,
+            "uid": "da1f5065ef6311ea893b3413e8a4c977",
+            "zh_text": "一卷红色彩带长16m，包装一套礼品书需要1.8m，这卷红色彩带能包装几套这样的礼品书?",
+            "en_text": "A roll of red ribbon is 16m long, and it takes 1.8m to pack a set of gift books. How many sets of such gift books can this roll of red ribbon pack?",
+            "equation": "16/1.8",
+            "ans": "8.888888888888891"
+        },
+        {
+            "id": 225,
+            "uid": "da1f5066ef6311ea893b3413e8a4c977",
+            "zh_text": "张伯伯的葡萄园今天收获了378kg葡萄，每箱装7.5kg，需要多少个箱子才能全部装完?",
+            "en_text": "Uncle Chambers' vineyard harvested 378kg of grapes today, each containing 7.5kg. How many boxes are needed to pack them all?",
+            "equation": "378/7.5",
+            "ans": "50.4"
+        },
+        {
+            "id": 226,
+            "uid": "da1f5067ef6311ea893b3413e8a4c977",
+            "zh_text": "一块平行四边形的钢板，底是1.2m，高是0.6m如果这块钢板每平方米的质量是390kg，求这块钢板的质量，",
+            "en_text": "A parallelogram steel plate, the bottom is 1.2m, and the height is 0.6m. If the mass of the steel plate per square meter is 390kg, find the quality of the steel plate,",
+            "equation": "1.2*0.6*390",
+            "ans": "280.8"
+        },
+        {
+            "id": 227,
+            "uid": "da1f5068ef6311ea893b3413e8a4c977",
+            "zh_text": "一条水渠的横截面为梯形，上底是2.8m，下底是2m，高是1.5m，这条水渠的横截面面积是多少平方米?",
+            "en_text": "The cross section of a canal is trapezoidal, the upper bottom is 2.8m, the lower bottom is 2m, and the height is 1.5m. What is the cross-sectional area of ​​this canal?",
+            "equation": "(2.8+2)*1.5/2",
+            "ans": "3.6"
+        },
+        {
+            "id": 228,
+            "uid": "da1f5069ef6311ea893b3413e8a4c977",
+            "zh_text": "红领巾的底边长是60cm，高是33cm，它的面积是多少平方厘米?",
+            "en_text": "The bottom of the red scarf is 60cm long and 33cm high. What is its area?",
+            "equation": "60*33/2",
+            "ans": "990.0"
+        },
+        {
+            "id": 229,
+            "uid": "da1f506aef6311ea893b3413e8a4c977",
+            "zh_text": "一块梯形空地，上底是25m，下底是20m，高是12m，如果每平方米草坪的价格为60元，那么要把这块空地全部铺上草坪，一共需要多少元?",
+            "en_text": "A trapezoidal open space, the upper bottom is 25m, the lower bottom is 20m, and the height is 12m. If the price per square meter of lawn is 60 yuan, then how much is the total cost to cover this open space on the lawn?",
+            "equation": "(25+20)*12/2*60",
+            "ans": "16200.0"
+        },
+        {
+            "id": 230,
+            "uid": "da1f506bef6311ea893b3413e8a4c977",
+            "zh_text": "小熊点点有一条2m长的绳子，如果平均分成3段，每段长是多少米呢?",
+            "en_text": "Little Bear has a 2m long rope. If it is divided into 3 sections, how many meters is each section?",
+            "equation": "2/3",
+            "ans": "0.6666666666666666"
+        },
+        {
+            "id": 231,
+            "uid": "da1f506cef6311ea893b3413e8a4c977",
+            "zh_text": "小熊豆豆有一条5m长的绳子，如果平均分成3段，每段长是多少米呢?",
+            "en_text": "Little Bear Doudou has a 5m long rope. If it is divided into 3 sections, how many meters is each section?",
+            "equation": "5/3",
+            "ans": "1.6666666666666667"
+        },
+        {
+            "id": 232,
+            "uid": "da1f506def6311ea893b3413e8a4c977",
+            "zh_text": "4箱桃子共80kg，平均分给5个班，每个班分到多少千克?",
+            "en_text": "4 boxes of peaches totaling 80kg, divided equally among 5 classes, (1) How many kilograms are allocated to each class? (2) How many boxes are allocated to each class?",
+            "equation": "80/5",
+            "ans": "16.0"
+        },
+        {
+            "id": 233,
+            "uid": "da1f506eef6311ea893b3413e8a4c977",
+            "zh_text": "学校舞蹈队有男生15人，女生20人，男生的人数是女生人数的几分之几?",
+            "en_text": "The school dance team has 15 boys and 20 girls. What percentage of the number of boys is the number of girls?",
+            "equation": "15/20",
+            "ans": "0.75"
+        },
+        {
+            "id": 234,
+            "uid": "da1f506fef6311ea893b3413e8a4c977",
+            "zh_text": "学校舞蹈队有男生15人，女生20人，女生的人数占舞蹈队总人数的几分之几?",
+            "en_text": "The school dance team has 15 boys and 20 girls. What percentage of the total number of girls in the dance team?",
+            "equation": "20/(15+20)",
+            "ans": "0.5714285714285714"
+        },
+        {
+            "id": 235,
+            "uid": "da1f5070ef6311ea893b3413e8a4c977",
+            "zh_text": "4路公交车和7路公交车在同一个站点始发，4路公交车每8分钟发一辆车，7路公交车每12分钟发一辆车，早上6点，两个线路的公交车同时发车，至少再过多长时间它们再次同时发车?",
+            "en_text": "Bus No. 4 and Bus No. 7 depart at the same station. Bus No. 4 departs every 8 minutes, Bus No. 7 departs every 12 minutes, and at 6 a.m., buses of two lines At the same time, at least how long will they start at the same time again?",
+            "equation": "2*2*2*3",
+            "ans": "24.0"
+        },
+        {
+            "id": 236,
+            "uid": "da1f5071ef6311ea893b3413e8a4c977",
+            "zh_text": "一匹斑马0.3小时跑14.4km，一只鸵鸟的速度是这匹斑马的1.5倍，这只鸵鸟每小时跑多少千米?",
+            "en_text": "A zebra runs 14.4km in 0.3 hours, and an ostrich is 1.5 times faster than this zebra. How many kilometers does this ostrich run per hour?",
+            "equation": "14.4/0.3*1.5",
+            "ans": "72.0"
+        },
+        {
+            "id": 237,
+            "uid": "da1f5072ef6311ea893b3413e8a4c977",
+            "zh_text": "一条三角形的纱巾用料0.48m2，它的底边是1.2m，高是多少米?(用方程解答)",
+            "en_text": "A triangular gauze is 0.48m2, its base is 1.2m, and how high is it? (Solved by equation)",
+            "equation": "0.48*2/1.2",
+            "ans": "0.8"
+        },
+        {
+            "id": 238,
+            "uid": "da1f5073ef6311ea893b3413e8a4c977",
+            "zh_text": "乐乐带10元去买文具，每本练习本1.5元，每支铅笔0.7元，乐乐买了4本练习本，剩的钱还可以买多少支铅笔?",
+            "en_text": "Lele took 10 yuan to buy stationery, 1.5 yuan per exercise book, 0.7 yuan per pencil, Lele bought 4 exercise books, how many pencils can I buy with the remaining money?",
+            "equation": "(10-1.5*4)/0.7",
+            "ans": "5.7142857142857135"
+        },
+        {
+            "id": 239,
+            "uid": "da1f5074ef6311ea893b3413e8a4c977",
+            "zh_text": "球球的飞机飞了59.78秒，乐乐的飞机飞了53.25秒，球球的飞机多飞了多少秒?",
+            "en_text": "The ball's plane flew for 59.78 seconds, and Lele's plane flew for 53.25 seconds. How many more seconds did the ball's plane fly?",
+            "equation": "59.78-53.25",
+            "ans": "6.530000000000001"
+        },
+        {
+            "id": 240,
+            "uid": "da1f5075ef6311ea893b3413e8a4c977",
+            "zh_text": "地球上1千克的物体到月球上称重约为0.17千克，地球上重10千克、100千克、1000千克的物体到月球上称重，大约各重多少千克?",
+            "en_text": "A 1 kg object on the earth weighs about 0.17 kg on the moon, and an object weighing 10 kg, 100 kg, and 1000 kg on the earth weighs on the moon. How many kilograms each weigh?",
+            "equation": "(1000+100+1)/1*0.17",
+            "ans": "187.17"
+        },
+        {
+            "id": 241,
+            "uid": "da1f5076ef6311ea893b3413e8a4c977",
+            "zh_text": "非洲象奔跑的最快速度是38.6千米/时，长颈鹿奔跑的最快速度是非洲象的1.3倍，长颈鹿的最快速度是多少?",
+            "en_text": "The fastest speed of the African elephant is 38.6 km/h. The fastest speed of the giraffe is 1.3 times that of the African elephant. What is the fastest speed of the giraffe?",
+            "equation": "38.6*1.3",
+            "ans": "50.18000000000001"
+        },
+        {
+            "id": 242,
+            "uid": "da1f5077ef6311ea893b3413e8a4c977",
+            "zh_text": "山羊的体重是25.4千克，东北虎的体重是你的7.5倍，山羊和东北虎共重多少千克?",
+            "en_text": "The weight of the goat is 25.4 kg, and the weight of the Siberian tiger is 7.5 times yours. How many kg of the goat and the Siberian tiger together?",
+            "equation": "25.4*7.5+25.4",
+            "ans": "215.9"
+        },
+        {
+            "id": 243,
+            "uid": "da1f5078ef6311ea893b3413e8a4c977",
+            "zh_text": "山羊的体重是25.4千克，东北虎的体重是你的7.5倍，北极熊重500千克，比山羊和东北虎的体重和多多少千克?",
+            "en_text": "The goat's weight is 25.4 kilograms, the Siberian tiger's weight is 7.5 times yours, and the polar bear weighs 500 kilograms. How many kilograms more is the weight of the goat and the Siberian tiger?",
+            "equation": "25.4*7.5+500-25.4",
+            "ans": "665.1"
+        },
+        {
+            "id": 244,
+            "uid": "da1f5079ef6311ea893b3413e8a4c977",
+            "zh_text": "梨2.5元/千克，苹果2.5元/千克，妈妈买了4.5千克梨和3.5千克苹果，一共花了多少钱?",
+            "en_text": "Pears are 2.5 yuan/kg and apples are 2.5 yuan/kg. Mom bought 4.5 kg of pears and 3.5 kg of apples. How much did it cost?",
+            "equation": "2.5*4.5+2.5*3.5",
+            "ans": "20.0"
+        },
+        {
+            "id": 245,
+            "uid": "da1f775aef6311ea89453413e8a4c977",
+            "zh_text": "一辆客车从张庄开往青县，前4个小时每小时行48.5千米，后3个小时每小时行55千米，刚好到达，两地相距多少千米?",
+            "en_text": "A bus from Zhangzhuang to Qingxian, traveling 48.5 kilometers per hour for the first 4 hours, and 55 kilometers per hour for the next 3 hours, just arrived, how many kilometers are the distance between the two places?",
+            "equation": "48.5*4+55*3",
+            "ans": "359.0"
+        },
+        {
+            "id": 246,
+            "uid": "da1f775bef6311ea89453413e8a4c977",
+            "zh_text": "李叔叔买了1箱苹果和2箱梨共重5千克，苹果每箱25千克，梨每箱多少千克?(列方程解答)",
+            "en_text": "Uncle Li bought 1 box of apples and 2 boxes of pears weighing 5 kilograms. Apples are 25 kilograms per box. How many kilograms are pears per box? (Solution to the equation)",
+            "equation": "(5-25)/2",
+            "ans": "-10.0"
+        },
+        {
+            "id": 247,
+            "uid": "da1f775cef6311ea89453413e8a4c977",
+            "zh_text": "一件西服裤子的价钱是120元，上衣的价钱是裤子的1.5倍，买2套这样的西服共需多少钱?",
+            "en_text": "The price of a suit and pants is 120 yuan, and the price of a top is 1.5 times that of pants. How much does it cost to buy two such suits?",
+            "equation": "(120+120*1.5)*2",
+            "ans": "600.0"
+        },
+        {
+            "id": 248,
+            "uid": "da1f775def6311ea89453413e8a4c977",
+            "zh_text": "学校食堂十月份用水218吨，比九月份多用了12吨，如果水费每吨2.6元，两个月共需水费多少元?",
+            "en_text": "The school canteen uses 218 tons of water in October, which is 12 tons more than in September. If the water bill is 2.6 yuan per ton, how much is the total water bill for two months?",
+            "equation": "(218-12+218)*2.6",
+            "ans": "1102.4"
+        },
+        {
+            "id": 249,
+            "uid": "da1f775eef6311ea89453413e8a4c977",
+            "zh_text": "每平方米草坪每天释放氧气15克，吸收二氧化碳70克，江南公园有一块950平方米的草坪，这块草坪每天能释放多少克氧气?能吸收多少克二氧化碳?",
+            "en_text": "Each square meter of lawn releases 15 grams of oxygen per day and absorbs 70 grams of carbon dioxide. There is a 950 square meter lawn in Jiangnan Park. How many grams of oxygen can this lawn release and how many grams of carbon dioxide can it absorb?",
+            "equation": "950*15",
+            "ans": "14250.0"
+        },
+        {
+            "id": 250,
+            "uid": "da1f775fef6311ea89453413e8a4c977",
+            "zh_text": "步行绕地球一周，每天走55千米，大约要两年才能走完，地球一周大约长多少千米?",
+            "en_text": "It takes about two years to walk around the earth for 55 kilometers every day. How many kilometers is the earth for a week?",
+            "equation": "55*2",
+            "ans": "110.0"
+        },
+        {
+            "id": 251,
+            "uid": "da1f7760ef6311ea89453413e8a4c977",
+            "zh_text": "如果一个人在故宫的每一间房里都住上一天的话，约24年才能住完，故宫大约有多少个房间?",
+            "en_text": "If a person lives in every room in the Forbidden City for one day, it will take about 24 years to complete the stay. How many rooms are there in the Forbidden City?",
+            "equation": "24/4",
+            "ans": "6.0"
+        },
+        {
+            "id": 252,
+            "uid": "da1f7761ef6311ea89453413e8a4c977",
+            "zh_text": "新奇公司要为19个办公室铺地砖，每个办公室大约要用230块，一共需要多少块地砖?",
+            "en_text": "Xinqi Company has to lay floor tiles for 19 offices. Each office costs about 230. How many floor tiles are needed in total?",
+            "equation": "230*19",
+            "ans": "4370.0"
+        },
+        {
+            "id": 253,
+            "uid": "da1f7762ef6311ea89453413e8a4c977",
+            "zh_text": "这条路全长1500米，已经走了4天，每天大约走150米，剩下的路准备5天走完，平均每天要走多少米?",
+            "en_text": "This road is 1,500 meters long and has been walking for 4 days. It is about 150 meters per day. The remaining road is going to be completed in 5 days. How many meters do you have to walk every day?",
+            "equation": "(1500-150*4)/5",
+            "ans": "180.0"
+        },
+        {
+            "id": 254,
+            "uid": "da1f7763ef6311ea89453413e8a4c977",
+            "zh_text": "实验小学有一块长方形植物园，宽5米，后来为扩大种植面积，宽增加了3米，植物园的面积就增加了36平方米，原来植物园的面积是多少平方米?",
+            "en_text": "The experimental elementary school has a rectangular botanical garden with a width of 5 meters. Later, in order to expand the planting area, the width was increased by 3 meters. The area of ​​the botanical garden increased by 36 square meters. How many square meters of the original botanical garden?",
+            "equation": "36/3*5",
+            "ans": "60.0"
+        },
+        {
+            "id": 255,
+            "uid": "da1f7764ef6311ea89453413e8a4c977",
+            "zh_text": "学校原有一个长方形喷水池，长18米，但因植物园的扩建只能将长减少了5米，这样喷水池的面积就减少了40平方米，现在喷水池的面积是多少平方米?",
+            "en_text": "The school originally had a rectangular fountain with a length of 18 meters. However, due to the expansion of the botanical garden, the length could only be reduced by 5 meters, so the area of ​​the fountain was reduced by 40 square meters. What is the area of ​​the fountain now?",
+            "equation": "18*40/5-40",
+            "ans": "104.0"
+        },
+        {
+            "id": 256,
+            "uid": "da1f7765ef6311ea89453413e8a4c977",
+            "zh_text": "小明为锻炼身体每天坚持游泳400米，相当于在游泳池里游4个来回，游泳池长多少米?",
+            "en_text": "Xiao Ming insists on swimming 400 meters every day to exercise, which is equivalent to swimming 4 back and forth in the swimming pool. How long is the swimming pool?",
+            "equation": "400/2*4",
+            "ans": "800.0"
+        },
+        {
+            "id": 257,
+            "uid": "da1f7766ef6311ea89453413e8a4c977",
+            "zh_text": "曙光小学参加运动会开幕式的学生，如果站成8个方队，那么每个方队有12行，每行有20人，曙光小学共有多少人?",
+            "en_text": "The students of Shuguang Primary School participating in the opening ceremony of the Games, if they stand in 8 square teams, then each square team has 12 rows and each row has 20 people.How many people are there in Shuguang Primary School?",
+            "equation": "12*8*20",
+            "ans": "1920.0"
+        },
+        {
+            "id": 258,
+            "uid": "da1f7767ef6311ea89453413e8a4c977",
+            "zh_text": "曙光小学参加运动会开幕式的学生，如果站成8个方队，那么每个方队有12行，每行有20人，后来改为站成6个方队，每个方队有8行，则每行要站多少人?",
+            "en_text": "The students of Shuguang Elementary School who participated in the opening ceremony of the Games, if they stand in 8 square teams, then each square team has 12 rows and each row has 20 people. Later, they stand in 6 square teams, and each square team has 8 rows. How many people do you have to stand in each row?",
+            "equation": "12*20*8/(8*6)",
+            "ans": "40.0"
+        },
+        {
+            "id": 259,
+            "uid": "da1f7768ef6311ea89453413e8a4c977",
+            "zh_text": "6辆车每次运12吨，运4次正好能运完，这批货物有多少吨?",
+            "en_text": "6 vehicles transport 12 tons each time, and 4 transports can be completed. How many tons of goods are there?",
+            "equation": "12*6*4",
+            "ans": "288.0"
+        },
+        {
+            "id": 260,
+            "uid": "da1f7769ef6311ea89453413e8a4c977",
+            "zh_text": "全校有6个年级，每个年级有4个班，每班有12人参加比赛，一共有多少人参加比赛?",
+            "en_text": "The school has 6 grades, each grade has 4 classes, and each class has 12 people participating in the competition. How many people participate in the competition in total?",
+            "equation": "6*4*12",
+            "ans": "288.0"
+        },
+        {
+            "id": 261,
+            "uid": "da1f776aef6311ea89453413e8a4c977",
+            "zh_text": "小白兔在山坡上种杨树和柳树各8行，杨树每行15棵，柳树每行12棵，两种树一共有多少棵?",
+            "en_text": "The little white rabbit planted 8 rows of poplar and willow trees on the hillside, 15 poplars in each row, and 12 willows in each row. How many trees are there in total?",
+            "equation": "15*8+12*8",
+            "ans": "216.0"
+        },
+        {
+            "id": 262,
+            "uid": "da1f776bef6311ea89453413e8a4c977",
+            "zh_text": "小白兔在山坡上种杨树和柳树各8行，杨树每行15棵，柳树每行12棵，杨树比柳树多多少棵?",
+            "en_text": "The little white rabbit planted 8 rows of poplar and willow trees on the hillside, 15 poplars per row, 12 willows per row, how many more poplars than willows?",
+            "equation": "15*8-12*8",
+            "ans": "24.0"
+        },
+        {
+            "id": 263,
+            "uid": "da1f776cef6311ea89453413e8a4c977",
+            "zh_text": "共有288棵树，四(1)班来了16人，四(2)班来了24人，如果都由四(1)班浇水，平均每人浇多少棵树?",
+            "en_text": "There are a total of 288 trees. There are 16 people from class four (1) and 24 people from class four (2). If they are all watered by class four (1), how many trees are watered per person on average?",
+            "equation": "288/(16+24)",
+            "ans": "7.2"
+        },
+        {
+            "id": 264,
+            "uid": "da1f776def6311ea89453413e8a4c977",
+            "zh_text": "共有288棵树，四(1)班来了16人，四(2)班来了24人，如果都由四(2)班浇水，平均每人浇多少棵树?",
+            "en_text": "There are a total of 288 trees. There are 16 people from class 4 (1) and 24 people from class 4 (2). If they are all watered by class 4 (2), how many trees are watered per person on average?",
+            "equation": "288/(16+24)",
+            "ans": "7.2"
+        },
+        {
+            "id": 265,
+            "uid": "da1f776eef6311ea89453413e8a4c977",
+            "zh_text": "共有288棵树，四(1)班来了16人，四(2)班来了24人，如果两个班一起浇水，平均每人浇多少棵树?",
+            "en_text": "There are a total of 288 trees. There are 16 people from class 4 (1) and 24 people from class 4 (2). If two classes are watered together, how many trees are watered on average per person? How many trees are left unwatered?",
+            "equation": "288/(16+24)",
+            "ans": "7.2"
+        },
+        {
+            "id": 266,
+            "uid": "da1f776fef6311ea89453413e8a4c977",
+            "zh_text": "6个人摘了912千克苹果，平均每个人摘了多少千克苹果?",
+            "en_text": "6 people picked 912 kilograms of apples. How many kilograms of apples did each person pick on average?",
+            "equation": "912/6",
+            "ans": "152.0"
+        },
+        {
+            "id": 267,
+            "uid": "da1f7770ef6311ea89453413e8a4c977",
+            "zh_text": "320千克大米，如果每个人分35千克，最多可以分给几个人?",
+            "en_text": "320 kilograms of rice, if each person divides 35 kilograms, how many people can be divided among them?",
+            "equation": "320/35",
+            "ans": "9.142857142857142"
+        },
+        {
+            "id": 268,
+            "uid": "da1f7771ef6311ea89453413e8a4c977",
+            "zh_text": "320千克大米，如果每个人分38千克，最多可以分给几个人?",
+            "en_text": "320 kilograms of rice, if each person divides 38 kilograms, how many people can be divided among them?",
+            "equation": "320/38",
+            "ans": "8.421052631578947"
+        },
+        {
+            "id": 269,
+            "uid": "da1f7772ef6311ea89453413e8a4c977",
+            "zh_text": "工艺品车间12天生产了360件工艺挂毯，平均每天生产多少件?",
+            "en_text": "The handicraft workshop produced 360 pieces of craft tapestries in 12 days. How many pieces are produced per day on average?",
+            "equation": "360/12",
+            "ans": "30.0"
+        },
+        {
+            "id": 270,
+            "uid": "da1f7773ef6311ea89453413e8a4c977",
+            "zh_text": "学校购进26套这样的课桌椅共花了2210元，每把椅子18元，每张课桌多少元?",
+            "en_text": "The school bought 26 sets of such desks and chairs for a total of 2210 yuan, each chair was 18 yuan, how much is each desk?",
+            "equation": "2210/26-18",
+            "ans": "67.0"
+        },
+        {
+            "id": 271,
+            "uid": "da1f7774ef6311ea89453413e8a4c977",
+            "zh_text": "甲、乙两地相距576千米，从甲地到乙地，骑自行车16千米/时，需要几小时到达?",
+            "en_text": "Place A and Place B are 576 kilometers apart. From Place A to Place B, riding a bicycle at 16 kilometers/hour, how many hours does it take to arrive?",
+            "equation": "576/16",
+            "ans": "36.0"
+        },
+        {
+            "id": 272,
+            "uid": "da1f9f5cef6311ea89503413e8a4c977",
+            "zh_text": "甲、乙两地相距576千米，从甲地到乙地，坐公交车48千米/时，需要几小时到达?",
+            "en_text": "Place A and Place B are 576 kilometers apart. From Place A to Place B, take a bus at 48 kilometers/hour, how many hours does it take to arrive?",
+            "equation": "576/48",
+            "ans": "12.0"
+        },
+        {
+            "id": 273,
+            "uid": "da1f9f5def6311ea89503413e8a4c977",
+            "zh_text": "甲、乙两地相距576千米，从甲地到乙地，骑摩托车64千米/时，需要几小时到达?",
+            "en_text": "Place A and Place B are 576 kilometers apart. From Place A to Place B, ride a motorcycle at 64 kilometers/hour, how many hours does it take to arrive?",
+            "equation": "576/64",
+            "ans": "9.0"
+        },
+        {
+            "id": 274,
+            "uid": "da1f9f5eef6311ea89503413e8a4c977",
+            "zh_text": "甲、乙两地相距576千米，从甲地到乙地，开车96千米/时，需要几小时到达?",
+            "en_text": "A and B are 576 kilometers apart. From A to B, driving 96 kilometers/hour, how many hours does it take to arrive?",
+            "equation": "576/96",
+            "ans": "6.0"
+        },
+        {
+            "id": 275,
+            "uid": "da1f9f5fef6311ea89503413e8a4c977",
+            "zh_text": "我3小时行驶了270千米，照这样的速度，4小时行驶了多少千米?",
+            "en_text": "I drove 270 kilometers in 3 hours. At this speed, how many kilometers did I travel in 4 hours?",
+            "equation": "270/3*4",
+            "ans": "360.0"
+        },
+        {
+            "id": 276,
+            "uid": "da1f9f60ef6311ea89503413e8a4c977",
+            "zh_text": "我3小时行驶了270千米，照这样的速度，行驶630千米，需要多长时间?",
+            "en_text": "I drove 270 kilometers in 3 hours. How long does it take to drive 630 kilometers at this speed?",
+            "equation": "630/(270/3)",
+            "ans": "7.0"
+        },
+        {
+            "id": 277,
+            "uid": "da1f9f61ef6311ea89503413e8a4c977",
+            "zh_text": "甲地到乙地，如果每小时行驶60千米，6小时就到了，如果每小时行驶90千米，几小时到达?",
+            "en_text": "From place A to place B, if you travel 60 kilometers per hour, 6 hours will arrive, if you travel 90 kilometers per hour, how many hours will you arrive?",
+            "equation": "60*6/90",
+            "ans": "4.0"
+        },
+        {
+            "id": 278,
+            "uid": "da1f9f62ef6311ea89503413e8a4c977",
+            "zh_text": "甲地到乙地，如果每小时行驶60千米，6小时就到了，如果3小时到达，每小时行驶多少千米?",
+            "en_text": "From place A to place B, if you travel 60 kilometers per hour, 6 hours will arrive, if you arrive in 3 hours, how many kilometers per hour?",
+            "equation": "60*6/3",
+            "ans": "120.0"
+        },
+        {
+            "id": 279,
+            "uid": "da1f9f63ef6311ea89503413e8a4c977",
+            "zh_text": "1吨废纸可以生产850千克再生纸，相当于少砍17棵大树，这个月共回收废纸24吨，用这些废纸能生产出多少千克再生纸?",
+            "en_text": "One ton of waste paper can produce 850 kilograms of recycled paper, which is equivalent to cutting down 17 trees. A total of 24 tons of waste paper are recycled this month. How many kilograms of recycled paper can be produced from this waste paper?",
+            "equation": "850/1*24",
+            "ans": "20400.0"
+        },
+        {
+            "id": 280,
+            "uid": "da1f9f64ef6311ea89503413e8a4c977",
+            "zh_text": "1吨废纸可以生产850千克再生纸，相当于少砍17棵大树，这个月共回收废纸24吨，相当于少砍多少棵大树?",
+            "en_text": "One ton of waste paper can produce 850 kilograms of recycled paper, which is equivalent to cutting down 17 trees. A total of 24 tons of waste paper are recycled this month, which is equivalent to how many trees are cut down?",
+            "equation": "17*24",
+            "ans": "408.0"
+        },
+        {
+            "id": 281,
+            "uid": "da1f9f65ef6311ea89503413e8a4c977",
+            "zh_text": "苹果树种了16行，桃树种了14行，两种果树都是每行种15棵，一共有多少棵?",
+            "en_text": "There are 16 rows of apple trees and 14 rows of peach trees. Both types of fruit trees have 15 trees in each row. How many are there in total?",
+            "equation": "(16+14)*15",
+            "ans": "450.0"
+        },
+        {
+            "id": 282,
+            "uid": "da1f9f66ef6311ea89503413e8a4c977",
+            "zh_text": "共有360人要去植物园参观，每辆车限乘客52人，至少需要多少辆大客车?有多少个空座位?",
+            "en_text": "A total of 360 people are going to visit the Botanical Garden. Each car has a limit of 52 passengers. How many buses are required at least? How many empty seats are there?",
+            "equation": "360/52",
+            "ans": "6.9230769230769225"
+        },
+        {
+            "id": 283,
+            "uid": "da1f9f67ef6311ea89503413e8a4c977",
+            "zh_text": "一辆小轿车4小时行驶了416千米，它看到路牌距沈阳520千米，距长春246千米后，还要多长时间才能到达沈阳?",
+            "en_text": "A small car drove 416 kilometers in 4 hours. It saw a street sign 520 kilometers away from Shenyang and 246 kilometers away from Changchun. How long will it take to reach Shenyang?",
+            "equation": "(520-246)/(416/4)",
+            "ans": "2.6346153846153846"
+        },
+        {
+            "id": 284,
+            "uid": "da1f9f68ef6311ea89503413e8a4c977",
+            "zh_text": "一辆货车从出发地去长春，速度是82千米/时，行驶了3小时后看到路牌距沈阳520千米，距长春246千米，它从出发地到长春一共要行驶多少千米?",
+            "en_text": "A truck went to Changchun from the place of departure at a speed of 82 kilometers per hour. After driving for 3 hours, it saw a road sign that was 520 kilometers away from Shenyang and 246 kilometers away from Changchun. How many kilometers does it travel from the place of departure to Changchun?",
+            "equation": "82*3+520+246",
+            "ans": "1012.0"
+        },
+        {
+            "id": 285,
+            "uid": "da1f9f69ef6311ea89503413e8a4c977",
+            "zh_text": "这有46本书，如果平均分给2个班，每个班能分多少本书?",
+            "en_text": "There are 46 books. If divided into 2 classes, how many books can each class be divided into?",
+            "equation": "46/2",
+            "ans": "23.0"
+        },
+        {
+            "id": 286,
+            "uid": "da1f9f6aef6311ea89503413e8a4c977",
+            "zh_text": "这有46本书，如果平均分给4个班，每班分多少本?还剩多少本?",
+            "en_text": "There are 46 books. If they are divided evenly among 4 classes, how many books are divided into each class? How many books are left?",
+            "equation": "46-4",
+            "ans": "42.0"
+        },
+        {
+            "id": 287,
+            "uid": "da1f9f6bef6311ea89503413e8a4c977",
+            "zh_text": "有96人参加乒乓球比赛，如果都参加单打比赛，可以分成几组?",
+            "en_text": "There are 96 people participating in table tennis competitions. If they all participate in singles competitions, how many groups can they be divided into?",
+            "equation": "96/4",
+            "ans": "24.0"
+        },
+        {
+            "id": 288,
+            "uid": "da1f9f6cef6311ea89503413e8a4c977",
+            "zh_text": "有96人参加乒乓球比赛，如果都参加双打比赛，可以分成几组?",
+            "en_text": "There are 96 people participating in the table tennis competition. If they all participate in the doubles competition, how many groups can they be divided into?",
+            "equation": "96/4",
+            "ans": "24.0"
+        },
+        {
+            "id": 289,
+            "uid": "da1f9f6def6311ea89503413e8a4c977",
+            "zh_text": "红星小学共有972人，平均分成6个队参加队列表演，平均每个队有多少人?",
+            "en_text": "There are 972 people in Red Star Elementary School, divided into 6 teams to participate in the queue performance. How many people do each team have on average?",
+            "equation": "972/6",
+            "ans": "162.0"
+        },
+        {
+            "id": 290,
+            "uid": "da1f9f6eef6311ea89503413e8a4c977",
+            "zh_text": "红星小学共有972人，如果平均分成4个队，每个队有多少人?",
+            "en_text": "There are 972 people in Red Star Primary School. If they are divided into 4 teams, how many people are in each team?",
+            "equation": "972/4",
+            "ans": "243.0"
+        },
+        {
+            "id": 291,
+            "uid": "da1f9f6fef6311ea89503413e8a4c977",
+            "zh_text": "一共有2400粒豆子，平均分给5人，每人分到多少粒?",
+            "en_text": "There are 2400 beans in total, which are divided equally among 5 people. How many beans do each person get?",
+            "equation": "2400/5",
+            "ans": "480.0"
+        },
+        {
+            "id": 292,
+            "uid": "da1f9f70ef6311ea89503413e8a4c977",
+            "zh_text": "爱心捐助6台收音机花了804元，平均每台收音机多少钱?",
+            "en_text": "Love donated 6 radios to spend 804 yuan, how much is each radio on average?",
+            "equation": "804/6",
+            "ans": "134.0"
+        },
+        {
+            "id": 293,
+            "uid": "da1f9f71ef6311ea89503413e8a4c977",
+            "zh_text": "5个商店一共有652个杯子，平均每个商店有多少个杯子，还剩几个?",
+            "en_text": "There are a total of 652 cups in 5 stores. On average, how many cups are there in each store, and how many are left?",
+            "equation": "652/5-5",
+            "ans": "125.4"
+        },
+        {
+            "id": 294,
+            "uid": "da1f9f72ef6311ea89503413e8a4c977",
+            "zh_text": "800只纸鹤，如果6只一串，能串几串，还剩几只?",
+            "en_text": "800 paper cranes, if 6 are in a string, how many strings can be stringed, how many are left?",
+            "equation": "800/6-6",
+            "ans": "127.33333333333334"
+        },
+        {
+            "id": 295,
+            "uid": "da1f9f73ef6311ea89503413e8a4c977",
+            "zh_text": "幸福村要修一条长840米的公路，如果8天修完，平均每天修多少米?",
+            "en_text": "Xingfu Village needs to build a 840-meter-long road. If it is completed in 8 days, how many meters will be built every day?",
+            "equation": "840/8",
+            "ans": "105.0"
+        },
+        {
+            "id": 296,
+            "uid": "da1f9f74ef6311ea89503413e8a4c977",
+            "zh_text": "幸福村要修一条长840米的公路，如果7天修完，平均每天修多少米?",
+            "en_text": "Xingfu Village needs to build a 840-meter-long road. If it is completed in 7 days, how many meters will be built per day on average?",
+            "equation": "840/7",
+            "ans": "120.0"
+        },
+        {
+            "id": 297,
+            "uid": "da1f9f75ef6311ea89503413e8a4c977",
+            "zh_text": "幸福村要修一条长840米的公路，如果6天修完，平均每天修多少米?",
+            "en_text": "Xingfu Village needs to build a 840-meter-long road. If it is completed in 6 days, how many meters will be built every day?",
+            "equation": "840/6",
+            "ans": "140.0"
+        },
+        {
+            "id": 298,
+            "uid": "da1f9f76ef6311ea89503413e8a4c977",
+            "zh_text": "幸福村要修一条长840米的公路，如果5天修完，平均每天修多少米?",
+            "en_text": "Xingfu Village needs to build a 840-meter-long road. If it is completed in 5 days, how many meters will be built every day?",
+            "equation": "840/5",
+            "ans": "168.0"
+        },
+        {
+            "id": 299,
+            "uid": "da1f9f77ef6311ea89503413e8a4c977",
+            "zh_text": "有516个皮球，如果每盒装6个，大约需要多少个盒子?",
+            "en_text": "There are 516 balls. If there are 6 in each box, how many boxes are needed?",
+            "equation": "516/6",
+            "ans": "86.0"
+        },
+        {
+            "id": 300,
+            "uid": "da1f9f78ef6311ea89503413e8a4c977",
+            "zh_text": "有516个皮球，如果每盒装8个，需要几个盒子?还剩几个皮球?",
+            "en_text": "There are 516 balls. If there are 8 in each box, how many boxes are needed? How many balls are left?",
+            "equation": "516/8",
+            "ans": "64.5"
+        },
+        {
+            "id": 301,
+            "uid": "da1f9f79ef6311ea89503413e8a4c977",
+            "zh_text": "小熊商店有3袋毛巾，共288元，每袋毛巾钱数相同，每袋毛巾多少元?",
+            "en_text": "There are 3 bags of towels in the bear store, totaling 288 yuan. Each bag of towels has the same amount. How much is each bag of towels?",
+            "equation": "288/3",
+            "ans": "96.0"
+        },
+        {
+            "id": 302,
+            "uid": "da1f9f7aef6311ea89503413e8a4c977",
+            "zh_text": "小熊商店有3袋毛巾，共288元，一袋有8条毛巾，每条多少元?",
+            "en_text": "There are 3 bags of towels in the bear store, a total of 288 yuan, one bag has 8 towels, how much is each?",
+            "equation": "288/3/8",
+            "ans": "12.0"
+        },
+        {
+            "id": 303,
+            "uid": "da1f9f7bef6311ea89503413e8a4c977",
+            "zh_text": "贝贝用一堆小棒摆六边形，能摆48个，如果用这堆小棒摆八边形，能摆多少个?",
+            "en_text": "Beibei uses a bunch of small sticks to make a hexagon, and can place 48. If you use this bunch of small sticks to make an octagon, how many can you place?",
+            "equation": "48/6*8",
+            "ans": "64.0"
+        },
+        {
+            "id": 304,
+            "uid": "da1f9f7cef6311ea89503413e8a4c977",
+            "zh_text": "宝宝用小棒摆了6个图案，用了132根小棒，照这样摆下去，摆9个图案，用多少根小棒?",
+            "en_text": "The baby used small sticks to put 6 patterns and used 132 sticks. Put it like this, put 9 patterns, how many sticks?",
+            "equation": "132/6*9",
+            "ans": "198.0"
+        },
+        {
+            "id": 305,
+            "uid": "da1fc648ef6311ea895a3413e8a4c977",
+            "zh_text": "原计划9天制造198台机床，实际每天比原计划多制造5台，实际每天制造多少台?",
+            "en_text": "The original plan was to manufacture 198 machine tools in 9 days, but the actual production is 5 more than the original plan. How many machines are actually produced every day?",
+            "equation": "198/9+5",
+            "ans": "27.0"
+        },
+        {
+            "id": 306,
+            "uid": "da1fc649ef6311ea895a3413e8a4c977",
+            "zh_text": "种树每行25棵，要种20行，他们一共要种多少棵树?",
+            "en_text": "Plant 25 trees in each row and 20 rows. How many trees do they need to plant in total?",
+            "equation": "25*20",
+            "ans": "500.0"
+        },
+        {
+            "id": 307,
+            "uid": "da1fc64aef6311ea895a3413e8a4c977",
+            "zh_text": "奶牛场有11个牛栏，每个牛栏里有13头奶牛，每头奶牛每天平均产奶13升，每个牛栏的奶牛一天能产奶多少升?",
+            "en_text": "The dairy farm has 11 cow pens, and each cow pen has 13 cows. Each cow produces an average of 13 liters of milk per day. How many liters of milk can a cow in each cow pen produce in a day?",
+            "equation": "13*13*11",
+            "ans": "1859.0"
+        },
+        {
+            "id": 308,
+            "uid": "da1fc64bef6311ea895a3413e8a4c977",
+            "zh_text": "奶牛场有11个牛栏，每个牛栏里有13头奶牛，这个奶牛场一共有多少头奶牛?",
+            "en_text": "The dairy farm has 11 cow pens and each cow pen has 13 cows. How many cows are there in this dairy farm?",
+            "equation": "13*11",
+            "ans": "143.0"
+        },
+        {
+            "id": 309,
+            "uid": "da1fc64cef6311ea895a3413e8a4c977",
+            "zh_text": "妙妙烘焙房，今天卖出10盘蛋糕，13盘蛋挞，21盘面包，蛋糕25个/盘，蛋挞32个/盘，面包42个/盘，三种食品各卖出多少个?",
+            "en_text": "Miaomiao Baking House, today sold 10 plates of cakes, 13 plates of egg tarts, 21 plates of bread, 25 cakes/plate, 32 egg tarts/plate, 42 breads/plate, how many of the three foods were sold?",
+            "equation": "25*10+32*13+42*21",
+            "ans": "1548.0"
+        },
+        {
+            "id": 310,
+            "uid": "da1fc64def6311ea895a3413e8a4c977",
+            "zh_text": "妙妙烘焙房，面包42个/盘，4个面包8元钱，21盘面包一共能卖多少钱?",
+            "en_text": "Miaomiao Baking Room, 42 breads/pan, 8 yuan for 4 breads, how much can you sell 21 breads in total?",
+            "equation": "42*4*8",
+            "ans": "1344.0"
+        },
+        {
+            "id": 311,
+            "uid": "da1fc64eef6311ea895a3413e8a4c977",
+            "zh_text": "今天一共运进320千克苹果，每车运8箱，共运2车，每箱苹果重多少千克?",
+            "en_text": "A total of 320 kilograms of apples were transported today, 8 boxes per vehicle, and 2 vehicles were transported. How many kilograms of apples each box?",
+            "equation": "320/8/2",
+            "ans": "20.0"
+        },
+        {
+            "id": 312,
+            "uid": "da1fc64fef6311ea895a3413e8a4c977",
+            "zh_text": "草坪中央有一个边长为8米的正方形喷水池，喷水池的占地面积是多少?",
+            "en_text": "There is a square fountain with a side length of 8 meters in the center of the lawn. What is the area of ​​the fountain?",
+            "equation": "8*8",
+            "ans": "64.0"
+        },
+        {
+            "id": 313,
+            "uid": "da1fc650ef6311ea895a3413e8a4c977",
+            "zh_text": "一张方桌桌面的边长是70厘米，要在上面铺一块同样大小的玻璃，这块玻璃的面积是多少平方厘米?合多少平方分米?",
+            "en_text": "The side length of a square table top is 70 cm, and a piece of glass of the same size should be laid on it. What is the area of ​​this glass in square centimeters? How many square decimeters?",
+            "equation": "70*70/100",
+            "ans": "49.0"
+        },
+        {
+            "id": 314,
+            "uid": "da1fc651ef6311ea895a3413e8a4c977",
+            "zh_text": "公路两旁要建336平方米的绿化带，如果每3平方米种1棵树，一共需要多少棵树苗?",
+            "en_text": "336 square meters of green belts are to be built on both sides of the highway. If one tree is planted for every 3 square meters, how many saplings are needed?",
+            "equation": "336/3*2",
+            "ans": "224.0"
+        },
+        {
+            "id": 315,
+            "uid": "da1fc652ef6311ea895a3413e8a4c977",
+            "zh_text": "花坛长12米，宽10米，这个花坛的面积是多少?",
+            "en_text": "The flower bed is 12 meters long and 10 meters wide. What is the area of ​​this flower bed?",
+            "equation": "12*10",
+            "ans": "120.0"
+        },
+        {
+            "id": 316,
+            "uid": "da1fc653ef6311ea895a3413e8a4c977",
+            "zh_text": "花坛长12米，宽10米，如果每平方米能栽5棵花，这个花坛一共能栽多少棵花?",
+            "en_text": "The flower bed is 12 meters long and 10 meters wide. If you can plant 5 flowers per square meter, how many flowers can be planted in this flower bed?",
+            "equation": "12*10*5",
+            "ans": "600.0"
+        },
+        {
+            "id": 317,
+            "uid": "da1fc654ef6311ea895a3413e8a4c977",
+            "zh_text": "一个月饼，鼠爸爸吃了4/8，鼠宝宝吃了1/8，剩下的留给鼠妈妈，鼠妈妈吃了多少?谁吃得最多?谁吃得最少?",
+            "en_text": "For a moon cake, the mouse father ate 0.5 times, the mouse baby ate 0.125 times, and the rest was left to the mouse mother. How much did the mouse mother eat? Who eats the most? Who eats the least?",
+            "equation": "1-4/8-1/8",
+            "ans": "0.375"
+        },
+        {
+            "id": 318,
+            "uid": "da1fc655ef6311ea895a3413e8a4c977",
+            "zh_text": "咱们把蛋糕平均分成10块，妈妈和爸爸每人吃了3块，剩下的都被乐乐我吃光了，爸爸和妈妈一共吃了这个蛋糕的几分之几?",
+            "en_text": "Let's divide the cake into 10 pieces evenly. Mom and Dad each ate 3 pieces, and Lele and I ate the rest. How much of the cake did Dad and Mom eat together?",
+            "equation": "(10-3)/10+3/10",
+            "ans": "1.0"
+        },
+        {
+            "id": 319,
+            "uid": "da1fc656ef6311ea895a3413e8a4c977",
+            "zh_text": "咱们把蛋糕平均分成10块，妈妈和爸爸每人吃了3块，剩下的都被乐乐我吃光了，乐乐吃了这个蛋糕的几分之几?",
+            "en_text": "Let's divide the cake into 10 pieces evenly. Mom and Dad each ate 3 pieces, and Lele and I ate the rest. What fraction of the cake did Lele eat?",
+            "equation": "(10-3-3)/10",
+            "ans": "0.4"
+        },
+        {
+            "id": 320,
+            "uid": "da1fc657ef6311ea895a3413e8a4c977",
+            "zh_text": "一条彩带，乐乐用了它的6/15，球球用了它的4/15，奇思用了它的1/15，他们一共用了彩带的几分之几?还剩几分之几?",
+            "en_text": "For a ribbon, Lele used 0.4 times of it, the ball used 0.26666666666666666 times of it, and Qisi used 0.06666666666666667 times of it. What fraction of the ribbon did they share? How many fractions are left?",
+            "equation": "1-6/15-4/15-1/15",
+            "ans": "0.26666666666666666"
+        },
+        {
+            "id": 321,
+            "uid": "da1fc658ef6311ea895a3413e8a4c977",
+            "zh_text": "游览植物园，成人16元，儿童半价，小明班共有35名同学，小明所在班班主任和学生买票共要多少元?",
+            "en_text": "Visiting the botanical garden is 16 yuan for adults and half price for children. There are 35 students in Xiaoming's class. How much does it cost to buy tickets for Xiaoming's class teacher and students?",
+            "equation": "16*35+16/2*35",
+            "ans": "840.0"
+        },
+        {
+            "id": 322,
+            "uid": "da1fc659ef6311ea895a3413e8a4c977",
+            "zh_text": "植物标本展览，每4个是一套，我买3套共花了48元，平均每个植物标本多少元?",
+            "en_text": "For the plant specimen exhibition, every 4 sets is a set. I bought 3 sets for a total of 48 yuan. How much is each plant specimen on average?",
+            "equation": "48/(4*3)",
+            "ans": "4.0"
+        },
+        {
+            "id": 323,
+            "uid": "da1fc65aef6311ea895a3413e8a4c977",
+            "zh_text": "三年级师生共128人，三年级师生正好坐满2间放映厅，每间放映厅容纳的人数相等，五间放映厅共有多少个座位?",
+            "en_text": "There are a total of 128 teachers and students in the third grade. The third grade teachers and students happened to fill up 2 screening halls. Each screening room has the same number of people. How many seats are there in the five screening halls?",
+            "equation": "128/2*5",
+            "ans": "320.0"
+        },
+        {
+            "id": 324,
+            "uid": "da1fc65bef6311ea895a3413e8a4c977",
+            "zh_text": "一个蛋糕，爸爸、妈妈和球球各吃了它的1/5，还剩下几分之几?",
+            "en_text": "A cake, father, mother and ball ball each ate 0.2 times of it, and how many fractions are left?",
+            "equation": "1-1/5-1/5",
+            "ans": "0.6000000000000001"
+        },
+        {
+            "id": 325,
+            "uid": "da1fc65cef6311ea895a3413e8a4c977",
+            "zh_text": "这块地的1/8种白菜，再用它的1/8种萝卜，种白菜和萝卜一共用去这块地的几分之几?还剩几分之几?",
+            "en_text": "0.125 times of this land is used to grow cabbage, and then 0.125 times of it is used to grow radishes. How much of the land is used for growing cabbage and radish? How much is left?",
+            "equation": "1-(1/8+1/8)",
+            "ans": "0.75"
+        },
+        {
+            "id": 326,
+            "uid": "da1fc65def6311ea895a3413e8a4c977",
+            "zh_text": "每块地砖的边长是6分米，50块地砖正好能铺满客厅，这个客厅的面积有多少平方米?",
+            "en_text": "The side length of each floor tile is 6 decimeters, and 50 floor tiles can just cover the living room. How many square meters is the living room area?",
+            "equation": "6*6*50/100",
+            "ans": "18.0"
+        },
+        {
+            "id": 327,
+            "uid": "da1fc65eef6311ea895a3413e8a4c977",
+            "zh_text": "卫生间的地面是正方形的，周长8米，卫生间的面积是多少平方米?",
+            "en_text": "The floor of the bathroom is square with a circumference of 8 meters. What is the area of ​​the bathroom in square meters?",
+            "equation": "8/4*8/4",
+            "ans": "4.0"
+        },
+        {
+            "id": 328,
+            "uid": "da1fc65fef6311ea895a3413e8a4c977",
+            "zh_text": "上山用了12分钟，平均每分钟走50米，原路下山用了8分钟，平均每分钟走多少米?",
+            "en_text": "It took 12 minutes to go up the mountain, an average of 50 meters per minute, and 8 minutes to go down the original road, how many meters per minute on average?",
+            "equation": "50*12/8",
+            "ans": "75.0"
+        },
+        {
+            "id": 329,
+            "uid": "da1fc660ef6311ea895a3413e8a4c977",
+            "zh_text": "3车运了180块砖，一共要运15车，这些砖一共有多少块?",
+            "en_text": "3 trucks transported 180 bricks, a total of 15 trucks, how many pieces of these bricks are there in total?",
+            "equation": "180/3*15",
+            "ans": "900.0"
+        },
+        {
+            "id": 330,
+            "uid": "da1fc661ef6311ea895a3413e8a4c977",
+            "zh_text": "冰激凌每个4元，冷饮每杯5元，绿茶2瓶5元，乐乐买了2个冰激凌和2瓶绿茶，一共要花多少元?",
+            "en_text": "Ice cream is 4 yuan each, cold drinks are 5 yuan per cup, and 2 bottles of green tea are 5 yuan. Lele bought 2 ice creams and 2 bottles of green tea. How much does it cost?",
+            "equation": "4*2+5*2",
+            "ans": "18.0"
+        },
+        {
+            "id": 331,
+            "uid": "da1fc662ef6311ea895a3413e8a4c977",
+            "zh_text": "玫瑰花每枝6元，菊花每枝3元，康乃馨4枝20元，百合花2枝12元，乐乐买一枝玫瑰花和一枝康乃馨，一共要花多少元?",
+            "en_text": "Rose is 6 yuan per branch, chrysanthemum is 3 yuan per branch, 4 carnations are 20 yuan, 2 lilies are 12 yuan, Lele buys a rose and a carnation, how much does it cost?",
+            "equation": "6+3*4",
+            "ans": "18.0"
+        },
+        {
+            "id": 332,
+            "uid": "da1fc663ef6311ea895a3413e8a4c977",
+            "zh_text": "玫瑰花每枝6元，菊花每枝3元，康乃馨4枝20元，百合花2枝12元，一枝菊花比一枝百合花便宜多少元?",
+            "en_text": "Rose is 6 yuan per branch, chrysanthemum is 3 yuan per branch, 4 carnations are 20 yuan, 2 lilies are 12 yuan, how much cheaper is a chrysanthemum than a lily?",
+            "equation": "12/2-6/4",
+            "ans": "4.5"
+        },
+        {
+            "id": 333,
+            "uid": "da1fc664ef6311ea895a3413e8a4c977",
+            "zh_text": "杨树苗5元/棵，柳树苗8元/棵，爷爷用50元买了5棵柳树苗和1棵松树苗，一棵松树苗多少元?",
+            "en_text": "Poplar saplings are 5 yuan per tree, and willow saplings are 8 yuan per tree. Grandpa bought 5 willow saplings and 1 pine sapling for 50 yuan. How much is a pine sapling?",
+            "equation": "50-8*5",
+            "ans": "10.0"
+        },
+        {
+            "id": 334,
+            "uid": "da1fc665ef6311ea895a3413e8a4c977",
+            "zh_text": "一共有48箱水果，每次最多运6箱，已经运走了24箱，剩下的水果小熊要运几次才能运完?",
+            "en_text": "There are a total of 48 boxes of fruit, and a maximum of 6 boxes are shipped at a time. 24 boxes have been shipped. How many times will the remaining fruit bears be shipped?",
+            "equation": "(48-24)/6",
+            "ans": "4.0"
+        },
+        {
+            "id": 335,
+            "uid": "da1fc666ef6311ea895a3413e8a4c977",
+            "zh_text": "小鸡和母鸡一共有40只，其中小鸡有7行，每行5只，母鸡有几只?",
+            "en_text": "There are 40 chicks and hens, of which there are 7 rows of chicks, 5 in each row, how many hens are there?",
+            "equation": "40-7*5",
+            "ans": "5.0"
+        },
+        {
+            "id": 336,
+            "uid": "da1fed0cef6311ea89643413e8a4c977",
+            "zh_text": "小鸡和母鸡一共有40只，其中母鸡有5只，小鸡排成了7行，每行有几只?",
+            "en_text": "There are a total of 40 chicks and hens, of which there are 5 hens, and the chicks are arranged in 7 rows. How many are there in each row?",
+            "equation": "(40-5)/7",
+            "ans": "5.0"
+        },
+        {
+            "id": 337,
+            "uid": "da1fed0def6311ea89643413e8a4c977",
+            "zh_text": "面食店豆沙包共有1000个，豆沙包上午卖出了580个，下午卖出了405个，还剩多少个?",
+            "en_text": "There are 1,000 bean paste buns in the noodle shop. 580 bean paste buns were sold in the morning and 405 in the afternoon. How many are left?",
+            "equation": "1000-(580+405)",
+            "ans": "15.0"
+        },
+        {
+            "id": 338,
+            "uid": "da1fed0eef6311ea89643413e8a4c977",
+            "zh_text": "面食店馒头上午卖出了268个，下午卖出了296个，还剩136个，原来有多少个?",
+            "en_text": "The noodle shop sold 268 steamed buns in the morning and 296 in the afternoon. There are 136 left. How many are there?",
+            "equation": "268+296+136",
+            "ans": "700.0"
+        },
+        {
+            "id": 339,
+            "uid": "da1fed0fef6311ea89643413e8a4c977",
+            "zh_text": "本月初购进900辆自行车，上半月的销售327辆，下半月的销售315辆，现在还剩多少辆?",
+            "en_text": "At the beginning of this month, 900 bicycles were purchased, 327 were sold in the first half of the month, and 315 were sold in the second half of the month. How many bicycles are left now?",
+            "equation": "900-327-315",
+            "ans": "258.0"
+        },
+        {
+            "id": 340,
+            "uid": "da1fed10ef6311ea89643413e8a4c977",
+            "zh_text": "第一捆电线400米，第一捆先用去185米，又用去205米，现在还剩多少米?",
+            "en_text": "The first bundle of wires is 400 meters. The first bundle uses 185 meters and then 205 meters. How many meters are left?",
+            "equation": "400-185-205",
+            "ans": "10.0"
+        },
+        {
+            "id": 341,
+            "uid": "da1fed11ef6311ea89643413e8a4c977",
+            "zh_text": "第一捆电线400米，第二捆比第一捆长120米，用去了312米之后，还剩多少米?",
+            "en_text": "The first bundle of wires is 400 meters, and the second bundle is 120 meters longer than the first bundle. After 312 meters are used, how many meters are left?",
+            "equation": "400+120-312",
+            "ans": "208.0"
+        },
+        {
+            "id": 342,
+            "uid": "da1fed12ef6311ea89643413e8a4c977",
+            "zh_text": "乐乐读一本328页的儿童小说，第一周读了85页，第二周读了97页，第三周读了103页，三周一共读了多少页?再读多少页能读完?",
+            "en_text": "Lele reads a 328-page children's novel. He read 85 pages in the first week, 97 pages in the second week, 103 pages in the third week, and how many pages did he read on Wednesday? How many more pages can I read? ?",
+            "equation": "328-(85+97+103)",
+            "ans": "43.0"
+        },
+        {
+            "id": 343,
+            "uid": "da1fed13ef6311ea89643413e8a4c977",
+            "zh_text": "种树每排30棵，共4排，一共有多少棵?",
+            "en_text": "Plant 30 trees in each row, 4 rows in total, how many trees are there in total?",
+            "equation": "30*4",
+            "ans": "120.0"
+        },
+        {
+            "id": 344,
+            "uid": "da1fed14ef6311ea89643413e8a4c977",
+            "zh_text": "小熊运300个玉米，小熊一次能运40个，大熊一次能运70个，大熊运5次，能运多少个?",
+            "en_text": "The little bear can transport 300 corn, the little bear can transport 40 at a time, the big bear can transport 70 at a time, and the big bear can transport 5 times.",
+            "equation": "300/40*70",
+            "ans": "525.0"
+        },
+        {
+            "id": 345,
+            "uid": "da1fed15ef6311ea89643413e8a4c977",
+            "zh_text": "小熊运300个玉米，小熊一次能运40个，大熊一次能运70个，小熊单独运7次，能运完吗?",
+            "en_text": "The bear can transport 300 corns, the bear can transport 40 at a time, the big bear can transport 70 at a time, and the bear can transport 7 times alone.",
+            "equation": "7",
+            "ans": "7.0"
+        },
+        {
+            "id": 346,
+            "uid": "da1fed16ef6311ea89643413e8a4c977",
+            "zh_text": "黑兔有50只，灰兔的只数正好是黑兔的4倍，白兔的只数是黑兔的9倍，灰兔有多少只?",
+            "en_text": "There are 50 black rabbits, the number of gray rabbits is exactly 4 times that of black rabbits, the number of white rabbits is 9 times that of black rabbits, how many gray rabbits are there?",
+            "equation": "50*4",
+            "ans": "200.0"
+        },
+        {
+            "id": 347,
+            "uid": "da1fed17ef6311ea89643413e8a4c977",
+            "zh_text": "黑兔有50只，灰兔的只数正好是黑兔的4倍，白兔的只数是黑兔的9倍，灰兔比白兔多多少只?",
+            "en_text": "There are 50 black rabbits, the number of gray rabbits is exactly 4 times that of black rabbits, and the number of white rabbits is 9 times that of black rabbits. How many more gray rabbits are there than white rabbits?",
+            "equation": "50*4-50*9",
+            "ans": "-250.0"
+        },
+        {
+            "id": 348,
+            "uid": "da1fed18ef6311ea89643413e8a4c977",
+            "zh_text": "黑兔有50只，灰兔的只数正好是黑兔的4倍，白兔的只数是黑兔的9倍，白兔有多少只?",
+            "en_text": "There are 50 black rabbits, the number of gray rabbits is exactly 4 times that of black rabbits, the number of white rabbits is 9 times that of black rabbits, how many white rabbits are there?",
+            "equation": "50*4*9",
+            "ans": "1800.0"
+        },
+        {
+            "id": 349,
+            "uid": "da1fed19ef6311ea89643413e8a4c977",
+            "zh_text": "黑兔有50只，灰兔的只数正好是黑兔的4倍，白兔的只数是黑兔的9倍，黑兔比白兔少多少只?",
+            "en_text": "There are 50 black rabbits, the number of gray rabbits is exactly 4 times that of black rabbits, and the number of white rabbits is 9 times that of black rabbits. How many black rabbits are fewer than white rabbits?",
+            "equation": "50*9-50",
+            "ans": "400.0"
+        },
+        {
+            "id": 350,
+            "uid": "da1fed1aef6311ea89643413e8a4c977",
+            "zh_text": "运100根木材，大象一次能运24根，小象一次能运20根，如果都由大象来运，4次能运完吗?",
+            "en_text": "For transporting 100 pieces of wood, elephants can transport 24 pieces at a time, and baby elephants can transport 20 pieces at a time. If they are all transported by elephants, can they be transported in 4 times?",
+            "equation": "4",
+            "ans": "4.0"
+        },
+        {
+            "id": 351,
+            "uid": "da1fed1bef6311ea89643413e8a4c977",
+            "zh_text": "运100根木材，大象一次能运24根，小象一次能运20根，大象先运2次，还剩多少根?",
+            "en_text": "For transporting 100 pieces of wood, the elephant can transport 24 pieces at a time, the baby elephant can transport 20 pieces at a time, and the elephant transports 2 times first. How many pieces are left?",
+            "equation": "100-24*2",
+            "ans": "52.0"
+        },
+        {
+            "id": 352,
+            "uid": "da1fed1cef6311ea89643413e8a4c977",
+            "zh_text": "黑鸽子有90只，共有6个鸽笼，白鸽子的只数是黑鸽子的4倍，白鸽子有多少只?",
+            "en_text": "There are 90 black pigeons and there are 6 pigeon cages. The number of white pigeons is 4 times that of black pigeons. How many white pigeons are there?",
+            "equation": "90*4",
+            "ans": "360.0"
+        },
+        {
+            "id": 353,
+            "uid": "da1fed1def6311ea89643413e8a4c977",
+            "zh_text": "兔妈妈采了三篮子蘑菇，第一篮子36个，第二篮子36个，第三篮子18个，兔妈妈一共采了多少个蘑菇?",
+            "en_text": "Mother Rabbit picked three baskets of mushrooms, 36 in the first basket, 36 in the second basket, and 18 in the third basket. How many mushrooms did Mother Rabbit pick in total?",
+            "equation": "36+36+18",
+            "ans": "90.0"
+        },
+        {
+            "id": 354,
+            "uid": "da1fed1eef6311ea89643413e8a4c977",
+            "zh_text": "兔妈妈采了三篮子蘑菇，第一篮子36个，第二篮子36个，第三篮子18个，平均分给4只小兔，还剩2个，平均每只小兔分到多少个蘑菇?",
+            "en_text": "Mother Rabbit picked three baskets of mushrooms, 36 in the first basket, 36 in the second basket, and 18 in the third basket. They were evenly distributed to 4 bunny rabbits, and there were 2 left. How many mushrooms did each bunny get?",
+            "equation": "(36+36+18)/4",
+            "ans": "22.5"
+        },
+        {
+            "id": 355,
+            "uid": "da1fed1fef6311ea89643413e8a4c977",
+            "zh_text": "孵出小鸽子要18天，孵出小天鹅的天数比小鸽子的2倍少1天，孵出小天鹅要多少天?",
+            "en_text": "It takes 18 days to hatch a baby pigeon, and the number of days to hatch a baby swan is 1 day less than twice that of a baby pigeon. How many days does it take to hatch a baby swan?",
+            "equation": "18*2-1",
+            "ans": "35.0"
+        },
+        {
+            "id": 356,
+            "uid": "da1fed20ef6311ea89643413e8a4c977",
+            "zh_text": "公鸡有120只，母鸡有243只，兔子有305只，兔子比鸡少多少只?",
+            "en_text": "There are 120 roosters, 243 hens, 305 rabbits, and how many rabbits are fewer than chickens?",
+            "equation": "120-(120+243)",
+            "ans": "-243.0"
+        },
+        {
+            "id": 357,
+            "uid": "da1fed21ef6311ea89643413e8a4c977",
+            "zh_text": "王奶奶有一块长方形菜地，长8米，宽6米，王奶奶想在菜地的四周围一圈篱笆，篱笆长多少米?",
+            "en_text": "Grandma Wang has a rectangular vegetable field, 8 meters long and 6 meters wide. Grandma Wang wants a fence around the vegetable field. How long is the fence?",
+            "equation": "(8+6)*2",
+            "ans": "28.0"
+        },
+        {
+            "id": 358,
+            "uid": "da1fed22ef6311ea89643413e8a4c977",
+            "zh_text": "一个长方形花坛，长24米，宽16米，在花坛的四周围一圈围栏，这圈围栏长多少米?",
+            "en_text": "A rectangular flowerbed is 24 meters long and 16 meters wide. There is a fence around the flowerbed. How many meters is the fence?",
+            "equation": "(24+16)*2",
+            "ans": "80.0"
+        },
+        {
+            "id": 359,
+            "uid": "da1fed23ef6311ea89643413e8a4c977",
+            "zh_text": "排球场的长是18米，宽是9米，沿着排球场的边线跑6圈，一共跑了多少米?",
+            "en_text": "The volleyball court is 18 meters long and 9 meters wide. After running 6 laps along the sideline of the volleyball court, how many meters did it run?",
+            "equation": "(18+9)*2*6",
+            "ans": "324.0"
+        },
+        {
+            "id": 360,
+            "uid": "da1fed24ef6311ea89643413e8a4c977",
+            "zh_text": "月季花种了342棵，菊花的棵数是月季花的2倍，菊花种了多少棵?两种花一共种了多少棵?",
+            "en_text": "There are 342 rose flowers, and the number of chrysanthemums is twice that of rose flowers. How many chrysanthemums are planted? How many are the two kinds of flowers?",
+            "equation": "342*2+342",
+            "ans": "1026.0"
+        },
+        {
+            "id": 361,
+            "uid": "da1fed25ef6311ea89643413e8a4c977",
+            "zh_text": "乐乐每天上学要骑4分钟，每分钟约行212米，乐乐家距离学校有多少米?",
+            "en_text": "Lele rides for 4 minutes to school every day, and travels about 212 meters per minute. How many meters is Lelejia from school?",
+            "equation": "212*4",
+            "ans": "848.0"
+        },
+        {
+            "id": 362,
+            "uid": "da1fed26ef6311ea89643413e8a4c977",
+            "zh_text": "球球每天上学要走9分钟，每分钟约走90米，球球家距离学校有多少米?",
+            "en_text": "The ball has to walk 9 minutes to school every day, about 90 meters per minute, how many meters is the ball from the school?",
+            "equation": "90*9",
+            "ans": "810.0"
+        },
+        {
+            "id": 363,
+            "uid": "da1fed27ef6311ea89643413e8a4c977",
+            "zh_text": "乐乐每天上学要骑4分钟，每分钟约行212米，球球每天上学要走9分钟，每分钟约走90米，乐乐和球球谁家离学校远?远多少米?",
+            "en_text": "Lele rides for 4 minutes to school every day, and walks about 212 meters per minute. The ball walks for 9 minutes to school every day, and walks about 90 meters per minute. Who is Lele and Qiuqi away from school? How far is it?",
+            "equation": "212*4-90*9",
+            "ans": "38.0"
+        },
+        {
+            "id": 364,
+            "uid": "da1fed28ef6311ea89643413e8a4c977",
+            "zh_text": "一共种了4行松树，每行22棵，已经浇完了49棵，还有多少棵松树没有浇?",
+            "en_text": "A total of 4 rows of pine trees were planted, with 22 trees in each row. 49 trees have been watered. How many pine trees have not been watered?",
+            "equation": "22*4-49",
+            "ans": "39.0"
+        },
+        {
+            "id": 365,
+            "uid": "da1fed29ef6311ea89643413e8a4c977",
+            "zh_text": "一共种了4行松树，每行22棵，杨树种了3行，每行32棵，哪种树多?多多少棵?",
+            "en_text": "A total of 4 rows of pine trees were planted with 22 trees in each row, and 3 rows of poplar trees were planted with 32 trees in each row. Which kind of tree is more? How many more?",
+            "equation": "32*3-22*4",
+            "ans": "8.0"
+        },
+        {
+            "id": 366,
+            "uid": "da1fed2aef6311ea89643413e8a4c977",
+            "zh_text": "养殖场有4个鸡舍，每个鸡舍有122只鸡，养殖场有多少只鸡?",
+            "en_text": "The farm has 4 chicken coops, each with 122 chickens, how many chickens are there in the farm?",
+            "equation": "122*4",
+            "ans": "488.0"
+        },
+        {
+            "id": 367,
+            "uid": "da1fed2bef6311ea89643413e8a4c977",
+            "zh_text": "养殖场有鹅100只，鸡和鹅一共732只，养殖场有多少只鸡?",
+            "en_text": "There are 100 geese in the farm, and there are 732 chickens and geese. How many chickens are there in the farm?",
+            "equation": "732-100",
+            "ans": "632.0"
+        },
+        {
+            "id": 368,
+            "uid": "da1fed2cef6311ea89643413e8a4c977",
+            "zh_text": "养殖场有100只鹅，鸡的只数是鹅的5倍还少12只，养殖场有多少只鸡?",
+            "en_text": "There are 100 geese in the farm, and the number of chickens is 5 times that of the geese, but there are 12 fewer. How many chickens are there in the farm?",
+            "equation": "100*5-12",
+            "ans": "488.0"
+        },
+        {
+            "id": 369,
+            "uid": "da201434ef6311ea896e3413e8a4c977",
+            "zh_text": "养殖场有244只鸭，鸡的只数是鸭的2倍，养殖场有多少只鸡?",
+            "en_text": "There are 244 ducks in the farm, and the number of chickens is twice that of ducks. How many chickens are there in the farm?",
+            "equation": "244*2",
+            "ans": "488.0"
+        },
+        {
+            "id": 370,
+            "uid": "da201435ef6311ea896e3413e8a4c977",
+            "zh_text": "乐乐今年13岁，奶奶的年龄比乐乐的4倍还多8岁，爷爷的年龄是乐乐的5倍，奶奶今年多少岁?爷爷比奶奶大几岁?",
+            "en_text": "Lele is 13 years old this year. Grandma's age is 4 times and 8 years older than Lele's. Grandpa's age is 5 times that of Lele. How old is grandma this year? How old is grandpa than grandma?",
+            "equation": "13*5-(13*4+8)",
+            "ans": "5.0"
+        },
+        {
+            "id": 371,
+            "uid": "da201436ef6311ea896e3413e8a4c977",
+            "zh_text": "做一只毽子需要6根羽毛，我们组有15名同学，每人做一只毽子，一共需要多少根羽毛?",
+            "en_text": "It takes 6 feathers to make a shuttlecock. There are 15 students in our group, and each one makes a shuttlecock. How many feathers are needed in total?",
+            "equation": "6*15",
+            "ans": "90.0"
+        },
+        {
+            "id": 372,
+            "uid": "da201437ef6311ea896e3413e8a4c977",
+            "zh_text": "杨树有5排，每排16棵，松树的棵数比杨树多30棵，松树有多少棵?",
+            "en_text": "There are 5 rows of poplars, 16 in each row. There are 30 more pine trees than poplars. How many pine trees are there?",
+            "equation": "5*16+30",
+            "ans": "110.0"
+        },
+        {
+            "id": 373,
+            "uid": "da201438ef6311ea896e3413e8a4c977",
+            "zh_text": "杨树有5排，每排16棵，松树的棵数比杨树多30棵，杨树和松树一共多少棵?",
+            "en_text": "There are 5 rows of poplars, 16 in each row. There are 30 more pine trees than poplars. How many poplars and pine trees are there in total?",
+            "equation": "16*5+30+16*5",
+            "ans": "190.0"
+        },
+        {
+            "id": 374,
+            "uid": "da201439ef6311ea896e3413e8a4c977",
+            "zh_text": "杨树有5排，每排16棵，松树的棵数比杨树多30棵，杨树有多少棵?",
+            "en_text": "There are 5 rows of poplars, 16 in each row. There are 30 more pine trees than poplars. How many poplars are there?",
+            "equation": "16*5-30",
+            "ans": "50.0"
+        },
+        {
+            "id": 375,
+            "uid": "da20143aef6311ea896e3413e8a4c977",
+            "zh_text": "一节火车车厢可装煤62吨，现在要运250吨煤，4节火车车厢够不够?",
+            "en_text": "One train carriage can hold 62 tons of coal. Now we have to transport 250 tons of coal. Is 4 train carriages enough?",
+            "equation": "250",
+            "ans": "250.0"
+        },
+        {
+            "id": 376,
+            "uid": "da20143bef6311ea896e3413e8a4c977",
+            "zh_text": "西岭小学三年级有3个班，每班有学生36人，三年级一共有学生多少人?",
+            "en_text": "There are 3 classes in the third grade of Xiling Primary School, each with 36 students. How many students are there in the third grade?",
+            "equation": "36*3",
+            "ans": "108.0"
+        },
+        {
+            "id": 377,
+            "uid": "da20143cef6311ea896e3413e8a4c977",
+            "zh_text": "我国发射的第一颗人造地球卫星绕地球一圈的时间是114分，绕地球9圈需要多长时间?",
+            "en_text": "The first artificial earth satellite launched by my country took 114 minutes to orbit the earth. How long does it take to orbit the earth 9 times?",
+            "equation": "114*9",
+            "ans": "1026.0"
+        },
+        {
+            "id": 378,
+            "uid": "da20143def6311ea896e3413e8a4c977",
+            "zh_text": "这条路长800米，我们已经修了5天，工人叔叔每天修75米，这条路还有多少米没修?",
+            "en_text": "This road is 800 meters long. We have been repairing it for 5 days, and the worker uncle repairs 75 meters every day. How many meters are left on this road?",
+            "equation": "800-75*5",
+            "ans": "425.0"
+        },
+        {
+            "id": 379,
+            "uid": "da20143eef6311ea896e3413e8a4c977",
+            "zh_text": "乐乐5分钟打了300个字，球球平均每分钟比乐乐多打4个字，乐乐平均每分钟打了多少个字?",
+            "en_text": "Lele typed 300 words in 5 minutes. The ball hits 4 more words per minute than Lele. How many words does Lele type per minute?",
+            "equation": "300/5-4",
+            "ans": "56.0"
+        },
+        {
+            "id": 380,
+            "uid": "da20143fef6311ea896e3413e8a4c977",
+            "zh_text": "乐乐5分钟打了300个字，球球平均每分钟比乐乐多打4个字，球球5分钟打了多少个字?",
+            "en_text": "Lele hits 300 words in 5 minutes. The ball hits 4 more words per minute than Lele. How many words does the ball hit in 5 minutes?",
+            "equation": "(300/5+4)*5",
+            "ans": "320.0"
+        },
+        {
+            "id": 381,
+            "uid": "da201440ef6311ea896e3413e8a4c977",
+            "zh_text": "乐乐读一本小说，每天读105页，3天后还剩28页，这本小说一共有多少页?",
+            "en_text": "Lele reads a novel, 105 pages a day, and 28 pages are left after 3 days. How many pages does this novel have?",
+            "equation": "105*3+28",
+            "ans": "343.0"
+        },
+        {
+            "id": 382,
+            "uid": "da201441ef6311ea896e3413e8a4c977",
+            "zh_text": "上衣58元，裤子45元，买5套衣服需要多少元?",
+            "en_text": "Tops 58 yuan, pants 45 yuan, how much does it cost to buy 5 sets of clothes?",
+            "equation": "(58+45)*5",
+            "ans": "515.0"
+        },
+        {
+            "id": 383,
+            "uid": "da201442ef6311ea896e3413e8a4c977",
+            "zh_text": "一副羽毛球拍的价钱是一副乒乓球拍的3倍，乒乓球每副56元，买4副羽毛球拍一共要多少元?",
+            "en_text": "The price of a pair of badminton rackets is three times that of a pair of table tennis rackets. Each pair of table tennis rackets costs 56 yuan. How much does it cost to buy 4 pairs of badminton rackets?",
+            "equation": "56*3*4",
+            "ans": "672.0"
+        },
+        {
+            "id": 384,
+            "uid": "da201443ef6311ea896e3413e8a4c977",
+            "zh_text": "每本相册32页，如果每页放4张照片，2本这样的相册能放多少张照片?",
+            "en_text": "Each album has 32 pages. If there are 4 photos per page, how many photos can be put in 2 such albums?",
+            "equation": "32*4*2",
+            "ans": "256.0"
+        },
+        {
+            "id": 385,
+            "uid": "da201444ef6311ea896e3413e8a4c977",
+            "zh_text": "体育老师买来5箱乒乓球，每箱有6筒，每筒有12个，一共买来多少个乒乓球?",
+            "en_text": "The physical education teacher bought 5 boxes of table tennis, each box has 6 tubes, each tube has 12, how many table tennis balls in total?",
+            "equation": "5*6*12",
+            "ans": "360.0"
+        },
+        {
+            "id": 386,
+            "uid": "da201445ef6311ea896e3413e8a4c977",
+            "zh_text": "一辆长途汽车上午10:00从林城出发，途经青山镇，开往长河镇，汽车平均每小时约行驶85千米，中午12:00，汽车到达青山镇，林城到青山镇有多少千米?",
+            "en_text": "A long-distance bus departs from Lincheng at 10:00 a.m., passes through Qingshan Town, and goes to Changhe Town. The car travels about 85 kilometers per hour on average. At 12:00 noon, the bus arrives at Qingshan Town. Meter?",
+            "equation": "85*(12-10)",
+            "ans": "170.0"
+        },
+        {
+            "id": 387,
+            "uid": "da201446ef6311ea896e3413e8a4c977",
+            "zh_text": "一辆长途汽车上午10:00从林城出发，途经青山镇，开往长河镇，汽车平均每小时约行驶85千米，中午12:00，汽车到达青山镇，汽车从青山镇到长河镇还需要行驶3小时，林城到长河镇有多少千米?",
+            "en_text": "A long-distance bus departs from Lincheng at 10:00 in the morning, passing through Qingshan Town, and heading to Changhe Town. The car travels about 85 kilometers per hour on average. At 12:00 noon, the bus arrives at Qingshan Town. The bus returns from Qingshan Town to Changhe Town. It takes 3 hours to drive. How many kilometers is it from Lincheng to Changhe Town?",
+            "equation": "85*(12-10)",
+            "ans": "170.0"
+        },
+        {
+            "id": 388,
+            "uid": "da201447ef6311ea896e3413e8a4c977",
+            "zh_text": "糖每袋4.3元，大米每袋55.6元，买1袋糖和1袋大米一共需要多少元?",
+            "en_text": "Sugar is 4.3 yuan per bag and rice is 55.6 yuan per bag. How much does it cost to buy 1 bag of sugar and 1 bag of rice?",
+            "equation": "4.3+55.6",
+            "ans": "59.9"
+        },
+        {
+            "id": 389,
+            "uid": "da201448ef6311ea896e3413e8a4c977",
+            "zh_text": "糖每袋4.3元，大米每袋55.6元，1袋大米比1袋糖贵多少元?",
+            "en_text": "Sugar is 4.3 yuan per bag, and rice is 55.6 yuan per bag. How much is 1 bag of rice more expensive than 1 bag of sugar?",
+            "equation": "55.6-4.3",
+            "ans": "51.3"
+        },
+        {
+            "id": 390,
+            "uid": "da201449ef6311ea896e3413e8a4c977",
+            "zh_text": "乐乐家距体育馆1500米，她骑自行车平均每分钟约行220米，7分钟能到体育馆吗?",
+            "en_text": "Lelejia is 1,500 meters away from the gymnasium. She rides a bike about 220 meters per minute on average. Can she get to the gym in 7 minutes?",
+            "equation": "7",
+            "ans": "7.0"
+        },
+        {
+            "id": 391,
+            "uid": "da20144aef6311ea896e3413e8a4c977",
+            "zh_text": "三(1)班有男生19人，有女生25人，每4人分一小组做实验，全班共分成多少个小组?",
+            "en_text": "Class 3 (1) has 19 boys and 25 girls. Every 4 students are divided into groups for experiment. How many groups are the whole class divided into?",
+            "equation": "(19+25)/4",
+            "ans": "11.0"
+        },
+        {
+            "id": 392,
+            "uid": "da20144bef6311ea896e3413e8a4c977",
+            "zh_text": "春天幼儿园大、中、小班各有2个班，每班有24个小朋友，一共有多少个小朋友?",
+            "en_text": "In spring kindergarten, there are 2 classes each for large, middle and small classes. Each class has 24 children. How many children are there in total?",
+            "equation": "24*2*3",
+            "ans": "144.0"
+        },
+        {
+            "id": 393,
+            "uid": "da20144cef6311ea896e3413e8a4c977",
+            "zh_text": "幼儿园张阿姨有50元，每个西瓜9元，最多能买多少个西瓜?还剩多少元?",
+            "en_text": "Kindergarten Auntie Zhang has 50 yuan, 9 yuan per watermelon, how many watermelons can I buy at most? How much is left?",
+            "equation": "50-9",
+            "ans": "41.0"
+        },
+        {
+            "id": 394,
+            "uid": "da20144def6311ea896e3413e8a4c977",
+            "zh_text": "有27棵树苗，老山羊一次能运5棵，小山羊一次能运4棵，如果都由老山羊来运，至少要运多少次?",
+            "en_text": "There are 27 saplings. Old goats can transport 5 at a time, and baby goats can transport 4 at a time. If they are all transported by old goats, how many times should they be transported at least?",
+            "equation": "27/(5+4)",
+            "ans": "3.0"
+        },
+        {
+            "id": 395,
+            "uid": "da20144eef6311ea896e3413e8a4c977",
+            "zh_text": "有27棵树苗，老山羊一次能运5棵，小山羊一次能运4棵，如果都由小山羊来运，至少要运多少次?",
+            "en_text": "There are 27 saplings. Old goats can transport 5 at a time, and baby goats can transport 4 at a time. If they are all shipped by old goats, if they are all shipped by young goats, how many times should they be shipped at least?",
+            "equation": "27/(5+4)",
+            "ans": "3.0"
+        },
+        {
+            "id": 396,
+            "uid": "da20144fef6311ea896e3413e8a4c977",
+            "zh_text": "原有83枝玫瑰卖了45枝，还剩多少枝玫瑰?",
+            "en_text": "The original 83 roses were sold for 45. How many roses are left?",
+            "equation": "83-45",
+            "ans": "38.0"
+        },
+        {
+            "id": 397,
+            "uid": "da201450ef6311ea896e3413e8a4c977",
+            "zh_text": "原有83枝玫瑰卖了45枝，如果每8枝扎成一束花，剩下的能扎成几束花?还剩几枝?",
+            "en_text": "The original 83 roses were sold for 45 stems. If every 8 stems are tied into a bunch of flowers, how many bunches of flowers can be left? How many branches are left?",
+            "equation": "(83-45)/8",
+            "ans": "4.75"
+        },
+        {
+            "id": 398,
+            "uid": "da201451ef6311ea896e3413e8a4c977",
+            "zh_text": "动物园到剧院1000米，小熊已经走了150米，还要再走多少米到剧院?",
+            "en_text": "1000 meters from the zoo to the theater, the bear has already walked 150 meters, how many meters to walk to the theater?",
+            "equation": "1000-150",
+            "ans": "850.0"
+        },
+        {
+            "id": 399,
+            "uid": "da201452ef6311ea896e3413e8a4c977",
+            "zh_text": "动物园到剧院1000米，小猴已经走了478米，还要再走多少米到剧院?",
+            "en_text": "1000 meters from the zoo to the theater, the little monkey has walked 478 meters, how many more meters to walk to the theater?",
+            "equation": "1000-478",
+            "ans": "522.0"
+        },
+        {
+            "id": 400,
+            "uid": "da201453ef6311ea896e3413e8a4c977",
+            "zh_text": "动物园到剧院1000米，小兔还差125米就到了，它已经走了多少米?",
+            "en_text": "1000 meters from the zoo to the theater, the little rabbit is only 125 meters away, how many meters has it walked?",
+            "equation": "1000-125",
+            "ans": "875.0"
+        },
+        {
+            "id": 401,
+            "uid": "da203b3aef6311ea89783413e8a4c977",
+            "zh_text": "出生时每分钟脉搏跳140次，现在每分钟脉搏跳75次，现在每分钟脉搏比刚出生时少跳多少次?",
+            "en_text": "The pulse beats 140 times per minute at birth, and now the pulse beats 75 times per minute. How many fewer pulses per minute are now than when you were born?",
+            "equation": "140-75",
+            "ans": "65.0"
+        },
+        {
+            "id": 402,
+            "uid": "da203b3bef6311ea89783413e8a4c977",
+            "zh_text": "这星期前3天我看了78页，后4天我看了余下的125页，这本书一共有多少页?",
+            "en_text": "I read 78 pages in the first 3 days of this week, and I read the remaining 125 pages in the next 4 days. How many pages are there in this book?",
+            "equation": "125+78",
+            "ans": "203.0"
+        },
+        {
+            "id": 403,
+            "uid": "da203b3cef6311ea89783413e8a4c977",
+            "zh_text": "星期一和星期二两天我看到第118页，星期三我看到第196页，星期三我看了多少页?",
+            "en_text": "I see page 118 on Monday and Tuesday, page 196 on Wednesday, and how many pages do I see on Wednesday?",
+            "equation": "196-118+118",
+            "ans": "196.0"
+        },
+        {
+            "id": 404,
+            "uid": "da203b3def6311ea89783413e8a4c977",
+            "zh_text": "我每分钟能写4个字，要写29个“福”字，至少需要几分钟?",
+            "en_text": "I can write 4 characters per minute. To write 29 blessing characters, at least a few minutes?",
+            "equation": "29/4",
+            "ans": "7.25"
+        },
+        {
+            "id": 405,
+            "uid": "da203b3eef6311ea89783413e8a4c977",
+            "zh_text": "运243个西瓜，已经运走了183个，还剩多少个西瓜?如果剩下的西瓜每车能运7个，需要运几车?",
+            "en_text": "Transported 243 watermelons, 183 have been transported, how many watermelons are left? If the remaining watermelons can be transported 7 per car, how many cars need to be transported?",
+            "equation": "(243-183)/7",
+            "ans": "8.571428571428571"
+        },
+        {
+            "id": 406,
+            "uid": "da203b3fef6311ea89783413e8a4c977",
+            "zh_text": "一共要做80颗幸运星，小明做了21颗，小红做了28颗，他们还要再做多少颗?",
+            "en_text": "A total of 80 lucky stars will be made, Xiao Ming made 21, Xiao Hong made 28, how many more do they have to make?",
+            "equation": "80-21-28",
+            "ans": "31.0"
+        },
+        {
+            "id": 407,
+            "uid": "da203b40ef6311ea89783413e8a4c977",
+            "zh_text": "停车场原有42辆，来了9辆，走了15辆，停车场现在有多少辆车?",
+            "en_text": "There were 42 cars in the parking lot, 9 cars came, 15 cars left, how many cars are there now in the parking lot?",
+            "equation": "42+9-15",
+            "ans": "36.0"
+        },
+        {
+            "id": 408,
+            "uid": "da203b41ef6311ea89783413e8a4c977",
+            "zh_text": "停车场原有42辆，来了9辆，走了15辆，停车场共有80个车位，又来了37辆车，能停下吗?",
+            "en_text": "There were 42 cars in the parking lot, 9 cars came, 15 cars left, the parking lot has 80 parking spaces, and 37 cars came again. Can you stop?",
+            "equation": "42+9-15+37",
+            "ans": "73.0"
+        },
+        {
+            "id": 409,
+            "uid": "da203b42ef6311ea89783413e8a4c977",
+            "zh_text": "乐乐有27张邮票，亮亮比乐乐少5张，球球比亮亮多15张，球球有多少张邮票?",
+            "en_text": "Lele has 27 stamps. Liangliang is 5 less than Lele, and the ball is 15 more than Liang. How many stamps does the ball have?",
+            "equation": "27-5+15",
+            "ans": "37.0"
+        },
+        {
+            "id": 410,
+            "uid": "da203b43ef6311ea89783413e8a4c977",
+            "zh_text": "筐里篮球35个，借出18个，还回12个，现在筐里有多少个球?",
+            "en_text": "There are 35 basketballs in the basket, 18 are loaned out, and 12 are returned. How many balls are in the basket now?",
+            "equation": "35-18+12",
+            "ans": "29.0"
+        },
+        {
+            "id": 411,
+            "uid": "da203b44ef6311ea89783413e8a4c977",
+            "zh_text": "三年级二班男同学有19人，女同学有21人，这学期又转来3人，这个班现在共有多少人?",
+            "en_text": "There are 19 male students and 21 female students in the second grade of the third grade. Three more students are transferred this semester. How many people are there in this class now?",
+            "equation": "19+21+3",
+            "ans": "43.0"
+        },
+        {
+            "id": 412,
+            "uid": "da203b45ef6311ea89783413e8a4c977",
+            "zh_text": "原来有42张光盘，我又放了13张，还能再放5张，架子上一共可以放多少张?",
+            "en_text": "It turned out that there were 42 CDs. I have put 13 more, and I can put 5 more. How many can I put on the shelf?",
+            "equation": "42+13+5",
+            "ans": "60.0"
+        },
+        {
+            "id": 413,
+            "uid": "da203b46ef6311ea89783413e8a4c977",
+            "zh_text": "小班有14人，大班有18人，40个笔记本每人分1个，还剩多少个?",
+            "en_text": "There are 14 people in the small class and 18 people in the big class. There are 40 notebooks for each of them. How many are left?",
+            "equation": "40-(14+18)",
+            "ans": "8.0"
+        },
+        {
+            "id": 414,
+            "uid": "da203b47ef6311ea89783413e8a4c977",
+            "zh_text": "一组17人，二组15人，三组18人，每人一面小旗，一共需要做多少面小旗?",
+            "en_text": "A group of 17 people, a second group of 15 people, and a third group of 18 people, each with a small flag.How many small flags do you need to make?",
+            "equation": "17+15+18",
+            "ans": "50.0"
+        },
+        {
+            "id": 415,
+            "uid": "da203b48ef6311ea89783413e8a4c977",
+            "zh_text": "第一捆绳子20米，做大绳用去14米，第一捆绳子还剩多少米?",
+            "en_text": "The first bundle of rope is 20 meters, and it takes 14 meters to make the big rope. How many meters are left in the first bundle?",
+            "equation": "20-14",
+            "ans": "6.0"
+        },
+        {
+            "id": 416,
+            "uid": "da203b49ef6311ea89783413e8a4c977",
+            "zh_text": "第二捆绳子20米，做6根小绳，每根2米，第二捆绳子用去了多少米?",
+            "en_text": "The second bundle of rope is 20 meters, and 6 small ropes are made, each of which is 2 meters. How many meters does the second bundle of rope use?",
+            "equation": "20-6*2",
+            "ans": "8.0"
+        },
+        {
+            "id": 417,
+            "uid": "da203b4aef6311ea89783413e8a4c977",
+            "zh_text": "这本书一共有90页，我已经看了26页，还剩多少页没看完?",
+            "en_text": "There are 90 pages in this book. I have read 26 pages. How many pages are left?",
+            "equation": "90-26",
+            "ans": "64.0"
+        },
+        {
+            "id": 418,
+            "uid": "da203b4bef6311ea89783413e8a4c977",
+            "zh_text": "大兔子拔了8个萝卜，小兔子拔了7个萝卜，一共拔了多少个?",
+            "en_text": "The big rabbit plucked 8 radishes and the little rabbit plucked 7 radishes.",
+            "equation": "8+7",
+            "ans": "15.0"
+        },
+        {
+            "id": 419,
+            "uid": "da203b4cef6311ea89783413e8a4c977",
+            "zh_text": "大兔子拔了8个萝卜，小兔子拔了7个萝卜，运走了6个，还剩多少个?",
+            "en_text": "The big rabbit drew 8 radishes, the little rabbit drew 7 radishes, and transported 6 radishes. How many are left?",
+            "equation": "8+7-6",
+            "ans": "9.0"
+        },
+        {
+            "id": 420,
+            "uid": "da203b4def6311ea89783413e8a4c977",
+            "zh_text": "给树浇水，已经浇了22棵，还有34棵没浇，一共有多少棵树需要浇水?",
+            "en_text": "Watering the trees, 22 trees have been watered, and 34 trees have not been watered. How many trees need to be watered in total?",
+            "equation": "22+34",
+            "ans": "56.0"
+        },
+        {
+            "id": 421,
+            "uid": "da203b4eef6311ea89783413e8a4c977",
+            "zh_text": "三(1)班搬桌子，已经搬了23张，还有12张没搬，三(1)班一共要搬多少张桌子?",
+            "en_text": "Class 3 (1) moved the table, 23 tables have been moved, and 12 have not moved. How many tables do I need to move in class 3 (1)?",
+            "equation": "12+23",
+            "ans": "35.0"
+        },
+        {
+            "id": 422,
+            "uid": "da203b4fef6311ea89783413e8a4c977",
+            "zh_text": "三(2)班一共要搬37张，还有10张没搬，三(2)班已经搬了多少张桌子?",
+            "en_text": "Class 3 (2) has to move a total of 37 tables, and there are still 10 tables left. How many tables have been moved in Class 3 (2)?",
+            "equation": "37+10",
+            "ans": "47.0"
+        },
+        {
+            "id": 423,
+            "uid": "da203b50ef6311ea89783413e8a4c977",
+            "zh_text": "明天是奶奶58岁生日，我要折58颗幸运星送给她，乐乐已经折了22个幸运星，乐乐还要折多少颗幸运星?",
+            "en_text": "Tomorrow is my grandma's 58th birthday. I want to give her 58 lucky stars. Lele has already discounted 22 lucky stars. How many lucky stars does Lele have to discount?",
+            "equation": "58-22",
+            "ans": "36.0"
+        },
+        {
+            "id": 424,
+            "uid": "da203b51ef6311ea89783413e8a4c977",
+            "zh_text": "灰兔有26只，黑兔比灰兔少3只，白兔比灰兔多10只，白兔有多少只?黑兔有多少只?",
+            "en_text": "There are 26 gray rabbits, black rabbits are 3 fewer than gray rabbits, and white rabbits are 10 more than gray rabbits. How many white rabbits are there? How many black rabbits are there?",
+            "equation": "26-3+10",
+            "ans": "33.0"
+        },
+        {
+            "id": 425,
+            "uid": "da203b52ef6311ea89783413e8a4c977",
+            "zh_text": "蝴蝶花有36盆，月季花比蝴蝶花少6盆，月季花有多少盆?两种花一共有多少盆?",
+            "en_text": "There are 36 pots of iris, and 6 fewer pots of rose flowers than iris. How many pots are there? How many pots are there in the two kinds of flowers?",
+            "equation": "36-6+36",
+            "ans": "66.0"
+        },
+        {
+            "id": 426,
+            "uid": "da203b53ef6311ea89783413e8a4c977",
+            "zh_text": "我们班有男生22人，男生比女生多3人，女生有多少人?",
+            "en_text": "There are 22 boys in our class, and there are 3 more boys than girls. How many girls are there?",
+            "equation": "22-3",
+            "ans": "19.0"
+        },
+        {
+            "id": 427,
+            "uid": "da203b54ef6311ea89783413e8a4c977",
+            "zh_text": "班共有40名学生，如果每人一套桌椅，已经搬了8张桌子，已经搬6把椅子，还要再搬多少张桌子和多少把椅子?",
+            "en_text": "There are a total of 40 students in the class. If each set of tables and chairs has moved 8 tables and 6 chairs, how many more tables and chairs are needed?",
+            "equation": "40*8-6",
+            "ans": "314.0"
+        },
+        {
+            "id": 428,
+            "uid": "da203b55ef6311ea89783413e8a4c977",
+            "zh_text": "丁丁和冬冬看同一本书，冬冬看了36页，还有44页没看，丁丁比冬冬少看了7页，丁丁看了多少页?",
+            "en_text": "Ding Ding and Dongdong read the same book. Dongdong read 36 pages, and there are 44 pages left. Ding Ding read 7 pages less than Dongdong. How many pages did Ding Ding read?",
+            "equation": "36+44-7",
+            "ans": "73.0"
+        },
+        {
+            "id": 429,
+            "uid": "da203b56ef6311ea89783413e8a4c977",
+            "zh_text": "丁丁和冬冬看同一本书，冬冬看了36页，还有44页没看，丁丁比冬冬少看了7页，这本书一共有多少页?",
+            "en_text": "Ding Ding and Dongdong read the same book. Dongdong read 36 pages, and there are 44 pages left. Ding Ding read 7 pages less than Dongdong. How many pages does this book have?",
+            "equation": "36+44-7+36",
+            "ans": "109.0"
+        },
+        {
+            "id": 430,
+            "uid": "da203b57ef6311ea89783413e8a4c977",
+            "zh_text": "丁丁和冬冬看同一本书，冬冬看了36页，还有44页没看，丁丁比冬冬少看了7页，丁丁还有多少页没看?",
+            "en_text": "Ding Ding and Dongdong read the same book. Dongdong read 36 pages, and there are 44 pages left. Ding Ding read 7 pages less than Dongdong. How many pages does Ding Ding have not read?",
+            "equation": "36+44-7",
+            "ans": "73.0"
+        },
+        {
+            "id": 431,
+            "uid": "da203b58ef6311ea89783413e8a4c977",
+            "zh_text": "1长跑队有31人，其中男队员有17人，女队员有多少人?",
+            "en_text": "1 The long-distance running team has 31 people, of which 17 are male players and how many are female players?",
+            "equation": "31-17",
+            "ans": "14.0"
+        },
+        {
+            "id": 432,
+            "uid": "da203b59ef6311ea89783413e8a4c977",
+            "zh_text": "足球队有23名队员，乒乓球队比足球队多7人，乒乒球队有多少人?",
+            "en_text": "The football team has 23 players, the table tennis team has 7 more people than the football team, how many people are there in the table tennis team?",
+            "equation": "23+7",
+            "ans": "30.0"
+        },
+        {
+            "id": 433,
+            "uid": "da203b5aef6311ea89783413e8a4c977",
+            "zh_text": "合唱队有45名队员，舞蹈队有28名队员，舞蹈队比合唱队少几人?",
+            "en_text": "The choir team has 45 members, and the dance team has 28 members. How many people are fewer than the chorus team?",
+            "equation": "45-28",
+            "ans": "17.0"
+        },
+        {
+            "id": 434,
+            "uid": "da20621cef6311ea89823413e8a4c977",
+            "zh_text": "篮球队原有15人，又新1加入了9人，篮球队现在有多少人?",
+            "en_text": "The original basketball team was 15 people, and a new one added 9 people. How many people are there now?",
+            "equation": "15+1-9",
+            "ans": "7.0"
+        },
+        {
+            "id": 435,
+            "uid": "da20621def6311ea89823413e8a4c977",
+            "zh_text": "小明的前面有3个人，后面有5个人，这条队伍一共有多少人?",
+            "en_text": "There are 3 people in front of Xiao Ming and 5 people in the back. How many people are there in this team?",
+            "equation": "3+5+1",
+            "ans": "9.0"
+        },
+        {
+            "id": 436,
+            "uid": "da20621eef6311ea89823413e8a4c977",
+            "zh_text": "停车场原来有7辆，又开来8辆，现在停车场上有多少辆汽车?",
+            "en_text": "There were 7 cars in the parking lot, and 8 cars came. How many cars are there now?",
+            "equation": "7+8",
+            "ans": "15.0"
+        }
+    ]
+}
